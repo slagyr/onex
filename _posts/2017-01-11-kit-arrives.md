@@ -11,8 +11,8 @@ So many pieces and parts; hundreds, thousands if you count individual rivets. I 
  
 Now... the only part I couldn't find is the instructions.  I feel like those are important.  I'll have to call Sonex tomorrow and ask about those.
 
-![Garage full of boxes](/img/2017-01-11/1.jpg)
-![Box #1 unloaded](/img/2017-01-11/2.jpg)
-![Fiberglass parts](/img/2017-01-11/3.jpg)
-![Rivets](/img/2017-01-11/4.jpg)
-![Engine parts](/img/2017-01-11/5.jpg)
+![Garage full of boxes](/onex/img/2017-01-11/1.jpg)
+![Box #1 unloaded](/onex/img/2017-01-11/2.jpg)
+![Fiberglass parts](/onex/img/2017-01-11/3.jpg)
+![Rivets](/onex/img/2017-01-11/4.jpg)
+![Engine parts](/onex/img/2017-01-11/5.jpg)

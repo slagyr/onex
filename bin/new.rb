@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby -w
 
 puts "What's the title?"
-title = gets
+title = gets.strip
 
 slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
 date_str = Time.now.strftime("%Y-%m-%d")
