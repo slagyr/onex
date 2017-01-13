@@ -21,5 +21,5 @@ I see a ton of potential in the aviation industry, particularly GA (general avia
 dragging it down.  Cost of operation is perhaps the biggest ball and chain holding GA back.  Solution: electric planes.
 Far fetched probably, but the fisrt step is learning how planes are made.
    
-![The Sonex Onex](/img/Onex.jpg)
+![The Sonex Onex](/onex/img/Onex.jpg)
  
