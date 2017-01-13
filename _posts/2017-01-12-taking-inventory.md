@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Taking Inventory"
-date:   2017-01-13 
+date:   2017-01-12 
 categories: onex
 ---
 
