@@ -176,6 +176,18 @@
 
   > li {
     margin-bottom: $spacing-unit;
+    border-top: 1px dotted gray;
+    min-height: 150px;
+    clear: both;
+
+    > img {
+      float: right;
+      max-width: 200px;
+      max-height: 150px;
+      padding-bottom: 5px;
+      clear: both;
+      margin: 5px;
+    }
   }
 }
 
