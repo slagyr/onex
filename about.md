@@ -4,12 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Why write this blog?
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+#### 1)  The FAA
+To qualify for an amateur-build certificate, the Federal Aviation Administration requires that the 
+"major portion" (>= 51%) of tasks required to build the airplane are complated by amateurs (me).
+[More details](https://www.eaa.org/en/eaa/aviation-communities-and-interests/homebuilt-aircraft-and-homebuilt-aircraft-kits/how-to-build-an-airplane/the-51-percent-rule-on-amateur-built-homebuilt-airplanes)
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+#### 2)  Be a Better Pilot
+In training to become a pilot, one must learn a good deal about how planes work.  But, the inner workings of 
+airplanes is a recurring theme encountered by pilots.  Whether it be regular maintenance, or mechanical problems.
+I feel the need for more depth.  What better way then to learn about how planes work than to build one.
+
+#### 3)  Build a Better Plane
+I see a ton of potential in the aviation industry, particularly GA (general aviation).  I also see a lot of weight 
+dragging it down.  Cost of operation is perhaps the biggest ball and chain holding GA back.  Solution: electric planes.
+Far fetched probably, but the fisrt step is learning how planes are made.
+   
+![The Sonex Onex](/img/Onex.jpg)
+ 
