@@ -3,6 +3,7 @@ layout: post
 title:  "Break Down and Ramp Up"
 date:   2017-01-13 
 categories: onex
+hours: 0.0
 ---
 
 Sonex straightened out most of the missing and extra parts I cataloged yesterday.  With all the parts accounted for, I broke down the boxes, chopped up the crate for firewood, and packed all the recyclebles in a box. Not as small a task as you might think.  

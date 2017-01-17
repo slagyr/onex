@@ -3,6 +3,7 @@ layout: post
 title:  "Taking Inventory"
 date:   2017-01-12 
 categories: onex
+hours: 5.0
 ---
 
 The OneX is a "tail dragger".  Most GA airplanes these days have a tricycle gear configuration where there's a wheel under the nosea along with gears on each wing.  Tail dragers have the third wheel on the tail instead of the nose.  It's old-school.  And the FAA says pilots need and endorsement to fly tail draggers.  Since this OneX I'm building is a single seater, I'll have to get my endorsement in a different plane.  So I took my first lesson toward that endeavor this morning with Chandler Air Service in a Super Cub. 

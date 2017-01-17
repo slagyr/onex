@@ -3,6 +3,7 @@ layout: post
 title:  "Kit Arrives!"
 date:   2017-01-11 
 categories: onex
+hours: 3.0
 ---
 
 Roughly 800 lbs divided into 8 boxes arrives in a big truck.  No forklift or liftgate so I got to move it all off the truck and into the garage.  *grunt*

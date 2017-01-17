@@ -12,6 +12,7 @@ layout: post
 title:  "#{title}"
 date:   #{date_str} 
 categories: onex
+hours: *FIX ME!*
 ---
 
 Today was a great day!
