@@ -8,12 +8,10 @@ module Jekyll
 
     def render(context)
       site = context["site"]
-      p site.posts.size
       post_hours = site.posts.map do |p|
         hours = p["hours"]
         hours ? hours.to_f : 0.0
       end
-      p post_hours
       total_hours = post_hours.reduce(:+)
       "#{total_hours}"
     end
