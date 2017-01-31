@@ -16,7 +16,8 @@ Likewise, drilling hold produces similar weak points so every hole must be debur
 
 Had I not done my research, I would have happily assembled these parts without properly preparing each part.  Scary!  I need to keep researching and I really need to get an expert to advise me.  
 
-There are several questions I wrote down.  I think I know the answers but I'm gonna call Sonex tomorrow and ask: 
+There are several questions I wrote down.  I think I know the answers but I'm gonna call Sonex tomorrow and ask:
+ 
 1. 6061 aluminum used on the OneX is corrosion resistant.  Does that mean I don't need apply corrosion protection for each part?
 2. Does  thinner (0.025") aluminum require deburring and filing too?
 3. Some parts are made of different aluminum that has a visual-texture like particle board.  Do they require filing and deburring?
