@@ -17,7 +17,7 @@ hours: *FIX ME!*
 
 Today was a great day!
 
-![Cool Picture Description](/onex/img/#{date_str}/1.jpg)
+![](/onex/img/#{date_str}/1.jpg)
 END
 
 post_name = "#{date_str}-#{slug}.md"
