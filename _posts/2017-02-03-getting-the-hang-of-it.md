@@ -16,7 +16,7 @@ The whole process:  cleco, drill, file, debur, clean, cleco, rivet - is becoming
 
 You'll also see some tail control surface skins cut.  The two smaller ones had were tough cuts.  They were angled in all three dimensions which I couldn't use any flat surface to guide the cut.  I made do, cutting a bit wider than necessary and filing the cuts down to size.
 
-![Lego Plane](/onex/img/2017-02-04/1.jpg)
-![Bending](/onex/img/2017-02-04/1.jpg)
-![Tail Rib](/onex/img/2017-02-04/1.jpg)
-![Cont rol Surface Skins](/onex/img/2017-02-04/1.jpg)
+![Lego Plane](/onex/img/2017-02-03/1.jpg)
+![Bending](/onex/img/2017-02-03/2.jpg)
+![Tail Rib](/onex/img/2017-02-03/3.jpg)
+![Cont rol Surface Skins](/onex/img/2017-02-03/4.jpg)
