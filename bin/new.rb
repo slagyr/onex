@@ -1,10 +1,18 @@
 #!/usr/bin/env ruby -w
 
+DAY = 86400
+
+puts "How many days ago? [0]"
+day_arg = gets
+days_ago = day_arg ? day_arg.to_i : 0
+day = Time.now - (days_ago * DAY)
+date_str = day.strftime("%Y-%m-%d")
+puts "Date: #{date_str}"
+
 puts "What's the title?"
 title = gets.strip
 
 slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
-date_str = Time.now.strftime("%Y-%m-%d")
 
 post = <<END
 ---
