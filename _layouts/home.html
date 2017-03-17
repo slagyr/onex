@@ -16,6 +16,7 @@ layout: default
       <li>
         <img src="/onex/img/{{post.date | date: '%Y-%m-%d'}}/1.jpg"/>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% if post.hours %} • <span class="post-meta" itemprop="hours" itemscope itemtype="http://schema.org/Hours"> <span itemprop="time">{{ post.hours }}</span> hours</span>{% endif %}
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
