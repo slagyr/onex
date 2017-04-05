@@ -3,7 +3,7 @@ layout: post
 title:  "Forward Fuselage Begins"
 date:   2017-04-03 
 categories: onex
-hours: 7.0
+hours: 9.0
 ---
 
 The body hammers and dollies kit arrives this weekend.  I applied the tools best I could.  Although the hammers definitely shaped the metal, the metal became thinner and took on subtly concave shapes, not to mention lot of tiny dents.  So I ordered new skins. They should arrive by Friday.
