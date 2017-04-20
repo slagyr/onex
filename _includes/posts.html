@@ -1,0 +1,43 @@
+<ul class="post-list">
+    {% for post in paginator.posts %}
+    <li>
+        <img src="/onex/img/{{post.date | date: '%Y-%m-%d'}}/1.jpg"/>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% if post.hours %} • <span class="post-meta" itemprop="hours" itemscope
+                                    itemtype="http://schema.org/Hours"> <span itemprop="time">{{ post.hours }}</span> hours</span>{%
+        endif %}
+        <h2>
+            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h2>
+        {{ post.content | strip_html | truncatewords:50 }}
+    </li>
+    {% endfor %}
+</ul>
+
+<div class="text-center">
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            {% if paginator.previous_page %}
+            <li class="prev"><a href="/onex{{ paginator.previous_page_path }}" class="prev">Previous</a></li>
+            {% else %}
+            <li class="prev disabled"><a>← Previous</a></li>
+            {% endif %}
+
+            {% for i in (1..paginator.total_pages) %}
+            {% if i == paginator.page %}
+            <li class="active"><a href="#">{{ paginator.page }}</a></li>
+            {% elsif i == 1 %}
+            <li><a href="/onex/" class="next">1</a></li>
+            {% else %}
+            <li><a href="/onex/posts/page{{i}}/" class="next">{{i}}</a></li>
+            {% endif %}
+            {% endfor %}
+
+            {% if paginator.next_page %}
+            <li class="next"><a href="/onex{{ paginator.next_page_path }}" class="next">Next</a></li>
+            {% else %}
+            <li class="next disabled"><a>Next →</a></li>
+            {% endif %}
+        </ul>
+    </nav>
+</div>

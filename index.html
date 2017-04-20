@@ -1,0 +1,16 @@
+---
+# You don't need to edit this file, it's empty on purpose.
+# Edit theme's home layout instead if you wanna make some changes
+# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+layout: home
+
+paginate:
+    per_page: 5
+    permalink: /posts/page:num/
+---
+
+{% comment }
+<span itemprop="build-time" itemscope itemtype="http://schema.org/BuildTime"> Total Build Time: <span itemprop="time">{% build_time %}</span> hours</span>
+{% endcomment %}
+
+{% include posts.html %}
