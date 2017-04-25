@@ -320,6 +320,11 @@ pre {
       .post-content h4 {
         font-size: 18px; } }
 
+.build-time {
+  font-size: 1.5em;
+  display: block;
+  margin-bottom: 1em; }
+
 /**
  * Syntax highlighting styles
  */

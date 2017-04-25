@@ -10,8 +10,6 @@ paginate:
     limit: false
 ---
 
-{% comment }
-<span itemprop="build-time" itemscope itemtype="http://schema.org/BuildTime"> Total Build Time: <span itemprop="time">{% build_time %}</span> hours</span>
-{% endcomment %}
+<span class="build-time" itemprop="build-time" itemscope itemtype="http://schema.org/BuildTime"> Total OneX Build Time: <span itemprop="time">{% build_time %}</span> hours</span>
 
 {% include posts.html %}
