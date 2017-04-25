@@ -33,6 +33,14 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - img
+  - bin
+  - README.md
+  - onex.iml
 
 keep_files:
   - img
+  - onex/assets
+  - onex/img
+  - onex/about
+  - onex/posts
+  - onex/onex

@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jekyll build -d docs
+jekyll build -w -d docs
