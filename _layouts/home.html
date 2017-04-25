@@ -3,28 +3,7 @@ layout: default
 ---
 
 <div class="home">
-
-  {% comment }
-  <span itemprop="build-time" itemscope itemtype="http://schema.org/BuildTime"> Total Build Time: <span itemprop="time">{% build_time %}</span> hours</span>
-  {% endcomment %}
-  <h1 class="page-heading">Posts</h1>
   
   {{ content }}
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <img src="/onex/img/{{post.date | date: '%Y-%m-%d'}}/1.jpg"/>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        {% if post.hours %} • <span class="post-meta" itemprop="hours" itemscope itemtype="http://schema.org/Hours"> <span itemprop="time">{{ post.hours }}</span> hours</span>{% endif %}
-        <h2>
-          <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-        </h2>
-        {{ post.content | strip_html | truncatewords:50 }}
-      </li>
-    {% endfor %}
-  </ul>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
 </div>
