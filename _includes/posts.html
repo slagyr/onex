@@ -7,7 +7,7 @@
                                     itemtype="http://schema.org/Hours"> <span itemprop="time">{{ post.hours }}</span> hours</span>{%
         endif %}
         <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+            <a class="post-link" href="/onex{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
         {{ post.content | strip_html | truncatewords:50 }}
     </li>

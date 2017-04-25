@@ -44,3 +44,4 @@ keep_files:
   - onex/about
   - onex/posts
   - onex/onex
+  - .nojekyll
