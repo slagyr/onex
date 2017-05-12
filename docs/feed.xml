@@ -1,5 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-05-10T18:01:05-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">This Spar is a Bear</title><link href="http://micahmartin.com/onex/2017/05/10/this-spar-is-a-bear.html" rel="alternate" type="text/html" title="This Spar is a Bear" /><published>2017-05-10T00:00:00-07:00</published><updated>2017-05-10T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/05/10/this-spar-is-a-bear</id><content type="html" xml:base="http://micahmartin.com/onex/2017/05/10/this-spar-is-a-bear.html">&lt;p&gt;Yesterday… I tried to decipher the plans and figure out how all the inboard spar pieces fit together.  In my head I had expected the spar to be just one or two long pieces of beefy metal.  Not so.  There’s got to be thirty pieces or so.  Once assembled they essentially form one long beefy chunk of metal, but with intricacies.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-05-11T21:18:17-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">I Dilled, I Deburred…</title><link href="http://micahmartin.com/onex/2017/05/11/i-dilled-i-deburred.html" rel="alternate" type="text/html" title="I Dilled, I Deburred..." /><published>2017-05-11T00:00:00-07:00</published><updated>2017-05-11T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/05/11/i-dilled-i-deburred</id><content type="html" xml:base="http://micahmartin.com/onex/2017/05/11/i-dilled-i-deburred.html">&lt;p&gt;I drilled.  I deburred.  I got a repetitive stress injury.  At least I suspect I am.  It’s the deburring.  It puts a lot of pressure on the center of my palm and I think it’s the cause of a loss of sensitivity in my fingers in the last couple of months.&lt;/p&gt;
+
+&lt;p&gt;Below is the spar, well most of it, all drilled and ready for deburring.&lt;/p&gt;
+
+&lt;p&gt;Perhaps tomorrow I’ll get to solid rivets.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-11/1.jpg&quot; alt=&quot;Spar All Drilled&quot; /&gt;&lt;/p&gt;</content><summary type="html">I drilled.  I deburred.  I got a repetitive stress injury.  At least I suspect I am.  It’s the deburring.  It puts a lot of pressure on the center of my palm and I think it’s the cause of a loss of sensitivity in my fingers in the last couple of months.
+
+Below is the spar, well most of it, all drilled and ready for deburring.
+
+Perhaps tomorrow I’ll get to solid rivets.</summary></entry><entry><title type="html">This Spar is a Bear</title><link href="http://micahmartin.com/onex/2017/05/10/this-spar-is-a-bear.html" rel="alternate" type="text/html" title="This Spar is a Bear" /><published>2017-05-10T00:00:00-07:00</published><updated>2017-05-10T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/05/10/this-spar-is-a-bear</id><content type="html" xml:base="http://micahmartin.com/onex/2017/05/10/this-spar-is-a-bear.html">&lt;p&gt;Yesterday… I tried to decipher the plans and figure out how all the inboard spar pieces fit together.  In my head I had expected the spar to be just one or two long pieces of beefy metal.  Not so.  There’s got to be thirty pieces or so.  Once assembled they essentially form one long beefy chunk of metal, but with intricacies.&lt;/p&gt;
 
 &lt;p&gt;I emailed Kerry and asked for pictures to help be understand.  He sent me some, but what really helped what a &lt;a href=&quot;http://www.onexmike.org/spar--inboard.html&quot;&gt;blog from a guy I know as Onex Mike&lt;/a&gt;.  This spelled it out for me with just the right pictures.  Thank Mike!&lt;/p&gt;
 
@@ -121,37 +131,4 @@ In the afternoon I made a trip to Ace, my home away from home it seems.  I neede
 &lt;img src=&quot;/onex/img/2017-04-25/04.png&quot; alt=&quot;Design #4&quot; /&gt;
 &lt;img src=&quot;/onex/img/2017-04-25/05.png&quot; alt=&quot;Design #5&quot; /&gt;&lt;/p&gt;</content><summary type="html">On to a task for which I have the parts: the main gear.  Based on advise from fellow Sonex builders I upgraded the brakes to Sonex’s AeroConversion hydraulics.  The first pic shows the intimidating amount of parts for the brakes.  To my surprise, it all came together quite simply.  So I attached the tires to the gear frame and then researched how to attach it all to the fusealge.
 
-There are ten bolts that hold the gear onto the fuselage.  However, that big chunk of aluminum used for the gears (the strut?) doesn’t have any pilot holes. And it’s all curvy, so how do you find the exact center?  Well, I tried a few techniques.</summary></entry><entry><title type="html">Bolted Box &amp;amp; Missing Hardware</title><link href="http://micahmartin.com/onex/2017/04/24/bolted-box-missing-hardware.html" rel="alternate" type="text/html" title="Bolted Box &amp; Missing Hardware" /><published>2017-04-24T00:00:00-07:00</published><updated>2017-04-24T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/04/24/bolted-box--missing-hardware</id><content type="html" xml:base="http://micahmartin.com/onex/2017/04/24/bolted-box-missing-hardware.html">&lt;h4 id=&quot;blog-improvements&quot;&gt;Blog Improvements&lt;/h4&gt;
-
-&lt;p&gt;I’llbe the first to adminst that navigating this blog has been burdensome.  So I added some Next/Previous links to each page.  And the home page was getting VERY long, transferring far more bits than needed.  So I paginated the blog listing.&lt;/p&gt;
-
-&lt;p&gt;This blog runs on &lt;a href=&quot;https://pages.github.com/&quot;&gt;GitHub Pages&lt;/a&gt; using Jekyll.  I had originally tried other blog hosting sites, but with my coding background, working in an IDE and doing source control commits to publish new posts feels oh-so natural.&lt;/p&gt;
-
-&lt;p&gt;These improvements veer off the treaded path of common Jekyll deployments, which means I had to do some yak shaving to get it all working.  I’m still not confident everything is 100% functional at the moment, but the site should be easier to use.&lt;/p&gt;
-
-&lt;h4 id=&quot;sustainable-aviation-symposium&quot;&gt;Sustainable Aviation Symposium&lt;/h4&gt;
-
-&lt;p&gt;Last weekend I flew to San Francisco to attend the &lt;a href=&quot;http://sustainableaviation.org/sas2017/&quot;&gt;SA Symposium&lt;/a&gt;.  The topic is totally in line with my goals in aviation so I had to go.  The people there were incredible.  They had bold visions, ambitious goals, and they were achieving them!  Their long term vision, if I can sum it all up fairly, is to allow you to travel around your local town, county, or even state by going to the local air taxi station (similar to train station, or subway stop), hoping in an automated electric plane, and getting where you want to go faster than anything else can get you there.&lt;/p&gt;
-
-&lt;p&gt;I won’t bore you with names, but you can see who was there on the site.  I got to meet a lot of cool people.  There’s a pretty picture of Monterey Bay below from my flight back.&lt;/p&gt;
-
-&lt;h4 id=&quot;sonex-progress&quot;&gt;Sonex Progress&lt;/h4&gt;
-
-&lt;p&gt;The box is bolted.  Almost 70 bolts went into the fuselage box today.  I could hardly believe it was that many.  But it was.  It took all morning an then some before they were all tightened.  And of course they didn’t all fit right away.  You can see in the first picture that they are packed in pretty tight on the firewall… the picture is just one of four corners like that.  In fact, some of the bolts interfere with each other and special skinny nuts are called for, however I couldn’t find them in the hardware kit.  I called Sonex and Kerry told me that the hardware kit is not complete and I need to go buy my own.  Thanks Kerry! Otherwise the fuselage box is all riveted and I’m ready to move on.&lt;/p&gt;
-
-&lt;p&gt;At this point I referred back to the assembly tree at the front of the plans.  The last big branch of the tree is the wings.  But if I build the wings, I wouldn’t feel comfortable hanging them on a fuselage that is currently resting on saw horsed.  So I looked at the landing gear plans and it looks like that’s the next logical step.  But the tail gear requires that vertical and horizontal stabilizers are installed.  As I begin that assembly, I realize that I’m missing even more hardware from the kit.  In this case I think WBParts game me the wrong nut plates, in addition to Sonex not including the required nut in the kit list.  Grrrr.&lt;/p&gt;
-
-&lt;p&gt;I stuck a rivet in the extra hole I mentioned last week.  It’s a tiny SSC-24 countersunk rivet.  See pic.  I just used the deburring tool a bit more aggressively than normal to create the countersunk hole.  My mind is now at ease.&lt;/p&gt;
-
-&lt;p&gt;For those building a OneX, the following hardware list is items that you may be missing too.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;AN960-10 washers.  Buy at least a 100 of these.  They’re called for all over the place and the kit only includes 20.&lt;/li&gt;
-  &lt;li&gt;MS20464-1032 Fiberlock Thin Nuts.  12 or so.  These are the thin nuts to hopefully solve the interference joints.&lt;/li&gt;
-  &lt;li&gt;MS21047-L4 Anchor Nut (Aircraft spruce: K1000-4). At least 3. The kits included these, but they gave me the wrong ones.&lt;/li&gt;
-  &lt;li&gt;AN4-7A Bolt.  At least 3.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-04-24/1.jpg&quot; alt=&quot;Bolts&quot; /&gt;
-&lt;img src=&quot;/onex/img/2017-04-24/2.jpg&quot; alt=&quot;Rivetd Extra Hole&quot; /&gt;
-&lt;img src=&quot;/onex/img/2017-04-24/3.jpg&quot; alt=&quot;Box Rivited&quot; /&gt;
-&lt;img src=&quot;/onex/img/2017-04-24/4.jpg&quot; alt=&quot;Monterey Bay&quot; /&gt;&lt;/p&gt;</content><summary type="html">Blog Improvements</summary></entry></feed>
+There are ten bolts that hold the gear onto the fuselage.  However, that big chunk of aluminum used for the gears (the strut?) doesn’t have any pilot holes. And it’s all curvy, so how do you find the exact center?  Well, I tried a few techniques.</summary></entry></feed>
