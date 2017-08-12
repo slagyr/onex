@@ -1,5 +1,28 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-07T21:59:14-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Controls &amp;amp; Hardware</title><link href="http://micahmartin.com/onex/2017/08/07/controls-hardware.html" rel="alternate" type="text/html" title="Controls &amp; Hardware" /><published>2017-08-07T00:00:00-07:00</published><updated>2017-08-07T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/07/controls--hardware</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/07/controls-hardware.html">&lt;h4 id=&quot;controls-parts&quot;&gt;Controls Parts&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-12T13:02:04-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Hydraulic Brakes</title><link href="http://micahmartin.com/onex/2017/08/09/hydraulic-brakes.html" rel="alternate" type="text/html" title="Hydraulic Brakes" /><published>2017-08-09T00:00:00-07:00</published><updated>2017-08-09T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/09/hydraulic-brakes</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/09/hydraulic-brakes.html">&lt;p&gt;As Hannah and Rob (family friends) walked by the garage last week as I was fabricating brake parts, we chatted and I mentioned that I didn’t know exactly how to install hydraulic brakes.  It turns out that Hannah’s dad (Vic) was coming to town. He’s handy with cars and knows about hydraulics.  So he came to help!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-09/1.jpg&quot; alt=&quot;Vic&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We mounted the master cylinder, no problem. Aside from the hydraulic lines, there was a brake handle to mount as well as a parking brake catch.  What was unclear what how much play there would be in the brake handle with fluid running to the brakes.  Without the fluid, there’s about 30° of play.  That seems excessive and far more than what’s drawn in the plans.  So the questions holding us up were this:  At what angle do we mount the handle to the master cylinder and at what distance does the parking brake catch get attached?  If we guess and get it wrong, we need to drill rivets and fabricate more parts.&lt;/p&gt;
+
+&lt;p&gt;Oh, there was also the question of where to run the lines.  The master cylinder is inside the fuselage while the wheels are outside.  At least one hole has to be drilled so the lines can exit the fuselage.&lt;/p&gt;
+
+&lt;p&gt;For these reasons, Vic and I decided to temporarily run the hydraulic lines wherever was easiest, and then redo it properly when we knew more.  This is where Vic’s experience was priceless.  He knew exactly how to connect the lines and how to fill them with fluid, and bleed them.  I absorbed it all.  We also whipped up a temporary handle to operate the brakes.&lt;/p&gt;
+
+&lt;p&gt;Bleeding the lines took the most finesse.  This involves removing all the air from the lines.  At the bottom of the brakes, there’s a little nut and when you loosen it, fluid (and air) flow out the bottom pulling fresh fluid from the master cylinder reservoir.  But those pesky air bubble don’t cooperate.  They prefer to flow upward and they find places to hide inside the brake housing.  It’s definitely a two man job.  One of us would get down by one of the brakes to lossen/tighten the bleeder, while the other would manage the brake handle to move the fluid and air around.&lt;/p&gt;
+
+&lt;p&gt;After about an hour, maybe more, we got all the air out and the brakes worked wonderfully.  As suspected, the play in the brake handle was much smaller that the 30° we saw without the fluid.  I was really impressed with how little motion was required to fully apply the brakes… and when you did, the wheels would not budge a bit!  So with that, we knew exactly where to drill the holes in the handle and where to mount the parking brake catch.&lt;/p&gt;
+
+&lt;p&gt;Thanks Vic!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-09/2.jpg&quot; alt=&quot;Working Brakes&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next day I tidied up the lines.  Before cutting the lines, I drilled all the holes needed and picked up some rubber grommets from Ace.  Although the plans don’t tell you where to drill the exit holes for the lines, they do tell you to run them along the back edge of the gear legs.  So I drilled two holes, one on each side of the fuselage right behind the gear legs.  A couple holes on each gear leg allow for clips to hold the lines in place and two more holes on an interior strut to keep the brake line in a safe place.&lt;/p&gt;
+
+&lt;p&gt;The Dot 5.0 brake fluid is silicone based and really slippery, so tried my best to minimize the mess when I cut the filed lines, with moderate success.  I ran them through the holes and along their permanent path. Then Angelique was kind enough to come and help me bleed all the air out again.  It took about another hour.  I admit I like the pretty purple color of the hydraulic fluid.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-09/3.jpg&quot; alt=&quot;Clean Master&quot; /&gt;
+&lt;img src=&quot;/onex/img/2017-08-09/4.jpg&quot; alt=&quot;Line on Gears&quot; /&gt;&lt;/p&gt;</content><summary type="html">As Hannah and Rob (family friends) walked by the garage last week as I was fabricating brake parts, we chatted and I mentioned that I didn’t know exactly how to install hydraulic brakes.  It turns out that Hannah’s dad (Vic) was coming to town. He’s handy with cars and knows about hydraulics.  So he came to help!</summary></entry><entry><title type="html">Controls &amp;amp; Hardware</title><link href="http://micahmartin.com/onex/2017/08/07/controls-hardware.html" rel="alternate" type="text/html" title="Controls &amp; Hardware" /><published>2017-08-07T00:00:00-07:00</published><updated>2017-08-07T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/07/controls--hardware</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/07/controls-hardware.html">&lt;h4 id=&quot;controls-parts&quot;&gt;Controls Parts&lt;/h4&gt;
 
 &lt;p&gt;Continuing with the controls, I started with the flaps.  Missing hardware prevented me from fastening the control stick to the mounting rod.  So I moved on to the aileron/stabilizer control and got the stick attached.  Then on to some pulleys, mounting brackets, and most everything required to put it on the fuselage.&lt;/p&gt;
 
@@ -154,35 +177,4 @@ Not much to show here but I received the needed bolts and washers to finish asse
 
 Glare Shield
 
-This has been where most of the effort has gone in the past few days.  The glare shield is a sheet of metal that goes in front of the pilot and just under the wind shield.  It attaches to the upper firewall and the instrument panel in addition to the longerons.  The plans would have you rivet it all into place, never to be removed unless you want to drill out all the rivets.  Fortunately fellow OneX builder Denny Marick told me about the Air Ward kit to make this glare shield removable.  It mostly involves installing nut plate where rivets would go.  Each nut plate requires 2 extra holes where rivets will hold the nut plate on. It adds a good deal more work, but it’s worth it in the end.</summary></entry><entry><title type="html">A Place to Sit</title><link href="http://micahmartin.com/onex/2017/05/17/a-place-to-sit.html" rel="alternate" type="text/html" title="A Place to Sit" /><published>2017-05-17T00:00:00-07:00</published><updated>2017-05-17T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/05/17/a-place-to-sit</id><content type="html" xml:base="http://micahmartin.com/onex/2017/05/17/a-place-to-sit.html">&lt;p&gt;Lots to report:&lt;/p&gt;
-
-&lt;h4 id=&quot;wrap&quot;&gt;Wrap&lt;/h4&gt;
-
-&lt;p&gt;As a test for going the vinyl wrap route as apposed to paint, I decided to wrap the hood of my car to get a feel for the process.  I got Luka to help me.  There was a learning curve.  It actually took us three attempts over 2 weeks and we ruined two wraps.  I had to order a new one with each failed attempt.  But in the end we got it as you can see in the first pic.  The carbon fiber texture and anthracite color is subtle, which is how I wanted it.&lt;br /&gt;
-Lesson learned:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Don’t stress about bubbles.  The 3M vinyl actually breathes allowing you to push bubbles out.&lt;/li&gt;
-  &lt;li&gt;Peel off the backing while the wrap is upside down.  With your partner, flip it, gently stretch it and lay it down to cover the surface.  Getting the general layout right and smooth on the first try goes a long way.&lt;/li&gt;
-  &lt;li&gt;Don’t over work the vinyl.  I found that it weakens as you work it.  Eventually it rips.  That’s bad.&lt;/li&gt;
-  &lt;li&gt;Use a heat gun to restore the vinyls shape and integrity.  It’s cool material.  It remembers it’s shape.  So when it get’s stretched, maybe by your fingers, heat it and it will morph back into it’s original shape.&lt;/li&gt;
-  &lt;li&gt;Watch lots of youtube videos.  There’s tons of techniques to learn from.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-17/1.jpg&quot; alt=&quot;Wrapped Hood&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;spar-ends&quot;&gt;Spar Ends&lt;/h4&gt;
-&lt;p&gt;The ends of the spars have several parts that get bolted on.  See second picture.  Of course hardware is missing from the kit so I had to order more from Aircraft Spruce.  Unbelievably I ran our of washers. The kit came with 20, FAR too few.  I ordered 150 more a few weeks ago.  But that still wasn’t enough so I ordered 400 more.  For now, most of the bolts are in place.   I’ll have to revisit this to put washers in place and swap out some bolts for the correct ones that are on order.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-17/2.jpg&quot; alt=&quot;Spar Ends&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;a-seat&quot;&gt;A Seat&lt;/h4&gt;
-&lt;p&gt;This was fun.  Once the seat was installed I couldn’t help but to jump in and try it out.  I just chilled for a few minutes in the half finished cockpit.  Although it looks tiny from the outside, it feels rather spacious on the inside.  Luka and Tristan tried it out too when they got back from school.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-17/3.jpg&quot; alt=&quot;Tristan In Plane&quot; /&gt;
-&lt;img src=&quot;/onex/img/2017-05-17/4.jpg&quot; alt=&quot;Luka In Plane&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;flap-retainer&quot;&gt;Flap Retainer&lt;/h4&gt;
-&lt;p&gt;This intricate part was a challenge to fabricate.  I will hold the flap lever, which has yet to be installed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-17/5.jpg&quot; alt=&quot;Flap Retainer&quot; /&gt;&lt;/p&gt;</content><summary type="html">Lots to report:</summary></entry></feed>
+This has been where most of the effort has gone in the past few days.  The glare shield is a sheet of metal that goes in front of the pilot and just under the wind shield.  It attaches to the upper firewall and the instrument panel in addition to the longerons.  The plans would have you rivet it all into place, never to be removed unless you want to drill out all the rivets.  Fortunately fellow OneX builder Denny Marick told me about the Air Ward kit to make this glare shield removable.  It mostly involves installing nut plate where rivets would go.  Each nut plate requires 2 extra holes where rivets will hold the nut plate on. It adds a good deal more work, but it’s worth it in the end.</summary></entry></feed>
