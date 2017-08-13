@@ -1,5 +1,43 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-12T13:02:04-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Hydraulic Brakes</title><link href="http://micahmartin.com/onex/2017/08/09/hydraulic-brakes.html" rel="alternate" type="text/html" title="Hydraulic Brakes" /><published>2017-08-09T00:00:00-07:00</published><updated>2017-08-09T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/09/hydraulic-brakes</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/09/hydraulic-brakes.html">&lt;p&gt;As Hannah and Rob (family friends) walked by the garage last week as I was fabricating brake parts, we chatted and I mentioned that I didn’t know exactly how to install hydraulic brakes.  It turns out that Hannah’s dad (Vic) was coming to town. He’s handy with cars and knows about hydraulics.  So he came to help!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-13T12:08:20-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Rudder Pedals</title><link href="http://micahmartin.com/onex/2017/08/11/rudder-pedals.html" rel="alternate" type="text/html" title="Rudder Pedals" /><published>2017-08-11T00:00:00-07:00</published><updated>2017-08-11T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/11/rudder-pedals</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/11/rudder-pedals.html">&lt;h4 id=&quot;avionics-research&quot;&gt;Avionics Research&lt;/h4&gt;
+
+&lt;p&gt;Denny was kind enough to let me visit his build again and ask questions about avionics.  After doing research at Oshkosh and on the web, I’ve decided to go with &lt;a href=&quot;http://www.dynonavionics.com/skyview-se.php&quot;&gt;Dynon Avionics&lt;/a&gt; in a very similar configuration to Denny.  But there are hundreds of questions I had about the electrical/avionics system and Denny was kinds enough to answer them for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/6.jpg&quot; alt=&quot;Denny's Panel&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;rudder-pedals&quot;&gt;Rudder Pedals&lt;/h4&gt;
+
+&lt;p&gt;The pedals are mounted using a phenolic blocks.  One on each side and one in the middle.  These had to be trimmed and sanded to fit.  Even after putting together whole rudder system, the pedals where too tight and I had to take it apart and sand down the holes more.  That made all the difference.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/2.jpg&quot; alt=&quot;Both Pedals&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;cable-adjusters&quot;&gt;Cable Adjusters&lt;/h4&gt;
+
+&lt;p&gt;The aluminum bar is called the adjuster.  The location where the cable attaches does all the magic.  The plans give detailed instructions on how to calculate where to drill the cable hole, but they didn’t work for me. What I was left with was pedals that restricted eachothers movement and the ruder couldn’t even get close to its stops.  So I had to fabricate these parts from scratch and use my own technique to calculate the cable attach points.  Basically I started by moving the rudder to its full right stop.  Then positioned the left pedal as far aft as it would go and marked the attach point.  This would allow full right rudder and the left cable would  not restrict it.  Then I did the opposite for the right pedal.  This worked great.&lt;/p&gt;
+
+&lt;p&gt;The springs pull the rudder to neutral when foot pressure is released.  At first I couldn’t get the springs tight enough to move the rudder.  This is when I realized I had to loosen the pedals by sanding the phenolic blocks.  With looser pedals, the springs could do their job.  The kit came with two long springs that had to be cut and bent to length, but I only used about 2/3 of one of the springs.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/1.jpg&quot; alt=&quot;Rudder Padal Assembly&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;pulleys&quot;&gt;Pulleys&lt;/h4&gt;
+
+&lt;p&gt;There are six pulleys all together that keep the cable where it belongs and allow it to move easily.  Four of the pulleys I had build a while back when I first started on the fuselage.  The plans said it’d be easier to mount the rear pulleys at that point.  Not really.  And fortunately I hadn’t riveted them back then.  They had to be removed and I had to crawl inside the fuselage many times and in all locations.  There was no effort saved but I was pleased to have four fewer parts to fabridace this week.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/3.jpg&quot; alt=&quot;Forward Pulley&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;cable-run&quot;&gt;Cable Run&lt;/h4&gt;
+
+&lt;p&gt;The bulkheads have cutouts that would be ideal for rudder bale to run through.  Unfortunately, they’re in the wrong place.  I couldn’t believe it at first, but when I visited Denny, he complained about the same problem.  So extra holes had to be cut and existing holes elongated in the four center bulkheads.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/4.jpg&quot; alt=&quot;Cable Run&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;tail-cable-exit-holes&quot;&gt;Tail Cable Exit Holes&lt;/h4&gt;
+
+&lt;p&gt;It was a puzzle to me how I’d calculate exactly where the cables would pass through the skin in the rear of the fuselage.  Fortunately, the plans give precise locations and sizes for these holes.  Unfortunately, they’re not prefect.  The cables rub up against the edges of the skin.&lt;/p&gt;
+
+&lt;p&gt;I spent a good deal of time widening and elongating these holes to elimindate the chafing.  The left side was not terribly off.  The right side is still in progress.  I’ve already filed away an extra inch of skin and the cable is still chafing.  I’ll continue filing on monday and tidy up the edges so it looks intentional.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/5.jpg&quot; alt=&quot;Tail Cable Exit&quot; /&gt;&lt;/p&gt;</content><summary type="html">Avionics Research</summary></entry><entry><title type="html">Hydraulic Brakes</title><link href="http://micahmartin.com/onex/2017/08/09/hydraulic-brakes.html" rel="alternate" type="text/html" title="Hydraulic Brakes" /><published>2017-08-09T00:00:00-07:00</published><updated>2017-08-09T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/09/hydraulic-brakes</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/09/hydraulic-brakes.html">&lt;p&gt;As Hannah and Rob (family friends) walked by the garage last week as I was fabricating brake parts, we chatted and I mentioned that I didn’t know exactly how to install hydraulic brakes.  It turns out that Hannah’s dad (Vic) was coming to town. He’s handy with cars and knows about hydraulics.  So he came to help!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-09/1.jpg&quot; alt=&quot;Vic&quot; /&gt;&lt;/p&gt;
 
@@ -142,39 +180,4 @@ After spending tons of time sanding with little effect, I discovered that I coul
 
 &lt;p&gt;The &lt;a href=&quot;http://www.airward.com/&quot;&gt;AirWard&lt;/a&gt; kit had instructions and hardware to use here so that the windshield is easily removable.  However, I got the gist of it and decided to go a bit off script.  With the big picture grasped, I know how to best craft it to my taste.  I should have it attached tomorrow, except for the fuel fill hole and cover… there’s supposed to be a 4.5” hole right in the middle of the windhield with an ugly aluminum plate covering it.  The plans don’t even say how to attach the aluminum plate.  I checked &lt;a href=&quot;http://www.airward.com/amelia/search.asp?advnav=&amp;amp;action=Search&amp;amp;store=&amp;amp;cat=10000781&amp;amp;subcat_10000013=10000781&amp;amp;ShowImages=&amp;amp;ShowDetails=&amp;amp;menuID=873~873&amp;amp;id=889&quot;&gt;AirWard and was pleased to see they have a solution for this&lt;/a&gt; that includes a transparent cover with easy access.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-23/1.jpg&quot; alt=&quot;Fitting&quot; /&gt;&lt;/p&gt;</content><summary type="html">Don’t be decieved.  In the image below, the windshield and canopy are merely resting on top of the fuselage.  They are not fastened.</summary></entry><entry><title type="html">Shields Up</title><link href="http://micahmartin.com/onex/2017/05/22/shields-up.html" rel="alternate" type="text/html" title="Shields Up" /><published>2017-05-22T00:00:00-07:00</published><updated>2017-05-22T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/05/22/shields-up</id><content type="html" xml:base="http://micahmartin.com/onex/2017/05/22/shields-up.html">&lt;p&gt;Since my last blog, I’ve begun a few separate tasks but missing hardware has delayed each until today.&lt;/p&gt;
-
-&lt;h4 id=&quot;spar-ends&quot;&gt;Spar Ends&lt;/h4&gt;
-
-&lt;p&gt;Not much to show here but I received the needed bolts and washers to finish assembling the spar tips and tighten all the bolts.&lt;/p&gt;
-
-&lt;h4 id=&quot;glare-shield&quot;&gt;Glare Shield&lt;/h4&gt;
-
-&lt;p&gt;This has been where most of the effort has gone in the past few days.  The glare shield is a sheet of metal that goes in front of the pilot and just under the wind shield.  It attaches to the upper firewall and the instrument panel in addition to the longerons.  The plans would have you rivet it all into place, never to be removed unless you want to drill out all the rivets.  Fortunately fellow OneX builder Denny Marick told me about the &lt;a href=&quot;http://www.airward.com/amelia/search.asp?advnav=&amp;amp;action=Search&amp;amp;store=&amp;amp;cat=10000759&amp;amp;subcat_10000013=10000759&amp;amp;ShowImages=&amp;amp;ShowDetails=&amp;amp;menuID=873~873&amp;amp;id=892&quot;&gt;Air Ward kit to make this glare shield removable&lt;/a&gt;.  It mostly involves installing nut plate where rivets would go.  Each nut plate requires 2 extra holes where rivets will hold the nut plate on. It adds a good deal more work, but it’s worth it in the end.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-22/1.jpg&quot; alt=&quot;Glare Shield Clecoed&quot; /&gt;
-&lt;img src=&quot;/onex/img/2017-05-22/3.jpg&quot; alt=&quot;Glare Shield Screwed&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;fuel-tank&quot;&gt;Fuel Tank&lt;/h4&gt;
-
-&lt;p&gt;The tank sits just below the glare shield, so it made sense to get that installed now.  It’s held up by two straps attached to the longerons, right where the glare shield attaches.  There was a problem here.  The fuel tank was bloated and wouldn’t fit in place. This is probably due to the change in temperature between freezing Oshkosh WI, from where it was shipped in January, to the 105° weather in Phoenix where I’m installing it.&lt;/p&gt;
-
-&lt;p&gt;I used a trick that my dad used to use to crush milk jugs.  He’d put a bit of water into the empty gallon milk container and stick it in the microwave oven until the water was boiling.  Then he’s put the cap on and run it under cold water.  The milk container would shrink to a fraction of the size, taking less space in the trash.&lt;/p&gt;
-
-&lt;p&gt;So I boiled some water and poured it in the tank.  To get a little extra help I made sure to pour over the problem area hoping the heat would soften the plastic.  I put the cap on and the tank began to bloat more!  While pressing in on the problem area I ran the outdoor faucet over the tank and presto, magico, the tank contracted; not as much as the milk jug, just a bit.  Once cooled, I opened the cap and although the tank expanded a bit, the problem area was fixed and the tank fit perfectly!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-22/2.jpg&quot; alt=&quot;Fuel Tank&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;windshield-and-canopy&quot;&gt;Windshield and Canopy&lt;/h4&gt;
-
-&lt;p&gt;Next up is the windshield and canopy.  Today I fabricated and prepared most of the parts.  And I studied the plans, lots.  This is not and obvious assembly.  What makes it more challenging is that it’s ALL curves.  I’m going to see if I can find videos or blogs of other people who’ve done this.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-22/4.jpg&quot; alt=&quot;Windshield and Canopy PArts&quot; /&gt;&lt;/p&gt;</content><summary type="html">Since my last blog, I’ve begun a few separate tasks but missing hardware has delayed each until today.
-
-Spar Ends
-
-Not much to show here but I received the needed bolts and washers to finish assembling the spar tips and tighten all the bolts.
-
-Glare Shield
-
-This has been where most of the effort has gone in the past few days.  The glare shield is a sheet of metal that goes in front of the pilot and just under the wind shield.  It attaches to the upper firewall and the instrument panel in addition to the longerons.  The plans would have you rivet it all into place, never to be removed unless you want to drill out all the rivets.  Fortunately fellow OneX builder Denny Marick told me about the Air Ward kit to make this glare shield removable.  It mostly involves installing nut plate where rivets would go.  Each nut plate requires 2 extra holes where rivets will hold the nut plate on. It adds a good deal more work, but it’s worth it in the end.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-23/1.jpg&quot; alt=&quot;Fitting&quot; /&gt;&lt;/p&gt;</content><summary type="html">Don’t be decieved.  In the image below, the windshield and canopy are merely resting on top of the fuselage.  They are not fastened.</summary></entry></feed>
