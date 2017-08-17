@@ -1,5 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-14T21:32:02-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Elevator</title><link href="http://micahmartin.com/onex/2017/08/14/elevator.html" rel="alternate" type="text/html" title="Elevator" /><published>2017-08-14T00:00:00-07:00</published><updated>2017-08-14T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/14/elevator</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/14/elevator.html">&lt;p&gt;Primary activity today: filing sheet metal holes.  I’ll explain.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-16T19:51:15-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Flaps Controls</title><link href="http://micahmartin.com/onex/2017/08/16/flaps-controls.html" rel="alternate" type="text/html" title="Flaps Controls" /><published>2017-08-16T00:00:00-07:00</published><updated>2017-08-16T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/16/flaps-controls</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/16/flaps-controls.html">&lt;h4 id=&quot;flaps-handle&quot;&gt;Flaps Handle&lt;/h4&gt;
+
+&lt;p&gt;Installed this yesterday.  Nothing much of interest to report.  I decided not to connect the rods so they wouldn’t get in the way when I work on the wings.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-16/1.jpg&quot; alt=&quot;Flaps Control&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;elevator-trim&quot;&gt;Elevator Trim&lt;/h4&gt;
+
+&lt;p&gt;The elevator trim arrived right when I finished the flaps. The cable has to be routed from the instrument panel to behind the trim lever where the two rods meet.  After considering my options, I drilled some holes in the side fuselage beams, stuck some rubber gromets in there and rand the cable.  I think it looks decent.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-16/2.jpg&quot; alt=&quot;Trim Routing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;These springs hold the elevator in a neutral position, and they’re connected to trim cable on the right side of the picture.  I’ll have to reconfigure the wire tension when I figure out where the trim knob will be mounted.  And I realized that my forward spring hole won’t work since the rear spar has to go there.  So I’ll relocate that.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-16/3.jpg&quot; alt=&quot;Trim Connection&quot; /&gt;&lt;/p&gt;</content><summary type="html">Flaps Handle</summary></entry><entry><title type="html">Elevator</title><link href="http://micahmartin.com/onex/2017/08/14/elevator.html" rel="alternate" type="text/html" title="Elevator" /><published>2017-08-14T00:00:00-07:00</published><updated>2017-08-14T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/14/elevator</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/14/elevator.html">&lt;p&gt;Primary activity today: filing sheet metal holes.  I’ll explain.&lt;/p&gt;
 
 &lt;p&gt;Next up on the controls was the control stick and elevator rods.  The control stick mounts on the front side of the main spar with the stick right in the middle.  I was trying to figure out where to drill the holes to mount, when I saw some empty holes in the spar that match the control stick; but they were backwards.  Doh!  I riveted the spar together with the center beams backwards! Go figure.  I had flipped those beams over so many time trying to figure out which way was right.  No big deal.  Some fresh rivets to plug those holes, drilled new holes solved the problem.&lt;/p&gt;
 
@@ -175,21 +189,4 @@ After spending tons of time sanding with little effect, I discovered that I coul
 
 &lt;p&gt;The picture below shows the rear latch wear plate that I installed.  Some extra aluminum spacers were added to remove some of the slack.  Sadly, the front wear plate wouldn’t fit because the throttle mount is in the way.  I had to cut it in half and use only one bolt to attach it.  Not sure how the plans missed this.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-25/3.jpg&quot; alt=&quot;Canopy Latch&quot; /&gt;&lt;/p&gt;</content><summary type="html">So OnexMike’s technique didn’t work for me.  I lined up the bow with the template and pounded it with the rubber hammer and nothing happened except a lot of bouncing.  I’m not sure how he got it to work.  No problem.  I had a plan “B” which was to make a bending break.  That worked well.  Though it was a bit of a puzzle to figure out where exactly the bends were needed.</summary></entry><entry><title type="html">Buckle Up</title><link href="http://micahmartin.com/onex/2017/05/24/buckle-up.html" rel="alternate" type="text/html" title="Buckle Up" /><published>2017-05-24T00:00:00-07:00</published><updated>2017-05-24T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/05/24/buckle-up</id><content type="html" xml:base="http://micahmartin.com/onex/2017/05/24/buckle-up.html">&lt;h4 id=&quot;windshield&quot;&gt;Windshield&lt;/h4&gt;
-
-&lt;p&gt;Got the windshield fastened today.  Lots of details were involved.  One problem I had was that the holes on the fuselage needed to be dimpled, but the holes were too big for the two dimple dies included.  But I figured out how to make one.  In the second picture you can see that my once soft computer programmer hands have been beat up and turned into tough mechanic hands.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-24/1.jpg&quot; alt=&quot;Finished Windshield&quot; /&gt;
-&lt;img src=&quot;/onex/img/2017-05-24/2.jpg&quot; alt=&quot;Dimple Die&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;seat-belts&quot;&gt;Seat belts&lt;/h4&gt;
-
-&lt;p&gt;The bolts for the seat belts (that weren’t included in the hardware kit &lt;em&gt;grrr&lt;/em&gt;) arrived today.  I had previously prepared the attach points so I bolted them on.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-24/3.jpg&quot; alt=&quot;Seat Belts&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Starting on the canopy, I counted all the parts the plans call for that weren’t in the kit.  There are four.  Four parts that should have been in the kit.  So I emailed Kerry.  In the mean time I considered the canopy bows.  These are aluminum tubes that frame the inside of the canopy.   They come in rough curves but need to be shaped precisely and cut to length.  But how do you bend an aluminum tube to shape?  Well &lt;a href=&quot;http://www.oy-raf.dk/&quot;&gt;Bjarne Jensen&lt;/a&gt; hit me up over email and suggested I look at &lt;a href=&quot;http://onex-svingenb.blogspot.dk/&quot;&gt;Bjoernar Swingen’s blog&lt;/a&gt;. I noticed he used play work templates. I thought I’d give it a try.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-24/4.jpg&quot; alt=&quot;Canopy Bow Template&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Once I made the template, I realized that I’m gonne need something stronger than my hands to bend it.  So I found &lt;a href=&quot;http://www.onexmike.org/canopy.html&quot;&gt;this post by good old OneX Mike&lt;/a&gt;.  I’ll give it a try tomorrow.&lt;/p&gt;</content><summary type="html">Windshield</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-25/3.jpg&quot; alt=&quot;Canopy Latch&quot; /&gt;&lt;/p&gt;</content><summary type="html">So OnexMike’s technique didn’t work for me.  I lined up the bow with the template and pounded it with the rubber hammer and nothing happened except a lot of bouncing.  I’m not sure how he got it to work.  No problem.  I had a plan “B” which was to make a bending break.  That worked well.  Though it was a bit of a puzzle to figure out where exactly the bends were needed.</summary></entry></feed>
