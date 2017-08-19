@@ -1,5 +1,33 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-16T19:51:15-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Flaps Controls</title><link href="http://micahmartin.com/onex/2017/08/16/flaps-controls.html" rel="alternate" type="text/html" title="Flaps Controls" /><published>2017-08-16T00:00:00-07:00</published><updated>2017-08-16T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/16/flaps-controls</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/16/flaps-controls.html">&lt;h4 id=&quot;flaps-handle&quot;&gt;Flaps Handle&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-19T11:30:42-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Engine Mounted</title><link href="http://micahmartin.com/onex/2017/08/18/engine-mounted.html" rel="alternate" type="text/html" title="Engine Mounted" /><published>2017-08-18T00:00:00-07:00</published><updated>2017-08-18T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/18/engine-mounted</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/18/engine-mounted.html">&lt;h4 id=&quot;engine-mounting&quot;&gt;Engine Mounting&lt;/h4&gt;
+
+&lt;p&gt;The engine is mounted!  I recruited some help; specifically my friend Rob, my son Luka and his friends Caleb and David.  They were off to a high school football game so their friends Siri, Kayla, and Elly were over to eat first and car pool.  I had more help than I needed, at least I thought so.&lt;/p&gt;
+
+&lt;p&gt;Four of us guys lifted the engine while one helped line it up and insert bolts.  It took a few tries though.  The rubber grommets/bushings fit real tight and they were hard to get into place.  Then we realized that the bolts would only fit while the engine was off the mount.&lt;/p&gt;
+
+&lt;p&gt;While pushing the engine in place, the plane kept rolling backwards.  Thankfully the girls where there.  They got behind the main spar and held the plane in place.  Everyone played a part and it was fortunate that they were all there.&lt;/p&gt;
+
+&lt;p&gt;I swelled with a sence of accomplishment finally seeing the engine on the fuselage.  Special thanks goes out to my team of high spirited helpers.  Thanks!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-18/1.jpg&quot; alt=&quot;Engine Mounted&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;With the engine mounted I can start to figure out where all the remaining controls, wires, cables, etc. need to go.&lt;/p&gt;
+
+&lt;h4 id=&quot;rear-spar&quot;&gt;Rear Spar&lt;/h4&gt;
+
+&lt;p&gt;While waiting on my engine helpers, I worked on some wing parts for a couple days.  The rear spar is now assembled.  Getting the subtle angled on the ends (not really visible here) was the only real tricky part.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-18/2.jpg&quot; alt=&quot;Rear Spar&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;wing-ribs&quot;&gt;Wing Ribs&lt;/h4&gt;
+
+&lt;p&gt;What you see in the picture below is all the wing ribs for the inboard spar, and a couple for the outboard.  There’s more ribs, but all these were the same part number so I figured I’d work on them together.&lt;/p&gt;
+
+&lt;p&gt;Boy was it tedious.  Mind-numbing.  16 nearly identical sets of parts each needing, clecoing, updrilling, de-burring, filing, scotchbriting, cleaning, and finally riveting.  What a relief when those were done…&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-18/3.jpg&quot; alt=&quot;Wing Ribs&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;All the wing parts are set aside for the time being.  I’ll start attaching them when I’m pretty much done working inside the fuselage so the wings don’t get in the way.&lt;/p&gt;</content><summary type="html">Engine Mounting</summary></entry><entry><title type="html">Flaps Controls</title><link href="http://micahmartin.com/onex/2017/08/16/flaps-controls.html" rel="alternate" type="text/html" title="Flaps Controls" /><published>2017-08-16T00:00:00-07:00</published><updated>2017-08-16T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/16/flaps-controls</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/16/flaps-controls.html">&lt;h4 id=&quot;flaps-handle&quot;&gt;Flaps Handle&lt;/h4&gt;
 
 &lt;p&gt;Installed this yesterday.  Nothing much of interest to report.  I decided not to connect the rods so they wouldn’t get in the way when I work on the wings.&lt;/p&gt;
 
@@ -173,20 +201,4 @@ After spending tons of time sanding with little effect, I discovered that I coul
 
 &lt;p&gt;I’m currently at the finer details of the cuts.  I drilled holes on the top front and back so I could cleco it to the frame.  But the frame is floating right now because it ultimately get’s fastened to the canopy and nothing else.  Double trouble.  Hopefully tomorrow I don’t screw it all up.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-07/1.jpg&quot; alt=&quot;Half Complete Canopy&quot; /&gt;&lt;/p&gt;</content><summary type="html">Last week we were on vacation which was great.  In the mean time, all the parts I ordered were delivered and waiting for me.  So I continued with the canopy.</summary></entry><entry><title type="html">Canopy Bows</title><link href="http://micahmartin.com/onex/2017/05/25/canopy-bows.html" rel="alternate" type="text/html" title="Canopy Bows" /><published>2017-05-25T00:00:00-07:00</published><updated>2017-05-25T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/05/25/canopy-bows</id><content type="html" xml:base="http://micahmartin.com/onex/2017/05/25/canopy-bows.html">&lt;p&gt;So &lt;a href=&quot;http://www.onexmike.org/canopy.html&quot;&gt;OnexMike’s technique&lt;/a&gt; didn’t work for me.  I lined up the bow with the template and pounded it with the rubber hammer and nothing happened except a lot of bouncing.  I’m not sure how he got it to work.  No problem.  I had a plan “B” which was to make a bending break.  That worked well.  Though it was a bit of a puzzle to figure out where exactly the bends were needed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-25/1.jpg&quot; alt=&quot;Bending Break&quot; /&gt;
-&lt;img src=&quot;/onex/img/2017-05-25/2.jpg&quot; alt=&quot;Bent Bow&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Kerry, Sonex support, insists that all my missing parts are my responsibility.  Oh well.  My solutions:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Canopy Latch Handle:  I made one today with some extra aluminum angle&lt;/li&gt;
-  &lt;li&gt;Phenolic (plastic) for latch wear plate:  I tested the windshield plastic and found it to be very similar in strength and texture, So I used that instead.  See picture below.&lt;/li&gt;
-  &lt;li&gt;Square tube: Used for the sides of the canopy frame.  Funny enough, the kit included enough of this to make one side, but not enough to make both.  I ordered more.&lt;/li&gt;
-  &lt;li&gt;Round tube: Used to make cross brace on back of canopy.  I ordered extra square tube for this.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The picture below shows the rear latch wear plate that I installed.  Some extra aluminum spacers were added to remove some of the slack.  Sadly, the front wear plate wouldn’t fit because the throttle mount is in the way.  I had to cut it in half and use only one bolt to attach it.  Not sure how the plans missed this.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-05-25/3.jpg&quot; alt=&quot;Canopy Latch&quot; /&gt;&lt;/p&gt;</content><summary type="html">So OnexMike’s technique didn’t work for me.  I lined up the bow with the template and pounded it with the rubber hammer and nothing happened except a lot of bouncing.  I’m not sure how he got it to work.  No problem.  I had a plan “B” which was to make a bending break.  That worked well.  Though it was a bit of a puzzle to figure out where exactly the bends were needed.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-07/1.jpg&quot; alt=&quot;Half Complete Canopy&quot; /&gt;&lt;/p&gt;</content><summary type="html">Last week we were on vacation which was great.  In the mean time, all the parts I ordered were delivered and waiting for me.  So I continued with the canopy.</summary></entry></feed>
