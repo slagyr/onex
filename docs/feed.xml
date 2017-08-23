@@ -1,5 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-19T11:30:42-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Engine Mounted</title><link href="http://micahmartin.com/onex/2017/08/18/engine-mounted.html" rel="alternate" type="text/html" title="Engine Mounted" /><published>2017-08-18T00:00:00-07:00</published><updated>2017-08-18T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/18/engine-mounted</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/18/engine-mounted.html">&lt;h4 id=&quot;engine-mounting&quot;&gt;Engine Mounting&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-23T16:22:39-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Outboard Spar</title><link href="http://micahmartin.com/onex/2017/08/23/outboard-spar.html" rel="alternate" type="text/html" title="Outboard Spar" /><published>2017-08-23T00:00:00-07:00</published><updated>2017-08-23T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/23/outboard-spar</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/23/outboard-spar.html">&lt;p&gt;I received all the avionics from Dynon.  That’s exciting.  It’s also exciting having the engine mounted.  But it’s all overwhelming.  There’s so many questions:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;What are all the parts that need to be mounted to the firewall?  Where do I put them all?&lt;/li&gt;
+  &lt;li&gt;How many things go on the panel and what the best way to lay it out?&lt;/li&gt;
+  &lt;li&gt;Where do all the fuel system components go?&lt;/li&gt;
+  &lt;li&gt;Oil system?&lt;/li&gt;
+  &lt;li&gt;Electrical system?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There were a few things I could easily attach to the engine.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Oil cooler&lt;/li&gt;
+  &lt;li&gt;Mufflers&lt;/li&gt;
+  &lt;li&gt;Starter&lt;/li&gt;
+  &lt;li&gt;Spark plugs&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I did these on Monday (after watching the eclipse) and they can all be seen in the picture below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-23/1.jpg&quot; alt=&quot;Engine Components&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m hoping that &lt;a href=&quot;http://www.aircraftwiringguide.com/&quot;&gt;Aircraft Wiring Guide by Marc Ausman&lt;/a&gt; book that I ordered from Lulu will help answer many of the questions.  It should arrive tomorrow.  I’ve also got an appointment to visit two other Sonex builders tomorrow morning, Denny Smith and Jim Armstrong.  I’m hoping I can get answers to my remaining questions from them and their builds.&lt;/p&gt;
+
+&lt;p&gt;In the mean time, yesterday and today I worked on the outboard spars.  These are the main supports for the outer parts of the wings that fold up.  These were a little easier than the main spar but my experience allowed me to complete them much faster.  Bucking rivets is exhausting so I quite a bit earlier than normal today.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-23/2.jpg&quot; alt=&quot;Outboard Spars&quot; /&gt;&lt;/p&gt;</content><summary type="html">I received all the avionics from Dynon.  That’s exciting.  It’s also exciting having the engine mounted.  But it’s all overwhelming.  There’s so many questions:
+
+  What are all the parts that need to be mounted to the firewall?  Where do I put them all?
+  How many things go on the panel and what the best way to lay it out?
+  Where do all the fuel system components go?
+  Oil system?
+  Electrical system?
+
+
+There were a few things I could easily attach to the engine.
+
+  Oil cooler
+  Mufflers
+  Starter
+  Spark plugs
+
+
+I did these on Monday (after watching the eclipse) and they can all be seen in the picture below.</summary></entry><entry><title type="html">Engine Mounted</title><link href="http://micahmartin.com/onex/2017/08/18/engine-mounted.html" rel="alternate" type="text/html" title="Engine Mounted" /><published>2017-08-18T00:00:00-07:00</published><updated>2017-08-18T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/18/engine-mounted</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/18/engine-mounted.html">&lt;h4 id=&quot;engine-mounting&quot;&gt;Engine Mounting&lt;/h4&gt;
 
 &lt;p&gt;The engine is mounted!  I recruited some help; specifically my friend Rob, my son Luka and his friends Caleb and David.  They were off to a high school football game so their friends Siri, Kayla, and Elly were over to eat first and car pool.  I had more help than I needed, at least I thought so.&lt;/p&gt;
 
@@ -181,24 +223,4 @@ Next up on the controls was the control stick and elevator rods.  The control st
 
 &lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-12/1.jpg&quot; alt=&quot;Canopy All Cut&quot; /&gt;&lt;/p&gt;</content><summary type="html">With the canopy roughly cut to size, I decided my best stratefy would be to cleco it to the frame.  This was a commitment because I couldn’t move the holes I had to drill.  Even though I couldn’t figure out if the canopy was the right size or shape, I figured it couldn’t be more than 1/4” off at this point.
 
-After spending tons of time sanding with little effect, I discovered that I could use the oscillating saw to shave off millimeters of material at a time.  Perfect!  That allowed me to cut the hinge side to fit.  With one side hinged, the “cut, try it on, cut” process became much quicker.  Not that it was easy.  It still took about ten more hours to get it in good shape.  But at least I didn’t have to take it off and prop it up on a saw horse for every cut.</summary></entry><entry><title type="html">Nervous Procrastination</title><link href="http://micahmartin.com/onex/2017/06/07/nervous-procrastination.html" rel="alternate" type="text/html" title="Nervous Procrastination" /><published>2017-06-07T00:00:00-07:00</published><updated>2017-06-07T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/06/07/nervous-procrastination</id><content type="html" xml:base="http://micahmartin.com/onex/2017/06/07/nervous-procrastination.html">&lt;p&gt;Last week we were on vacation which was great.  In the mean time, all the parts I ordered were delivered and waiting for me.  So I continued with the canopy.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-07/2.jpg&quot; alt=&quot;Frame&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The frame was not too bad.  Cutting the canopy has been hard.  I’m worried that if I screw up too much, I have to order a new canopy and start from scratch.  I find myself walking around, finding reasons not to make the next cut.&lt;/p&gt;
-
-&lt;p&gt;I’ve been using the DeWalt oscillating tool which is great.  It allows me to cut exactly where I want.  Many of the blogs I’ve read say you need two people to cut the canopy.  Not so with the oscillating tool.  One hand holds the canopy, the other cuts.  It’s very precise. So cutting where I want to cut is not a problem.  Knowing where to cut… that’s the challenge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-07/3.jpg&quot; alt=&quot;Cutting Setup&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Blogs suggested multiple cuts to make sure you don’t over do it.  I started with the front edge and did just that; made multiple cuts.  But I was left with and uneven edge.  Over and over I sanded the protruding edges and put the canopy back on to try it on.  When my arm became sore from sanding with the sanding block, I remember that the oscillating tool came with a sanding head.  That worked great.  The routine sped up.  Try canopy on; pull it off and place on saw horse; sand protrusions; repeat.  I marked the areas to work on with a sharpie and after a while, there were so many marks I couldn’t remember which was which.  So right after sanding, I applied some alcohol to wipe off the sharpie.  Then I noticed the cracks.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-07/4.jpg&quot; alt=&quot;Cracks&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Cracks!  How did those get there?  They weren’t big, but they definitely weren’t there before.  I concluded that it was the change in temperature.  The sanding got the surface hot, then a couple sprays of alcohol cooled it off, a lot; crack.  Fortunately, there was plenty of material on the rear of the canopy so I slid it forward about half an inch and started the process all over.  This may have actually saved me some time because my new cut was much smoother.&lt;/p&gt;
-
-&lt;p&gt;The canopy is all curves.  Not in a good way.  You can’t know exactly where to cut because the canopy doesn’t fit.  You have to flex it to draw the line where you think you want to cut.  When you make the cut it fits totally different.  So, yeah, you do have to make multiple cuts.  Try to figure out how much of an edge you can cut without cutting too much.  Then try it on and figure out where to make the next cut.&lt;/p&gt;
-
-&lt;p&gt;I’m currently at the finer details of the cuts.  I drilled holes on the top front and back so I could cleco it to the frame.  But the frame is floating right now because it ultimately get’s fastened to the canopy and nothing else.  Double trouble.  Hopefully tomorrow I don’t screw it all up.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-07/1.jpg&quot; alt=&quot;Half Complete Canopy&quot; /&gt;&lt;/p&gt;</content><summary type="html">Last week we were on vacation which was great.  In the mean time, all the parts I ordered were delivered and waiting for me.  So I continued with the canopy.</summary></entry></feed>
+After spending tons of time sanding with little effect, I discovered that I could use the oscillating saw to shave off millimeters of material at a time.  Perfect!  That allowed me to cut the hinge side to fit.  With one side hinged, the “cut, try it on, cut” process became much quicker.  Not that it was easy.  It still took about ten more hours to get it in good shape.  But at least I didn’t have to take it off and prop it up on a saw horse for every cut.</summary></entry></feed>
