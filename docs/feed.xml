@@ -1,5 +1,50 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-23T16:22:39-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Outboard Spar</title><link href="http://micahmartin.com/onex/2017/08/23/outboard-spar.html" rel="alternate" type="text/html" title="Outboard Spar" /><published>2017-08-23T00:00:00-07:00</published><updated>2017-08-23T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/23/outboard-spar</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/23/outboard-spar.html">&lt;p&gt;I received all the avionics from Dynon.  That’s exciting.  It’s also exciting having the engine mounted.  But it’s all overwhelming.  There’s so many questions:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-30T20:21:35-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Breadth First Building</title><link href="http://micahmartin.com/onex/2017/08/30/breadth-first-building.html" rel="alternate" type="text/html" title="Breadth First Building" /><published>2017-08-30T00:00:00-07:00</published><updated>2017-08-30T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/30/breadth-first-building</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/30/breadth-first-building.html">&lt;p&gt;In the past week, I started on several tasks, unable to complete any for various reasons.  However, much progress has been made.&lt;/p&gt;
+
+&lt;h4 id=&quot;sonex-build-visits&quot;&gt;Sonex Build Visits&lt;/h4&gt;
+
+&lt;p&gt;Last Thursday I went to visit Denny and Jim at Deer Valley airport to check out their builds.  It’s always fruitful to see how other people build their planes.  I got plenty of ideas for improving my build.  And I got a better sense of how to proceed with the engine and electronic components.&lt;/p&gt;
+
+&lt;p&gt;Jim’s hangar was my first stop.  He’s been working on his Sonex for 12 years.  Maybe that’s because there are lots of distractions at the airport. At least three people stopped by within an hour to chat and check out the build.  Anyhow, Jim gave me a great tour and then got help from Denny to start up the engine and see how it ran.  Purred like a tiger.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/2.jpg&quot; alt=&quot;Jim's Build&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On the walk to Denny’s hangar I got a special treat.  Hoa, another Sonex owner was cleaning his beautiful bird.  He proudly presented his vinyl wrap job, which is truly nice.  He outsourced it and paid less than half what a paint job costs.  I still want to do my own wrap.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/1.jpg&quot; alt=&quot;Hoa's Sonex&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Denny’s Sonex has been flying for 9 years.  He did a wonderful job building it and he’s put over 700 hours on it since.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/3.jpg&quot; alt=&quot;Denny's Sonex&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In the afternoon after the visits, I did a bit of work on the wing fold.  I wanted to better understand how they connect and fold.  While looking at it, I notices some flat heads protruding where the outboard spar attaches.  That’s not good.  So I took it apart and cleaned it up.&lt;/p&gt;
+
+&lt;p&gt;On Friday, I pulled out AirWard’s fuel shutoff kit and began work.  But I couldn’t figure it out so I emailed Dave.  He helped me realize that there was a missing part that I was able to pick up at the hardware store.&lt;/p&gt;
+
+&lt;h4 id=&quot;electrical-diagrams&quot;&gt;Electrical Diagrams&lt;/h4&gt;
+
+&lt;p&gt;I received the Aircraft Wiring Guild over the week end and read it.  Although short, it spelled out a lot of things that were not obvious to me.  With what I learned, I was able to draw a couple schematics (below) of the electrical system I intend to build.  This was intense! Very details oriented.  What you can’t see is my spreadsheet detailing every wire; its gauge, ends points, terminators, and length.  It took about 2 days.&lt;/p&gt;
+
+&lt;p&gt;With these, I was able to order all the wires, terminators, switches, and various electrical components I should need to wire everything together.  I fear it may take quite a while to complete.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/4.png&quot; alt=&quot;Main Electrical&quot; /&gt;
+&lt;img src=&quot;/onex/img/2017-08-30/5.png&quot; alt=&quot;Avionics&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;fuel-shutoff&quot;&gt;Fuel Shutoff&lt;/h4&gt;
+
+&lt;p&gt;Another problem with the fuel shutoff kits is that Sonex has recently stoped building tanks with builtin ports and is including their Oops fittings instead.  The Oops fitting is a threaded, flanged tube that has to be inserted from the inside of the tank.  With a nut on the outside and rubber washers in and out, the Oops fitting seems very secure.  But Dave, from AirWard, hadn’t updated his kit to accommodate the Oops fittings so I had to get a bit creative to make it work.  But it does work, nicely.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/6.jpg&quot; alt=&quot;Fuel Shutoff&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There’s two more kits for the fuel system.  The fuel system kit, which contains all the basic parts, and a kit to eliminate &lt;a href=&quot;http://www.sonexbuilders.net/viewtopic.php?f=33&amp;amp;t=1139&amp;amp;start=10&quot;&gt;the infamous “Burp” symptom of the AeroInjector&lt;/a&gt;.  The instructions for the burp kit were mind boggling.  I emailed Dave some more.  Eventually, after reading all the fuel system instructions multiple times and drawing diagrams, the system made sense and I could visualize it.  Great!  But the fuel components can’t interfere with the cowling, which hasn’t been installed yet.&lt;/p&gt;
+
+&lt;h4 id=&quot;cowling&quot;&gt;Cowling&lt;/h4&gt;
+
+&lt;p&gt;The fuel system is on hold so I can work on the cowling.  Cutting and sanding fiberglass…. fun.  It cuts like butter compared to metal, but fiberglass particles go everywhere (ichy), and the chemical smells can’t be healthy.&lt;/p&gt;
+
+&lt;p&gt;This project brings back painstaking memories of the windshield.  The cowlings have to be cut in multiple places.  Most annoying is the engine rocker covers that stick out the side on a OneX.  The cowling won’t fit into place without the engine cover cut out.  And you don’t know where to make the cutout without fitting the cowling into place.  So it’s another game of install as much as possible, make tiny cuts, uninstall, cut, repeat.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/7.jpg&quot; alt=&quot;Bottom Cowling&quot; /&gt;&lt;/p&gt;</content><summary type="html">In the past week, I started on several tasks, unable to complete any for various reasons.  However, much progress has been made.</summary></entry><entry><title type="html">Outboard Spar</title><link href="http://micahmartin.com/onex/2017/08/23/outboard-spar.html" rel="alternate" type="text/html" title="Outboard Spar" /><published>2017-08-23T00:00:00-07:00</published><updated>2017-08-23T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/23/outboard-spar</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/23/outboard-spar.html">&lt;p&gt;I received all the avionics from Dynon.  That’s exciting.  It’s also exciting having the engine mounted.  But it’s all overwhelming.  There’s so many questions:&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;What are all the parts that need to be mounted to the firewall?  Where do I put them all?&lt;/li&gt;
   &lt;li&gt;How many things go on the panel and what the best way to lay it out?&lt;/li&gt;
@@ -215,12 +260,4 @@ Next up on the controls was the control stick and elevator rods.  The control st
 
 &lt;p&gt;Then I removed the canopy, windshield, and glare shield.  Now I’ll have access to work on controls, wings, fuel system, power system, and electronics when I return from summer break.  The bird is looking bare again.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-14/3.jpg&quot; alt=&quot;Disassembled&quot; /&gt;&lt;/p&gt;</content><summary type="html">Yesterday I finished the canopy.  See below.  It’s… okay.  I’m not thrilled with how it turned out, but it’s good enough that I don’t feel the need to redo it.  My main gripe is that there’s two spots where it bows up, not fitting flush with the edges.  On the front edge, there’s a gap where air will certainly flood into the cockpit.  This I ameliorated with some foam tape which fills the gap and makes a good seal all around.  On the rear gap, well I’ll have to revisit that later.</summary></entry><entry><title type="html">Millimeters at a Time</title><link href="http://micahmartin.com/onex/2017/06/12/millimeters-at-a-time.html" rel="alternate" type="text/html" title="Millimeters at a Time" /><published>2017-06-12T00:00:00-07:00</published><updated>2017-06-12T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/06/12/millimeters-at-a-time</id><content type="html" xml:base="http://micahmartin.com/onex/2017/06/12/millimeters-at-a-time.html">&lt;p&gt;With the canopy roughly cut to size, I decided my best stratefy would be to cleco it to the frame.  This was a commitment because I couldn’t move the holes I had to drill.  Even though I couldn’t figure out if the canopy was the right size or shape, I figured it couldn’t be more than 1/4” off at this point.&lt;/p&gt;
-
-&lt;p&gt;After spending tons of time sanding with little effect, I discovered that I could use the oscillating saw to shave off millimeters of material at a time.  Perfect!  That allowed me to cut the hinge side to fit.  With one side hinged, the “cut, try it on, cut” process became much quicker.  Not that it was easy.  It still took about ten more hours to get it in good shape.  But at least I didn’t have to take it off and prop it up on a saw horse for every cut.&lt;/p&gt;
-
-&lt;p&gt;Tomorrow I’ll tidy up all the parts, install all the screws, and be thankful that part of the build is over.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-12/1.jpg&quot; alt=&quot;Canopy All Cut&quot; /&gt;&lt;/p&gt;</content><summary type="html">With the canopy roughly cut to size, I decided my best stratefy would be to cleco it to the frame.  This was a commitment because I couldn’t move the holes I had to drill.  Even though I couldn’t figure out if the canopy was the right size or shape, I figured it couldn’t be more than 1/4” off at this point.
-
-After spending tons of time sanding with little effect, I discovered that I could use the oscillating saw to shave off millimeters of material at a time.  Perfect!  That allowed me to cut the hinge side to fit.  With one side hinged, the “cut, try it on, cut” process became much quicker.  Not that it was easy.  It still took about ten more hours to get it in good shape.  But at least I didn’t have to take it off and prop it up on a saw horse for every cut.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-14/3.jpg&quot; alt=&quot;Disassembled&quot; /&gt;&lt;/p&gt;</content><summary type="html">Yesterday I finished the canopy.  See below.  It’s… okay.  I’m not thrilled with how it turned out, but it’s good enough that I don’t feel the need to redo it.  My main gripe is that there’s two spots where it bows up, not fitting flush with the edges.  On the front edge, there’s a gap where air will certainly flood into the cockpit.  This I ameliorated with some foam tape which fills the gap and makes a good seal all around.  On the rear gap, well I’ll have to revisit that later.</summary></entry></feed>
