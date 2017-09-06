@@ -1,5 +1,42 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-08-30T20:21:35-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Breadth First Building</title><link href="http://micahmartin.com/onex/2017/08/30/breadth-first-building.html" rel="alternate" type="text/html" title="Breadth First Building" /><published>2017-08-30T00:00:00-07:00</published><updated>2017-08-30T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/30/breadth-first-building</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/30/breadth-first-building.html">&lt;p&gt;In the past week, I started on several tasks, unable to complete any for various reasons.  However, much progress has been made.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-09-05T18:58:41-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Burp Elimination</title><link href="http://micahmartin.com/onex/2017/09/05/burp-elimination.html" rel="alternate" type="text/html" title="Burp Elimination" /><published>2017-09-05T00:00:00-07:00</published><updated>2017-09-05T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/05/burp-elimination</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/05/burp-elimination.html">&lt;h4 id=&quot;cowling&quot;&gt;Cowling&lt;/h4&gt;
+
+&lt;p&gt;It took a great deal of time and care to get the cowling cut nicely.  Once it fit well, I added the camlocks (from an Aeroward kit) to fasten the top cowling to the bottom.&lt;/p&gt;
+
+&lt;p&gt;The seams between the two halves were crooked (unavoidably) and I couldn’t leave it like that.  I made some micro-paste with epoxy and micro-bubbles to fill in the seams (see the first picture) and sanded them flush.  It turned out much cleaner I think.  There was also some sag in the bottom corners because I didn’t notice when I lined up the hinge rivets.  That part was probably a two man job but I did it solo.  So I reinforced the inside of the bottom corners with maybe 10 layers of fiberglass.  When dry, I sanded bottoms flush with the fuselage.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-05/1.jpg&quot; alt=&quot;Colwing Patchup&quot; /&gt;
+&lt;img src=&quot;/onex/img/2017-09-05/2.jpg&quot; alt=&quot;Cowling Complete&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;throttle--mixture-cables&quot;&gt;Throttle &amp;amp; Mixture Cables&lt;/h4&gt;
+
+&lt;p&gt;The plans leave it up the builder how to run the throttle and mixture cables.  Not wanting to drill excessive holes in the longerons and support angles, I fabricated some brackets and mounted them to existing holes.  The AirWard kit came with some nice cable-safe firewall pass-throughs to use.&lt;/p&gt;
+
+&lt;p&gt;When I drilled the hole for the gascolator line, I butchered that part of the firewall.  The steel is hard to drill, but very bendy.  The large drill bits catch and twist the thin steel.  So for the throttle and mixture pass-throughs, I added aluminum plates on the inside and out. This reinforcement made very clean holes.&lt;/p&gt;
+
+&lt;p&gt;Rob helped me guide the cables through the bracket holes in which I had embedded rubber grommets.  This was an ordeal because the grommets kept popping out and we had to pull the cables out, re-insert the grommets, and try again.  The cables are a bit thicker where they bend and that’s where the brackets located, at the bends.  We eventually got it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-05/3.jpg&quot; alt=&quot;Cable Run&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This morning I connected all the cables to the controls and the AeroInjector.  The throttle was straight forward.  The mixture cable had a couple gotchas.&lt;/p&gt;
+
+&lt;p&gt;First, to cut the line to size you need to pull the inner cable out.  The mixture cable comes with the warning tag that says something like: “Do not poll knob out more then 3 inches or a ball bearning will pop out and the control will not function.”  Of course the first time I saw that I pulled it more than 3” and a tiny ball bearing did indeed pop out, and the knob no longer functioned.  I managed to find the ball bearing, get it back in and the the knob worked once again.  So today I was careful to catch the ball and no harm done.&lt;/p&gt;
+
+&lt;p&gt;Second, with the mixture cable attached to the AeroInjector, the inner wire had a tendency to bend when I push the mixture full-rich or pull it (lean it), and the arm would not fully open or close.  With a washer to separate the wire from the mixture arm, and careful adjustment of the lock nut, the wire can swivel and avoid the bend.  Add to that some safety wire to hold the outer cable in place, and it resists tendency to bend even more.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-05/4.jpg&quot; alt=&quot;AeroInjector Cables&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;fuel-lines--burp-elimination&quot;&gt;Fuel Lines / Burp Elimination&lt;/h4&gt;
+
+&lt;p&gt;You can see in the next picture the AirWard burp elimination system.  Aluminum tube running all along the edge of the firewall, an extra flex tube running to the AeroInjector, and a “T” junction that penetrates the firewall and connects to the fuel tank vent.  The principle is that high line will allow any air bubbles to escape and since it’ll be filled with fuel, it’ll add extra pressure to the line.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-05/5.jpg&quot; alt=&quot;Burp Elimination&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Bending and flaring these aluminum tubes was a new experience.  Pipe bending, cutting, and flaring tools are fairly inexpensive.  Those adel clamps hole the lines in place nicely.  I had to cut an extra little hole in the bottom cowling for the vent tube.  When I tried the cowling on again, it was blocked by air filter (I had installed it earlier today) which was rubbing against the bottom of the cowling.  Sigh.  I trimmed the rubber tube that connects the AeroInjector to the intake manifold to no avail.  After googling the problem, other builders had resorted to alternative air filters.  So I ordered a &lt;a href=&quot;https://www.amazon.com/gp/product/B00062YOIG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;K&amp;amp;N RC-1980&lt;/a&gt; from Amazon.  Hopefully that works.&lt;/p&gt;
+
+&lt;p&gt;These are the last two Oops fittings that go in the fuel tank.  A drain valve goes in one and the fuel level sensor will go in the other.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-05/6.jpg&quot; alt=&quot;Fuel Tank Oops Fittings&quot; /&gt;&lt;/p&gt;</content><summary type="html">Cowling</summary></entry><entry><title type="html">Breadth First Building</title><link href="http://micahmartin.com/onex/2017/08/30/breadth-first-building.html" rel="alternate" type="text/html" title="Breadth First Building" /><published>2017-08-30T00:00:00-07:00</published><updated>2017-08-30T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/30/breadth-first-building</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/30/breadth-first-building.html">&lt;p&gt;In the past week, I started on several tasks, unable to complete any for various reasons.  However, much progress has been made.&lt;/p&gt;
 
 &lt;h4 id=&quot;sonex-build-visits&quot;&gt;Sonex Build Visits&lt;/h4&gt;
 
@@ -250,14 +287,4 @@ Next up on the controls was the control stick and elevator rods.  The control st
 
 &lt;p&gt;This was just an easy task I was able to knock out.  The plans call for machine screws that thread into the skins.  I felt better using nut plates.  It took a bit longer but should hold up better over time.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-04/6.jpg&quot; alt=&quot;Access Plate&quot; /&gt;&lt;/p&gt;</content><summary type="html">Summer was awesome but it’s time to get back to work.</summary></entry><entry><title type="html">Loose Ends</title><link href="http://micahmartin.com/onex/2017/06/14/loose-ends.html" rel="alternate" type="text/html" title="Loose Ends" /><published>2017-06-14T00:00:00-07:00</published><updated>2017-06-14T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/06/14/loose-ends</id><content type="html" xml:base="http://micahmartin.com/onex/2017/06/14/loose-ends.html">&lt;p&gt;Yesterday I finished the canopy.  See below.  It’s… okay.  I’m not thrilled with how it turned out, but it’s good enough that I don’t feel the need to redo it.  My main gripe is that there’s two spots where it bows up, not fitting flush with the edges.  On the front edge, there’s a gap where air will certainly flood into the cockpit.  This I ameliorated with some foam tape which fills the gap and makes a good seal all around.  On the rear gap, well I’ll have to revisit that later.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-14/1.jpg&quot; alt=&quot;Finished Canopy&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;With the canopy done, I wanted to tidy up some loose ends before summer break.  One item was the fuel tank refill hole that is cut in the wind shield.  You may remember that Sonex provided a 5” aluminum disk to cover the hole and eclipse the pilots vision!?  And I had purchased a clear cover kit from AirWard.  I installed that.  It’s much nicer.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-14/2.jpg&quot; alt=&quot;Fuel Tank Refill Hole&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Then I removed the canopy, windshield, and glare shield.  Now I’ll have access to work on controls, wings, fuel system, power system, and electronics when I return from summer break.  The bird is looking bare again.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-06-14/3.jpg&quot; alt=&quot;Disassembled&quot; /&gt;&lt;/p&gt;</content><summary type="html">Yesterday I finished the canopy.  See below.  It’s… okay.  I’m not thrilled with how it turned out, but it’s good enough that I don’t feel the need to redo it.  My main gripe is that there’s two spots where it bows up, not fitting flush with the edges.  On the front edge, there’s a gap where air will certainly flood into the cockpit.  This I ameliorated with some foam tape which fills the gap and makes a good seal all around.  On the rear gap, well I’ll have to revisit that later.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-04/6.jpg&quot; alt=&quot;Access Plate&quot; /&gt;&lt;/p&gt;</content><summary type="html">Summer was awesome but it’s time to get back to work.</summary></entry></feed>
