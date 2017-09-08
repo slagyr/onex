@@ -1,5 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-09-05T18:58:41-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Burp Elimination</title><link href="http://micahmartin.com/onex/2017/09/05/burp-elimination.html" rel="alternate" type="text/html" title="Burp Elimination" /><published>2017-09-05T00:00:00-07:00</published><updated>2017-09-05T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/05/burp-elimination</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/05/burp-elimination.html">&lt;h4 id=&quot;cowling&quot;&gt;Cowling&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-09-07T20:59:32-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Firewall</title><link href="http://micahmartin.com/onex/2017/09/07/firewall.html" rel="alternate" type="text/html" title="Firewall" /><published>2017-09-07T00:00:00-07:00</published><updated>2017-09-07T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/07/firewall</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/07/firewall.html">&lt;h4 id=&quot;exhaust&quot;&gt;Exhaust&lt;/h4&gt;
+
+&lt;p&gt;The kit exhaust pipes are longer than needed.  They rest at an angle and I thought it’d look good to have them parallel with the fuselage, yet sticking out a bit to make sure the exhaust exits cleanly.  The cut line was a bit trikcy to get right, and then cutting with the grinding wheel was an experience that reminded me of the Orange County Choppers show where they fabricated choppers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-07/1.jpg&quot; alt=&quot;Exhaust&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;firewall&quot;&gt;Firewall&lt;/h4&gt;
+
+&lt;p&gt;To the firewall I added the ignitions, oil seperator, and battery (exact location still pending).  There’s still a few things to add but there should be plenty of room.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-07/2.jpg&quot; alt=&quot;Firewall&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;baffles&quot;&gt;Baffles&lt;/h3&gt;
+
+&lt;p&gt;After hiking this morning with Angelique, I had a bit of energy the afternoon to get started on the baffles for the engine.  Sonex provided a lazer but kit, but the fit is rough there’s plenty of modifications to be made.  These baffles feel a bit hackish.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-07/3.jpg&quot; alt=&quot;Baffles&quot; /&gt;&lt;/p&gt;</content><summary type="html">Exhaust</summary></entry><entry><title type="html">Burp Elimination</title><link href="http://micahmartin.com/onex/2017/09/05/burp-elimination.html" rel="alternate" type="text/html" title="Burp Elimination" /><published>2017-09-05T00:00:00-07:00</published><updated>2017-09-05T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/05/burp-elimination</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/05/burp-elimination.html">&lt;h4 id=&quot;cowling&quot;&gt;Cowling&lt;/h4&gt;
 
 &lt;p&gt;It took a great deal of time and care to get the cowling cut nicely.  Once it fit well, I added the camlocks (from an Aeroward kit) to fasten the top cowling to the bottom.&lt;/p&gt;
 
@@ -258,33 +274,4 @@ Next up on the controls was the control stick and elevator rods.  The control st
 
 &lt;p&gt;I’ve complained about missing hardware a million times and I apologize.  We’re both fed up.  And the $6 shipping cost each time I order a couple bolts or nuts has been adding up.  Enough!  Today I spent several hours listing all the hardware call-outs in the plans (the pages I’ve yet to work on), taking inventory of the hardware I have on hand, and made a list of what’s missing.  $130 on Aircraft Spruce… Keep in mind that most nuts, bolts, washers, etc cost a few cents.  That should give you an idea of how much hardware is missing.&lt;/p&gt;
 
-&lt;p&gt;Despite the nice presentation of &lt;a href=&quot;http://www.sonexaircraft.com/eshop/cart.php?target=product&amp;amp;product_id=17532&amp;amp;category_id=441&quot;&gt;WB Parts OneX Hardware Kit&lt;/a&gt;, it is &lt;em&gt;severely&lt;/em&gt; lacking.  If you’re gonna build a OneX, I’d seriously consider &lt;a href=&quot;http://www.airward.com/amelia/search.asp?advnav=&amp;amp;action=Search&amp;amp;store=&amp;amp;cat=10000748&amp;amp;subcat_10000013=10000748&amp;amp;ShowImages=&amp;amp;ShowDetails=&amp;amp;menuID=882~882&amp;amp;id=885&quot;&gt;AirWard’s Hardware Kit&lt;/a&gt;.  It can’t be worse than WB’s kit; that’s for sure. And I’ve been very pleased with AirWard’s other kits in addition to their service.  When you email them, you get a response from Dave WARD.  Can’t beat that.&lt;/p&gt;</content><summary type="html">Controls Parts</summary></entry><entry><title type="html">Back to Work</title><link href="http://micahmartin.com/onex/2017/08/04/back-to-work.html" rel="alternate" type="text/html" title="Back to Work" /><published>2017-08-04T00:00:00-07:00</published><updated>2017-08-04T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/04/back-to-work</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/04/back-to-work.html">&lt;p&gt;Summer was awesome but it’s time to get back to work.&lt;/p&gt;
-
-&lt;h4 id=&quot;oshkosh-2017&quot;&gt;Oshkosh 2017&lt;/h4&gt;
-
-&lt;p&gt;Luka and I flew up to Oshkosh on Sunday and camped next to the airplane. What a great time. We saw plenty of aircraft, of course.  For the first time I was able to attend lots of forums from which I learned a ton.  The Barenaked Ladies performed a great show on Monday.  But my favorite part was checking out all the homebuilds.  There’s soooo much variety!  And I was not previously aware how much influence Burt Rutan had on the homebuild world.  His designs are wonderfully unique and I love the canard style.  Now I’m thinking my next build will be a Long EZ, Cozy, or something like that.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-04/1.jpg&quot; alt=&quot;Camp Site w/ Luka&quot; /&gt;
-&lt;img src=&quot;/onex/img/2017-08-04/2.jpg&quot; alt=&quot;Baloons&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Luka and I headed home Wednesday but we didn’t get enough so we drove back with my dad on Thursday.  There was still so much to see!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-04/3.jpg&quot; alt=&quot;Luka+Dad F16&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;sonex-tour&quot;&gt;Sonex Tour&lt;/h4&gt;
-
-&lt;p&gt;At last I got to see Sonex’s home, and meet so many Sonex people that I’d been talking to on the phone.  We even got to go on a tour of their campus.  Great time.  What’s more, I got to check out a bunch of other Sonex builds that people brought to the show.  I was very curious to see how poor my work stood up to these experienced builders.  But I’m happy to admit that my workmanship stood its ground with the best of them… so far.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-04/4.jpg&quot; alt=&quot;Sonex Tour&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;hydraulic-brakes&quot;&gt;Hydraulic Brakes&lt;/h4&gt;
-
-&lt;p&gt;Before starting the wings, I figure I should take advantage of the easy access to the cockpit and install controls.  So I started on the brakes.  Below is all that parts I fabricated for the brakes but I’m waiting on a bunch of hardware to finish the install.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-04/5.jpg&quot; alt=&quot;Hydraulic Brakes Parts&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;access-panels&quot;&gt;Access Panels&lt;/h4&gt;
-
-&lt;p&gt;This was just an easy task I was able to knock out.  The plans call for machine screws that thread into the skins.  I felt better using nut plates.  It took a bit longer but should hold up better over time.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-04/6.jpg&quot; alt=&quot;Access Plate&quot; /&gt;&lt;/p&gt;</content><summary type="html">Summer was awesome but it’s time to get back to work.</summary></entry></feed>
+&lt;p&gt;Despite the nice presentation of &lt;a href=&quot;http://www.sonexaircraft.com/eshop/cart.php?target=product&amp;amp;product_id=17532&amp;amp;category_id=441&quot;&gt;WB Parts OneX Hardware Kit&lt;/a&gt;, it is &lt;em&gt;severely&lt;/em&gt; lacking.  If you’re gonna build a OneX, I’d seriously consider &lt;a href=&quot;http://www.airward.com/amelia/search.asp?advnav=&amp;amp;action=Search&amp;amp;store=&amp;amp;cat=10000748&amp;amp;subcat_10000013=10000748&amp;amp;ShowImages=&amp;amp;ShowDetails=&amp;amp;menuID=882~882&amp;amp;id=885&quot;&gt;AirWard’s Hardware Kit&lt;/a&gt;.  It can’t be worse than WB’s kit; that’s for sure. And I’ve been very pleased with AirWard’s other kits in addition to their service.  When you email them, you get a response from Dave WARD.  Can’t beat that.&lt;/p&gt;</content><summary type="html">Controls Parts</summary></entry></feed>
