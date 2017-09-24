@@ -1,5 +1,47 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-09-13T20:40:08-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Oil and Water</title><link href="http://micahmartin.com/onex/2017/09/13/oil-and-water.html" rel="alternate" type="text/html" title="Oil and Water" /><published>2017-09-13T00:00:00-07:00</published><updated>2017-09-13T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/13/oil-and-water</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/13/oil-and-water.html">&lt;h4 id=&quot;oil-separator&quot;&gt;Oil Separator&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-09-24T09:15:14-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Tangled</title><link href="http://micahmartin.com/onex/2017/09/22/tangled.html" rel="alternate" type="text/html" title="Tangled" /><published>2017-09-22T00:00:00-07:00</published><updated>2017-09-22T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/22/tangled</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/22/tangled.html">&lt;p&gt;Chaos!  So many components.  So many wires.  So little room.&lt;/p&gt;
+
+&lt;p&gt;Cutting our the instrument panel was not as bad as I feared.  The only tools I required was the Dremmel cutting wheel, drill bits, and files.  I think it turned out simple and quite user friendly.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-22/2.jpg&quot; alt=&quot;Instrument Panel Cutout&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;That carbon fiber vinyl adds a nice (dark) effect.  You can see I was short one circuit breaker.  It arrived and I’ve since filled that hole.  Then I learned that one of those circuit breakers is not needed.  Oops!  The EMS get’s it’s power from the display.  I’m just gonna leave it in the panel.  Don’t tell anyone it’s not connected to anything.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-22/3.jpg&quot; alt=&quot;Instrument Panel&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So there’s all that stuff that goes into the instrument panel.  But then there’s all this stuff that is part of the instruments but doesn’t go IN the panel.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;EMS with three big cabler harnesses that stick out.&lt;/li&gt;
+  &lt;li&gt;Transponder&lt;/li&gt;
+  &lt;li&gt;Comm box&lt;/li&gt;
+  &lt;li&gt;Backup battery&lt;/li&gt;
+  &lt;li&gt;Fuel level sensor box&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There’s more but this is all the stuff that I had planned to install behind the instrument panel.  I fabricated a shelf that would go right behind the panel and in front of the fuel tank.  It’s a place to mount all the components and keep the wires in place.  I thought I could fit everything in there, with a couple components underneath.  But once I put it in place in the fuselage, I noticed that the harnesses of the comm and transponder stuck out the side a bit too far.  The glaresheild wouldn’t be able to fit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-22/1.jpg&quot; alt=&quot;Dash Design, Bad&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The EMS, with its big cables, had to go.  But where?  Eventually I decided there was room on the front right side of the fuselage where my leg would not really interfere with anything.  Since I was at it, I felt like this would be a better home for the backup battery and fuel sensor box, which were originally mounted upsidedown underneath the intrument panel.  Fabricating that mount took almost a full day.&lt;/p&gt;
+
+&lt;p&gt;You can see that this is where I decided to place the main electric bus and avionics bus (upside down), along with my Stratus.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-22/4.jpg&quot; alt=&quot;Side Panels&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;In addition, these things also got done:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CHT temp probes installed&lt;/li&gt;
+  &lt;li&gt;EGT probes installed&lt;/li&gt;
+  &lt;li&gt;GPS antenna installed&lt;/li&gt;
+  &lt;li&gt;VHF antenna installed&lt;/li&gt;
+  &lt;li&gt;Contactors, master and alternator, mounted to firewall&lt;/li&gt;
+  &lt;li&gt;Side engine baffles modified with nutplates so they can be removed&lt;/li&gt;
+  &lt;li&gt;Hired welder to weld bushing to intake manifold for MAP sensor&lt;/li&gt;
+  &lt;li&gt;Completed most small wiring local to instrument panel&lt;/li&gt;
+  &lt;li&gt;Family vacation in Page, AZ.  :)&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">Chaos!  So many components.  So many wires.  So little room.</summary></entry><entry><title type="html">Oil and Water</title><link href="http://micahmartin.com/onex/2017/09/13/oil-and-water.html" rel="alternate" type="text/html" title="Oil and Water" /><published>2017-09-13T00:00:00-07:00</published><updated>2017-09-13T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/13/oil-and-water</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/13/oil-and-water.html">&lt;h4 id=&quot;oil-separator&quot;&gt;Oil Separator&lt;/h4&gt;
 
 &lt;p&gt;My kit came with an oil separator, the black cylinder attached to the firewall.  It’s possible I added it to my order as an extra because many other builders don’t seem to have one.  As I understand, it minimizes loss of oil, especially when flying inverted.  Any oil, or vapor, that comes out of the top of the engine get routed through a tube to the separator.  There a ball bearing in the top that prevents oil from flowing back to the top of the engine when inverted.  Oil collects at the bottom of the separator where it can flow back into the bottom of the engine (steel braided tube).  Vapor escapes through the black vent tube out the bottom of the plane.&lt;/p&gt;
 
@@ -249,42 +291,4 @@ I did these on Monday (after watching the eclipse) and they can all be seen in t
 
 &lt;p&gt;All that’s left to complete the elevator controls is to install the cotter pins in all the bolts/nuts.&lt;/p&gt;</content><summary type="html">Primary activity today: filing sheet metal holes.  I’ll explain.
 
-Next up on the controls was the control stick and elevator rods.  The control stick mounts on the front side of the main spar with the stick right in the middle.  I was trying to figure out where to drill the holes to mount, when I saw some empty holes in the spar that match the control stick; but they were backwards.  Doh!  I riveted the spar together with the center beams backwards! Go figure.  I had flipped those beams over so many time trying to figure out which way was right.  No big deal.  Some fresh rivets to plug those holes, drilled new holes solved the problem.</summary></entry><entry><title type="html">Rudder Pedals</title><link href="http://micahmartin.com/onex/2017/08/11/rudder-pedals.html" rel="alternate" type="text/html" title="Rudder Pedals" /><published>2017-08-11T00:00:00-07:00</published><updated>2017-08-11T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/11/rudder-pedals</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/11/rudder-pedals.html">&lt;h4 id=&quot;avionics-research&quot;&gt;Avionics Research&lt;/h4&gt;
-
-&lt;p&gt;Denny was kind enough to let me visit his build again and ask questions about avionics.  After doing research at Oshkosh and on the web, I’ve decided to go with &lt;a href=&quot;http://www.dynonavionics.com/skyview-se.php&quot;&gt;Dynon Avionics&lt;/a&gt; in a very similar configuration to Denny.  But there are hundreds of questions I had about the electrical/avionics system and Denny was kinds enough to answer them for me.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/6.jpg&quot; alt=&quot;Denny's Panel&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;rudder-pedals&quot;&gt;Rudder Pedals&lt;/h4&gt;
-
-&lt;p&gt;The pedals are mounted using a phenolic blocks.  One on each side and one in the middle.  These had to be trimmed and sanded to fit.  Even after putting together whole rudder system, the pedals where too tight and I had to take it apart and sand down the holes more.  That made all the difference.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/2.jpg&quot; alt=&quot;Both Pedals&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;cable-adjusters&quot;&gt;Cable Adjusters&lt;/h4&gt;
-
-&lt;p&gt;The aluminum bar is called the adjuster.  The location where the cable attaches does all the magic.  The plans give detailed instructions on how to calculate where to drill the cable hole, but they didn’t work for me. What I was left with was pedals that restricted eachothers movement and the ruder couldn’t even get close to its stops.  So I had to fabricate these parts from scratch and use my own technique to calculate the cable attach points.  Basically I started by moving the rudder to its full right stop.  Then positioned the left pedal as far aft as it would go and marked the attach point.  This would allow full right rudder and the left cable would  not restrict it.  Then I did the opposite for the right pedal.  This worked great.&lt;/p&gt;
-
-&lt;p&gt;The springs pull the rudder to neutral when foot pressure is released.  At first I couldn’t get the springs tight enough to move the rudder.  This is when I realized I had to loosen the pedals by sanding the phenolic blocks.  With looser pedals, the springs could do their job.  The kit came with two long springs that had to be cut and bent to length, but I only used about 2/3 of one of the springs.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/1.jpg&quot; alt=&quot;Rudder Padal Assembly&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;pulleys&quot;&gt;Pulleys&lt;/h4&gt;
-
-&lt;p&gt;There are six pulleys all together that keep the cable where it belongs and allow it to move easily.  Four of the pulleys I had build a while back when I first started on the fuselage.  The plans said it’d be easier to mount the rear pulleys at that point.  Not really.  And fortunately I hadn’t riveted them back then.  They had to be removed and I had to crawl inside the fuselage many times and in all locations.  There was no effort saved but I was pleased to have four fewer parts to fabridace this week.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/3.jpg&quot; alt=&quot;Forward Pulley&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;cable-run&quot;&gt;Cable Run&lt;/h4&gt;
-
-&lt;p&gt;The bulkheads have cutouts that would be ideal for rudder bale to run through.  Unfortunately, they’re in the wrong place.  I couldn’t believe it at first, but when I visited Denny, he complained about the same problem.  So extra holes had to be cut and existing holes elongated in the four center bulkheads.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/4.jpg&quot; alt=&quot;Cable Run&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;tail-cable-exit-holes&quot;&gt;Tail Cable Exit Holes&lt;/h4&gt;
-
-&lt;p&gt;It was a puzzle to me how I’d calculate exactly where the cables would pass through the skin in the rear of the fuselage.  Fortunately, the plans give precise locations and sizes for these holes.  Unfortunately, they’re not prefect.  The cables rub up against the edges of the skin.&lt;/p&gt;
-
-&lt;p&gt;I spent a good deal of time widening and elongating these holes to elimindate the chafing.  The left side was not terribly off.  The right side is still in progress.  I’ve already filed away an extra inch of skin and the cable is still chafing.  I’ll continue filing on monday and tidy up the edges so it looks intentional.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-11/5.jpg&quot; alt=&quot;Tail Cable Exit&quot; /&gt;&lt;/p&gt;</content><summary type="html">Avionics Research</summary></entry></feed>
+Next up on the controls was the control stick and elevator rods.  The control stick mounts on the front side of the main spar with the stick right in the middle.  I was trying to figure out where to drill the holes to mount, when I saw some empty holes in the spar that match the control stick; but they were backwards.  Doh!  I riveted the spar together with the center beams backwards! Go figure.  I had flipped those beams over so many time trying to figure out which way was right.  No big deal.  Some fresh rivets to plug those holes, drilled new holes solved the problem.</summary></entry></feed>
