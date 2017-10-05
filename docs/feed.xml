@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-09-27T19:56:59-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Power Up!</title><link href="http://micahmartin.com/onex/2017/09/27/power-up.html" rel="alternate" type="text/html" title="Power Up!" /><published>2017-09-27T00:00:00-07:00</published><updated>2017-09-27T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/27/power-up</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/27/power-up.html">&lt;p&gt;Lo and behold… after five+ days of wiring, when I turned on the master switch for the first time, the avionics came alive!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-10-04T18:44:36-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Fuel Flow</title><link href="http://micahmartin.com/onex/2017/10/04/fuel-flow.html" rel="alternate" type="text/html" title="Fuel Flow" /><published>2017-10-04T00:00:00-07:00</published><updated>2017-10-04T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/04/fuel-flow</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/04/fuel-flow.html">&lt;p&gt;Lots of little things done this past week, however the most consuming task was measuring fuel flow.  Most experimental aircraft accidents occur in the first few hours of flight due to fuel flow problems.  So it’s important to test it.  Here’s how it works.&lt;/p&gt;
+
+&lt;p&gt;Convention says that an engine needs 0.55 lbs of fuel per hour for each HP, at maximum power.  My AeroVee is 80HP, so that’s 44lbs per hours.  Each gallon of 100LL weights 6 pounds so that 7.33 gallons / hr, and we measure the flow at the point where the fuel enters the carburetor, or AeroInjector in my case.&lt;/p&gt;
+
+&lt;p&gt;Since the OneX has a gravity fed fuel system (no pump), the FAA mandates a safety factor of 150%. I should see 11 gal/hr.&lt;/p&gt;
+
+&lt;p&gt;Furthermore, this fuel demand is typically on take off where the engine is high.  It’s best to perform the test at 5° above the maximum climb attitude.  I couldn’t find any documentation for OneX climb angles, but if you consider short field take offs where the highest climb rate is required, common procedure is an initial climb rate of 10° until you clear any obstacle, and then you shallow the climb.&lt;/p&gt;
+
+&lt;p&gt;To summarize, I should see a 11 gallons per hour flowing out at the AeroInjector with the aircraft at a 15° nose-up attitude.&lt;/p&gt;
+
+&lt;p&gt;How does one get an unfinished plane into a 15° nose up attitude?  At rest it sits at 6° because I have a tail dragger. On Sunday I built a ramp/platform for the main gears.  I needed help so it was fortunate that Luka has some friends over for homework.  Together we were able to push it up there.  That got us 12°, but it was a bit precarious and I wasn’t comfortable putting any more bricks.  I rant the test anyway and measured 6.6 gal/hr.  Out of the gascolator I got 12.9 gal/hr but that doesn’t really count, so it didn’t pass.&lt;/p&gt;
+
+&lt;p&gt;I realized later that I had the gas tank sealed and the vent doesn’t open unless there’s airflow.  Perhaps there was a negative pressure building in the tank.  My mechanic, Tony, also told me I need to put more than 1 gallons in the tank… at least two or three.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-04/1.jpg&quot; alt=&quot;Plane On Ramp&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A little trigonometry says I need to raise the main gears about 2’ to get 15°.  Rather than raise the main gear more, I figured I could dig a hole and lower the tail into it.  Digging a hole in Arizona is way harder than diging a hole in Illinois by the way.  But I got one about a foot and a half deep.  Then I pushed the plane up a little ramp and this yielded 15.6°.  I was hoping for 20° but this was good enough.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-04/2.jpg&quot; alt=&quot;Plane in Hole&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Measuring the flow again, with the tank open and 3 gallons in the tank, I measured 6.25 gal / hr.  Oh no!  There’s something seriously wrong!  After pondering the problem for a long while, I realized that the fuel had to flow up hill from the gascolator to get to the injector.  The injector was angled way up due to the silicone hose and it’s angle could easily be adjusted with different hose.  So I repositioned the fuel line to a point at which I could lower the injector input and measured 11.5 gal/hr. Whew! That made all the difference.  I took a few more measurements, let the tank drain, and measured the “unusable fuel” remaining in the tank, about 1/8 of a gallon.&lt;/p&gt;
+
+&lt;p&gt;I ordered some new hoses to explore a few options.  The trick is getting the air filter to attach to the AeroInjector without interfering with the lower cowling.  But now I know where the fuel intake has to be to get the flow required.&lt;/p&gt;
+
+&lt;h4 id=&quot;135-training-complete&quot;&gt;135 Training Complete&lt;/h4&gt;
+
+&lt;p&gt;I took my check ride yesterday and passed.  I’m now an airline captain.  It’ll be fun to fly a few charter flights every once in a while.&lt;/p&gt;</content><summary type="html">Lots of little things done this past week, however the most consuming task was measuring fuel flow.  Most experimental aircraft accidents occur in the first few hours of flight due to fuel flow problems.  So it’s important to test it.  Here’s how it works.</summary></entry><entry><title type="html">Power Up!</title><link href="http://micahmartin.com/onex/2017/09/27/power-up.html" rel="alternate" type="text/html" title="Power Up!" /><published>2017-09-27T00:00:00-07:00</published><updated>2017-09-27T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/27/power-up</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/27/power-up.html">&lt;p&gt;Lo and behold… after five+ days of wiring, when I turned on the master switch for the first time, the avionics came alive!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-27/1.jpg&quot; alt=&quot;Panel&quot; /&gt;&lt;/p&gt;
 
@@ -279,18 +305,4 @@ I did these on Monday (after watching the eclipse) and they can all be seen in t
 
 &lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-18/3.jpg&quot; alt=&quot;Wing Ribs&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;All the wing parts are set aside for the time being.  I’ll start attaching them when I’m pretty much done working inside the fuselage so the wings don’t get in the way.&lt;/p&gt;</content><summary type="html">Engine Mounting</summary></entry><entry><title type="html">Flaps Controls</title><link href="http://micahmartin.com/onex/2017/08/16/flaps-controls.html" rel="alternate" type="text/html" title="Flaps Controls" /><published>2017-08-16T00:00:00-07:00</published><updated>2017-08-16T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/16/flaps-controls</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/16/flaps-controls.html">&lt;h4 id=&quot;flaps-handle&quot;&gt;Flaps Handle&lt;/h4&gt;
-
-&lt;p&gt;Installed this yesterday.  Nothing much of interest to report.  I decided not to connect the rods so they wouldn’t get in the way when I work on the wings.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-16/1.jpg&quot; alt=&quot;Flaps Control&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;elevator-trim&quot;&gt;Elevator Trim&lt;/h4&gt;
-
-&lt;p&gt;The elevator trim arrived right when I finished the flaps. The cable has to be routed from the instrument panel to behind the trim lever where the two rods meet.  After considering my options, I drilled some holes in the side fuselage beams, stuck some rubber gromets in there and rand the cable.  I think it looks decent.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-16/2.jpg&quot; alt=&quot;Trim Routing&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;These springs hold the elevator in a neutral position, and they’re connected to trim cable on the right side of the picture.  I’ll have to reconfigure the wire tension when I figure out where the trim knob will be mounted.  And I realized that my forward spring hole won’t work since the rear spar has to go there.  So I’ll relocate that.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-16/3.jpg&quot; alt=&quot;Trim Connection&quot; /&gt;&lt;/p&gt;</content><summary type="html">Flaps Handle</summary></entry></feed>
+&lt;p&gt;All the wing parts are set aside for the time being.  I’ll start attaching them when I’m pretty much done working inside the fuselage so the wings don’t get in the way.&lt;/p&gt;</content><summary type="html">Engine Mounting</summary></entry></feed>

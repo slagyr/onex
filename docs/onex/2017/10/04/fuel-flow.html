@@ -6,12 +6,12 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Posts - page 6</title>
-  <meta name="description" content="I&#39;m building an airplane. This is how it went so far.">
+  <title>Fuel Flow</title>
+  <meta name="description" content="Lots of little things done this past week, however the most consuming task was measuring fuel flow. Most experimental aircraft accidents occur in the first f...">
 
   <link rel="stylesheet" href="/onex/assets/main.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link rel="canonical" href="http://micahmartin.com/posts/page6/">
+  <link rel="canonical" href="http://micahmartin.com/onex/2017/10/04/fuel-flow.html">
   <link rel="alternate" type="application/rss+xml" title="OneX Build Log" href="/feed.xml">
   
   
@@ -146,159 +146,59 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        <div class="home">
+        <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+
+
+  <nav aria-label="...">
+    <ul class="pager">
+      
+        <li class="previous"><a href="/onex/onex/2017/09/27/power-up.html"><span aria-hidden="true">&larr;</span> Power Up!</a></li>
+      
+      
+    </ul>
+  </nav>
+
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">Fuel Flow</h1>
+    <p class="post-meta"><time datetime="2017-10-04T00:00:00-07:00" itemprop="datePublished">Oct 4, 2017</time>
+      
+       • <span itemprop="hours" itemscope itemtype="http://schema.org/Hours"> <span itemprop="time">24.0</span> hours</span>
+    </p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    <p>Lots of little things done this past week, however the most consuming task was measuring fuel flow.  Most experimental aircraft accidents occur in the first few hours of flight due to fuel flow problems.  So it’s important to test it.  Here’s how it works.</p>
+
+<p>Convention says that an engine needs 0.55 lbs of fuel per hour for each HP, at maximum power.  My AeroVee is 80HP, so that’s 44lbs per hours.  Each gallon of 100LL weights 6 pounds so that 7.33 gallons / hr, and we measure the flow at the point where the fuel enters the carburetor, or AeroInjector in my case.</p>
+
+<p>Since the OneX has a gravity fed fuel system (no pump), the FAA mandates a safety factor of 150%. I should see 11 gal/hr.</p>
+
+<p>Furthermore, this fuel demand is typically on take off where the engine is high.  It’s best to perform the test at 5° above the maximum climb attitude.  I couldn’t find any documentation for OneX climb angles, but if you consider short field take offs where the highest climb rate is required, common procedure is an initial climb rate of 10° until you clear any obstacle, and then you shallow the climb.</p>
+
+<p>To summarize, I should see a 11 gallons per hour flowing out at the AeroInjector with the aircraft at a 15° nose-up attitude.</p>
+
+<p>How does one get an unfinished plane into a 15° nose up attitude?  At rest it sits at 6° because I have a tail dragger. On Sunday I built a ramp/platform for the main gears.  I needed help so it was fortunate that Luka has some friends over for homework.  Together we were able to push it up there.  That got us 12°, but it was a bit precarious and I wasn’t comfortable putting any more bricks.  I rant the test anyway and measured 6.6 gal/hr.  Out of the gascolator I got 12.9 gal/hr but that doesn’t really count, so it didn’t pass.</p>
+
+<p>I realized later that I had the gas tank sealed and the vent doesn’t open unless there’s airflow.  Perhaps there was a negative pressure building in the tank.  My mechanic, Tony, also told me I need to put more than 1 gallons in the tank… at least two or three.</p>
+
+<p><img src="/onex/img/2017-10-04/1.jpg" alt="Plane On Ramp" /></p>
+
+<p>A little trigonometry says I need to raise the main gears about 2’ to get 15°.  Rather than raise the main gear more, I figured I could dig a hole and lower the tail into it.  Digging a hole in Arizona is way harder than diging a hole in Illinois by the way.  But I got one about a foot and a half deep.  Then I pushed the plane up a little ramp and this yielded 15.6°.  I was hoping for 20° but this was good enough.</p>
+
+<p><img src="/onex/img/2017-10-04/2.jpg" alt="Plane in Hole" /></p>
+
+<p>Measuring the flow again, with the tank open and 3 gallons in the tank, I measured 6.25 gal / hr.  Oh no!  There’s something seriously wrong!  After pondering the problem for a long while, I realized that the fuel had to flow up hill from the gascolator to get to the injector.  The injector was angled way up due to the silicone hose and it’s angle could easily be adjusted with different hose.  So I repositioned the fuel line to a point at which I could lower the injector input and measured 11.5 gal/hr. Whew! That made all the difference.  I took a few more measurements, let the tank drain, and measured the “unusable fuel” remaining in the tank, about 1/8 of a gallon.</p>
+
+<p>I ordered some new hoses to explore a few options.  The trick is getting the air filter to attach to the AeroInjector without interfering with the lower cowling.  But now I know where the fuel intake has to be to get the flow required.</p>
+
+<h4 id="135-training-complete">135 Training Complete</h4>
+
+<p>I took my check ride yesterday and passed.  I’m now an airline captain.  It’ll be fun to fly a few charter flights every once in a while.</p>
+
+  </div>
+
   
-  <span class="build-time" itemprop="build-time" itemscope itemtype="http://schema.org/BuildTime"> Total OneX Build Time: <span itemprop="time">848.0</span> hours</span>
-
-<ul class="post-list">
-    
-    <li>
-        <img src="/onex/img/2017-05-11/1.jpg"/>
-        <span class="post-meta">May 11, 2017</span>
-         • <span class="post-meta" itemprop="hours" itemscope
-                                    itemtype="http://schema.org/Hours"> <span itemprop="time">9.0</span> hours</span>
-        <h2>
-            <a class="post-link" href="/onex/onex/2017/05/11/i-dilled-i-deburred.html">I Dilled, I Deburred...</a>
-        </h2>
-        I drilled. I deburred. I got a repetitive stress injury. At least I suspect I am. It’s the deburring. It puts a lot of pressure on the center of my palm and I think it’s the cause of a loss of sensitivity in my fingers in the last couple of...
-    </li>
-    
-    <li>
-        <img src="/onex/img/2017-05-10/1.jpg"/>
-        <span class="post-meta">May 10, 2017</span>
-         • <span class="post-meta" itemprop="hours" itemscope
-                                    itemtype="http://schema.org/Hours"> <span itemprop="time">12.0</span> hours</span>
-        <h2>
-            <a class="post-link" href="/onex/onex/2017/05/10/this-spar-is-a-bear.html">This Spar is a Bear</a>
-        </h2>
-        Yesterday… I tried to decipher the plans and figure out how all the inboard spar pieces fit together. In my head I had expected the spar to be just one or two long pieces of beefy metal. Not so. There’s got to be thirty pieces or so. Once assembled they...
-    </li>
-    
-    <li>
-        <img src="/onex/img/2017-05-08/1.jpg"/>
-        <span class="post-meta">May 8, 2017</span>
-         • <span class="post-meta" itemprop="hours" itemscope
-                                    itemtype="http://schema.org/Hours"> <span itemprop="time">12.0</span> hours</span>
-        <h2>
-            <a class="post-link" href="/onex/onex/2017/05/08/hundreds-of-holes.html">Hundreds of Holes</a>
-        </h2>
-        Friday was a busy day and I only got to work 4 hours fabricating parts for the main spar. This morning I fabricated about 8 more parts. Then the main spar webs. These are 2 long, heavy pieces of aluminum that provide the main structure of the main spar. They...
-    </li>
-    
-    <li>
-        <img src="/onex/img/2017-05-04/1.jpg"/>
-        <span class="post-meta">May 4, 2017</span>
-         • <span class="post-meta" itemprop="hours" itemscope
-                                    itemtype="http://schema.org/Hours"> <span itemprop="time">9.5</span> hours</span>
-        <h2>
-            <a class="post-link" href="/onex/onex/2017/05/04/what-a-mess.html">What a Mess</a>
-        </h2>
-        Three hours after beginning work I had everything cleaned up. The fiberglass mold I laid out yesterday came off the plane very nicely. The plane is not glued together in terrible ways… whew! But boy was it a mess. Wax, silicon film, clay, and epoxy all over the place. These...
-    </li>
-    
-    <li>
-        <img src="/onex/img/2017-05-03/1.jpg"/>
-        <span class="post-meta">May 3, 2017</span>
-         • <span class="post-meta" itemprop="hours" itemscope
-                                    itemtype="http://schema.org/Hours"> <span itemprop="time">10.0</span> hours</span>
-        <h2>
-            <a class="post-link" href="/onex/onex/2017/05/03/tail-fairing.html">Tail Fairing</a>
-        </h2>
-        I’m not at all pleased with the way the tail panels came out. See the first picture. They required lots of bending to make them fit. It was non-trivial and I think I did a poor job. This became an opportunity to try out some composite technique. First was the...
-    </li>
-    
-</ul>
-
-<div class="text-center">
-    <nav aria-label="Page navigation">
-        <ul class="pagination">
-            
-            <li class="prev"><a href="/onex/posts/page5/" class="prev">Previous</a></li>
-            
-
-            
-            
-            <li><a href="/onex/" class="next">1</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page2/" class="next">2</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page3/" class="next">3</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page4/" class="next">4</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page5/" class="next">5</a></li>
-            
-            
-            
-            <li class="active"><a href="#">6</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page7/" class="next">7</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page8/" class="next">8</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page9/" class="next">9</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page10/" class="next">10</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page11/" class="next">11</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page12/" class="next">12</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page13/" class="next">13</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page14/" class="next">14</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page15/" class="next">15</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page16/" class="next">16</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page17/" class="next">17</a></li>
-            
-            
-            
-            <li><a href="/onex/posts/page18/" class="next">18</a></li>
-            
-            
-
-            
-            <li class="next"><a href="/onex/posts/page7/" class="next">Next</a></li>
-            
-        </ul>
-    </nav>
-</div>
-
-
-</div>
+</article>
 
       </div>
     </main>
