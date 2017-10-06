@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-10-05T19:23:33-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-10-05T19:26:17-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
 </subtitle><entry><title type="html">Fired Up!</title><link href="http://micahmartin.com/onex/2017/10/05/fired-up.html" rel="alternate" type="text/html" title="Fired Up!" /><published>2017-10-05T00:00:00-07:00</published><updated>2017-10-05T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/05/fired-up</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/05/fired-up.html">&lt;p&gt;Fired up the engine for the first time today.  Below there’s a video of the event recorded by my son Luka.&lt;/p&gt;
 
 &lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
@@ -11,6 +11,8 @@
 
 &lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-05/1.jpg&quot; alt=&quot;Test Location&quot; /&gt;&lt;/p&gt;
 
+&lt;h4 id=&quot;first-engine-test&quot;&gt;First Engine Test&lt;/h4&gt;
+
 &lt;p&gt;Luka came out to assist.  His job was to check for leaking fluids and film the event.&lt;/p&gt;
 
 &lt;p&gt;On the first try, the engine popped a few times.  Perhaps I was too gentle on the throttle, or perhaps the engine needed a few moments to stretch a bit before coming to life for the first time.  But it didn’t take long to get it running steady… and boy did it get windy!&lt;/p&gt;
@@ -19,6 +21,8 @@
 &lt;p&gt;&lt;a href=&quot;https://vimeo.com/237020116&quot;&gt;OneX First Engine Start&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user931495&quot;&gt;Micah Martin&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Amazing!  I’d never built an engine before.  It’s fascinating that a newb like me can put all those engine pieces together and get a working engine that starts on the first test.&lt;/p&gt;
+
+&lt;h4 id=&quot;squawks&quot;&gt;Squawks&lt;/h4&gt;
 
 &lt;p&gt;You’ll see in the video that once the engine is running, I’m checking all the sensors and performance.  Most everything worked great but there are a few problems I need to investigate:&lt;/p&gt;
 
