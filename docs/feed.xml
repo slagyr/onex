@@ -1,5 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-10-04T18:44:36-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Fuel Flow</title><link href="http://micahmartin.com/onex/2017/10/04/fuel-flow.html" rel="alternate" type="text/html" title="Fuel Flow" /><published>2017-10-04T00:00:00-07:00</published><updated>2017-10-04T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/04/fuel-flow</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/04/fuel-flow.html">&lt;p&gt;Lots of little things done this past week, however the most consuming task was measuring fuel flow.  Most experimental aircraft accidents occur in the first few hours of flight due to fuel flow problems.  So it’s important to test it.  Here’s how it works.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-10-05T19:23:33-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Fired Up!</title><link href="http://micahmartin.com/onex/2017/10/05/fired-up.html" rel="alternate" type="text/html" title="Fired Up!" /><published>2017-10-05T00:00:00-07:00</published><updated>2017-10-05T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/05/fired-up</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/05/fired-up.html">&lt;p&gt;Fired up the engine for the first time today.  Below there’s a video of the event recorded by my son Luka.&lt;/p&gt;
+
+&lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
+
+&lt;p&gt;Adding fuel 1/2 gallons at a time, I marked the fuel level on the tank up to 3 gallons.  Sitting in the plane, I can only see up to 2 gallons but it could be useful in a pinch.&lt;/p&gt;
+
+&lt;p&gt;The AeroVee manual says to prime the oil first.  This involved removing 4 spark plugs, 1 from each cylinder, and making sure the oil pressure sensor reads an increase in pressure when running the starter.  Mine read 57 PSI before I touched the starter, and it never budged.  That’s not right!  Dynon support says it’s likely a faulty pressure sensor (Kavlico 150 PSI).  Apparently they’ve had a few similar reports with these sensors so they’re sending me a new one.  I had a spare “legacy” mechanical sensor so I connected that one and it worked.  No show stopper here.&lt;/p&gt;
+
+&lt;p&gt;I pulled the plane out to the basketball court again, chained it to the post, put the parking breaks on, and put chocks under the tires.  Who know what could happen and you can’t be too safe.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-05/1.jpg&quot; alt=&quot;Test Location&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Luka came out to assist.  His job was to check for leaking fluids and film the event.&lt;/p&gt;
+
+&lt;p&gt;On the first try, the engine popped a few times.  Perhaps I was too gentle on the throttle, or perhaps the engine needed a few moments to stretch a bit before coming to life for the first time.  But it didn’t take long to get it running steady… and boy did it get windy!&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/237020116&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/237020116&quot;&gt;OneX First Engine Start&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/user931495&quot;&gt;Micah Martin&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Amazing!  I’d never built an engine before.  It’s fascinating that a newb like me can put all those engine pieces together and get a working engine that starts on the first test.&lt;/p&gt;
+
+&lt;p&gt;You’ll see in the video that once the engine is running, I’m checking all the sensors and performance.  Most everything worked great but there are a few problems I need to investigate:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The RPM indicator showed 0 when I turned the alternator on.&lt;/li&gt;
+  &lt;li&gt;The battery didn’t charge and eventually died.&lt;/li&gt;
+  &lt;li&gt;Although the magnetos worked great, the ignitions were intermittent.  When I turned the mags off, the engine would sputter and threaten to quit.&lt;/li&gt;
+  &lt;li&gt;The RPMs were a bit unsteady, tending to rise and fall without any change in throttle, except at idle.&lt;/li&gt;
+  &lt;li&gt;A small amount of oil leaked out from the oil cooler mount, drain bolt, and oil pump.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;With the plane back in the garage, I tightened some bolt to seal the oil leaks.  And with some quick research, I discovered that I may have connected the RPM sensor lead to the wrong terminal on the voltage regulator.  This may be the cause for most the other problems. I swapped the leads and we’ll see how that helps tomorrow.  When I reposition the AeroInjector, that may help with the sporadic RPMs.  I’ll report in a later blog.&lt;/p&gt;</content><summary type="html">Fired up the engine for the first time today.  Below there’s a video of the event recorded by my son Luka.</summary></entry><entry><title type="html">Fuel Flow</title><link href="http://micahmartin.com/onex/2017/10/04/fuel-flow.html" rel="alternate" type="text/html" title="Fuel Flow" /><published>2017-10-04T00:00:00-07:00</published><updated>2017-10-04T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/04/fuel-flow</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/04/fuel-flow.html">&lt;p&gt;Lots of little things done this past week, however the most consuming task was measuring fuel flow.  Most experimental aircraft accidents occur in the first few hours of flight due to fuel flow problems.  So it’s important to test it.  Here’s how it works.&lt;/p&gt;
 
 &lt;p&gt;Convention says that an engine needs 0.55 lbs of fuel per hour for each HP, at maximum power.  My AeroVee is 80HP, so that’s 44lbs per hours.  Each gallon of 100LL weights 6 pounds so that 7.33 gallons / hr, and we measure the flow at the point where the fuel enters the carburetor, or AeroInjector in my case.&lt;/p&gt;
 
@@ -277,32 +308,4 @@ There were a few things I could easily attach to the engine.
   Spark plugs
 
 
-I did these on Monday (after watching the eclipse) and they can all be seen in the picture below.</summary></entry><entry><title type="html">Engine Mounted</title><link href="http://micahmartin.com/onex/2017/08/18/engine-mounted.html" rel="alternate" type="text/html" title="Engine Mounted" /><published>2017-08-18T00:00:00-07:00</published><updated>2017-08-18T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/18/engine-mounted</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/18/engine-mounted.html">&lt;h4 id=&quot;engine-mounting&quot;&gt;Engine Mounting&lt;/h4&gt;
-
-&lt;p&gt;The engine is mounted!  I recruited some help; specifically my friend Rob, my son Luka and his friends Caleb and David.  They were off to a high school football game so their friends Siri, Kayla, and Elly were over to eat first and car pool.  I had more help than I needed, at least I thought so.&lt;/p&gt;
-
-&lt;p&gt;Four of us guys lifted the engine while one helped line it up and insert bolts.  It took a few tries though.  The rubber grommets/bushings fit real tight and they were hard to get into place.  Then we realized that the bolts would only fit while the engine was off the mount.&lt;/p&gt;
-
-&lt;p&gt;While pushing the engine in place, the plane kept rolling backwards.  Thankfully the girls where there.  They got behind the main spar and held the plane in place.  Everyone played a part and it was fortunate that they were all there.&lt;/p&gt;
-
-&lt;p&gt;I swelled with a sence of accomplishment finally seeing the engine on the fuselage.  Special thanks goes out to my team of high spirited helpers.  Thanks!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-18/1.jpg&quot; alt=&quot;Engine Mounted&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;With the engine mounted I can start to figure out where all the remaining controls, wires, cables, etc. need to go.&lt;/p&gt;
-
-&lt;h4 id=&quot;rear-spar&quot;&gt;Rear Spar&lt;/h4&gt;
-
-&lt;p&gt;While waiting on my engine helpers, I worked on some wing parts for a couple days.  The rear spar is now assembled.  Getting the subtle angled on the ends (not really visible here) was the only real tricky part.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-18/2.jpg&quot; alt=&quot;Rear Spar&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;wing-ribs&quot;&gt;Wing Ribs&lt;/h4&gt;
-
-&lt;p&gt;What you see in the picture below is all the wing ribs for the inboard spar, and a couple for the outboard.  There’s more ribs, but all these were the same part number so I figured I’d work on them together.&lt;/p&gt;
-
-&lt;p&gt;Boy was it tedious.  Mind-numbing.  16 nearly identical sets of parts each needing, clecoing, updrilling, de-burring, filing, scotchbriting, cleaning, and finally riveting.  What a relief when those were done…&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-18/3.jpg&quot; alt=&quot;Wing Ribs&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;All the wing parts are set aside for the time being.  I’ll start attaching them when I’m pretty much done working inside the fuselage so the wings don’t get in the way.&lt;/p&gt;</content><summary type="html">Engine Mounting</summary></entry></feed>
+I did these on Monday (after watching the eclipse) and they can all be seen in the picture below.</summary></entry></feed>
