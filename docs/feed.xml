@@ -1,5 +1,31 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-10-05T19:26:17-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Fired Up!</title><link href="http://micahmartin.com/onex/2017/10/05/fired-up.html" rel="alternate" type="text/html" title="Fired Up!" /><published>2017-10-05T00:00:00-07:00</published><updated>2017-10-05T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/05/fired-up</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/05/fired-up.html">&lt;p&gt;Fired up the engine for the first time today.  Below there’s a video of the event recorded by my son Luka.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-10-09T13:16:45-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Engine Tuning</title><link href="http://micahmartin.com/onex/2017/10/09/engine-tuning.html" rel="alternate" type="text/html" title="Engine Tuning" /><published>2017-10-09T00:00:00-07:00</published><updated>2017-10-09T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/09/engine-tuning</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/09/engine-tuning.html">&lt;p&gt;The engine is pretty well tuned at this point.  All the squawks have been addressed and were not necessarily what I suspected.&lt;/p&gt;
+
+&lt;h4 id=&quot;rpms&quot;&gt;RPMs&lt;/h4&gt;
+
+&lt;p&gt;Swapping the RPM sensor lead to the other side of the Voltage regulator did the trick.&lt;/p&gt;
+
+&lt;h4 id=&quot;alternator-output&quot;&gt;Alternator Output&lt;/h4&gt;
+
+&lt;p&gt;I wired up some extentions to the alternator and voltage regulator leads so I could measure with a voltmeter while I sat in the cockpit.  All signals are good.  Alternator is generating high voltage and the regulator is regulating.  I found that output is not great at the low RPMs at which I was initially running the engine.  When I got above 2,000 RPM, the alternator output was much more reasonable.&lt;/p&gt;
+
+&lt;h4 id=&quot;ignition&quot;&gt;Ignition&lt;/h4&gt;
+
+&lt;p&gt;The ignition timing needed adjusting.  Once I centered it, the engine ran MUCH smoother.  Currently I get about a 60-70 RPM drop when I turn off the magnetos and/or ignition.  Fine tuning is needed, but I may need to get in the air to figure out whether I need to retard or advance the timing.  Or maybe my mechanic will be able to tell on the ground.&lt;/p&gt;
+
+&lt;h4 id=&quot;unsteady-rpms&quot;&gt;Unsteady RPMs&lt;/h4&gt;
+
+&lt;p&gt;This, I found, was a result of vibrations moving the throttle.  Tightening the friction solved the problem.&lt;/p&gt;
+
+&lt;h4 id=&quot;oil-leaks&quot;&gt;Oil Leaks&lt;/h4&gt;
+
+&lt;p&gt;Finding the exact source of the leaks was not easy.  I tightened and resealed many parts before I found the actual source.  No more oil seeps out of the engine now.&lt;/p&gt;
+
+&lt;h4 id=&quot;wing-ribs&quot;&gt;Wing Ribs&lt;/h4&gt;
+
+&lt;p&gt;Work on the wings resumes.  I attached the inboard wing ribs to the spar.  Am working on the wing fold ribs which are quite involved.  I had started these months ago but put them on hold.  Now I have a much clearer idea of how they fit in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-09/1.jpg&quot; alt=&quot;Wing Root Ribs&quot; /&gt;&lt;/p&gt;</content><summary type="html">The engine is pretty well tuned at this point.  All the squawks have been addressed and were not necessarily what I suspected.</summary></entry><entry><title type="html">Fired Up!</title><link href="http://micahmartin.com/onex/2017/10/05/fired-up.html" rel="alternate" type="text/html" title="Fired Up!" /><published>2017-10-05T00:00:00-07:00</published><updated>2017-10-05T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/05/fired-up</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/05/fired-up.html">&lt;p&gt;Fired up the engine for the first time today.  Below there’s a video of the event recorded by my son Luka.&lt;/p&gt;
 
 &lt;h4 id=&quot;preparation&quot;&gt;Preparation&lt;/h4&gt;
 
@@ -270,46 +296,4 @@
 
 &lt;p&gt;This project brings back painstaking memories of the windshield.  The cowlings have to be cut in multiple places.  Most annoying is the engine rocker covers that stick out the side on a OneX.  The cowling won’t fit into place without the engine cover cut out.  And you don’t know where to make the cutout without fitting the cowling into place.  So it’s another game of install as much as possible, make tiny cuts, uninstall, cut, repeat.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/7.jpg&quot; alt=&quot;Bottom Cowling&quot; /&gt;&lt;/p&gt;</content><summary type="html">In the past week, I started on several tasks, unable to complete any for various reasons.  However, much progress has been made.</summary></entry><entry><title type="html">Outboard Spar</title><link href="http://micahmartin.com/onex/2017/08/23/outboard-spar.html" rel="alternate" type="text/html" title="Outboard Spar" /><published>2017-08-23T00:00:00-07:00</published><updated>2017-08-23T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/23/outboard-spar</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/23/outboard-spar.html">&lt;p&gt;I received all the avionics from Dynon.  That’s exciting.  It’s also exciting having the engine mounted.  But it’s all overwhelming.  There’s so many questions:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;What are all the parts that need to be mounted to the firewall?  Where do I put them all?&lt;/li&gt;
-  &lt;li&gt;How many things go on the panel and what the best way to lay it out?&lt;/li&gt;
-  &lt;li&gt;Where do all the fuel system components go?&lt;/li&gt;
-  &lt;li&gt;Oil system?&lt;/li&gt;
-  &lt;li&gt;Electrical system?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There were a few things I could easily attach to the engine.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Oil cooler&lt;/li&gt;
-  &lt;li&gt;Mufflers&lt;/li&gt;
-  &lt;li&gt;Starter&lt;/li&gt;
-  &lt;li&gt;Spark plugs&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I did these on Monday (after watching the eclipse) and they can all be seen in the picture below.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-23/1.jpg&quot; alt=&quot;Engine Components&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;I’m hoping that &lt;a href=&quot;http://www.aircraftwiringguide.com/&quot;&gt;Aircraft Wiring Guide by Marc Ausman&lt;/a&gt; book that I ordered from Lulu will help answer many of the questions.  It should arrive tomorrow.  I’ve also got an appointment to visit two other Sonex builders tomorrow morning, Denny Smith and Jim Armstrong.  I’m hoping I can get answers to my remaining questions from them and their builds.&lt;/p&gt;
-
-&lt;p&gt;In the mean time, yesterday and today I worked on the outboard spars.  These are the main supports for the outer parts of the wings that fold up.  These were a little easier than the main spar but my experience allowed me to complete them much faster.  Bucking rivets is exhausting so I quite a bit earlier than normal today.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-23/2.jpg&quot; alt=&quot;Outboard Spars&quot; /&gt;&lt;/p&gt;</content><summary type="html">I received all the avionics from Dynon.  That’s exciting.  It’s also exciting having the engine mounted.  But it’s all overwhelming.  There’s so many questions:
-
-  What are all the parts that need to be mounted to the firewall?  Where do I put them all?
-  How many things go on the panel and what the best way to lay it out?
-  Where do all the fuel system components go?
-  Oil system?
-  Electrical system?
-
-
-There were a few things I could easily attach to the engine.
-
-  Oil cooler
-  Mufflers
-  Starter
-  Spark plugs
-
-
-I did these on Monday (after watching the eclipse) and they can all be seen in the picture below.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/7.jpg&quot; alt=&quot;Bottom Cowling&quot; /&gt;&lt;/p&gt;</content><summary type="html">In the past week, I started on several tasks, unable to complete any for various reasons.  However, much progress has been made.</summary></entry></feed>
