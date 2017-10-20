@@ -1,5 +1,27 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-10-09T13:16:45-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Engine Tuning</title><link href="http://micahmartin.com/onex/2017/10/09/engine-tuning.html" rel="alternate" type="text/html" title="Engine Tuning" /><published>2017-10-09T00:00:00-07:00</published><updated>2017-10-09T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/09/engine-tuning</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/09/engine-tuning.html">&lt;p&gt;The engine is pretty well tuned at this point.  All the squawks have been addressed and were not necessarily what I suspected.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-10-19T19:10:57-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Outboard Wing Frames</title><link href="http://micahmartin.com/onex/2017/10/19/outboard-wing-frames.html" rel="alternate" type="text/html" title="Outboard Wing Frames" /><published>2017-10-19T00:00:00-07:00</published><updated>2017-10-19T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/19/outboard-wing-frames</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/19/outboard-wing-frames.html">&lt;p&gt;Last week was fall break and I had a great time with the family in Disney Land and Lego Land in California.  Upon getting back I continued work on the wing-fold parts.&lt;/p&gt;
+
+&lt;h3 id=&quot;aileron-control-bells&quot;&gt;Aileron Control Bells&lt;/h3&gt;
+
+&lt;p&gt;You can see in the first picture how these swivel paddles (not sure real name) mount to plates at the end of the spars.  This half goes on the outboard spar (the part that folds up) and will be connected to the ailerons.  The inboard paddles will connect to the control stick and translate control inputs to the ailerons.&lt;/p&gt;
+
+&lt;p&gt;Once I had both halves done, I lined them up and noticed that the paddles didn’t line up well at all.  The ball bearings rested on the very edge of the opposing paddles.  I doubled checked the plans several times, but I had followed them correctly.  Eventually I decided the plans were wrong and I was able to solve the problem by drilling out some rivets and putting the outboard paddles on the top of the swivel bell instead of the bottom.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-19/2.jpg&quot; alt=&quot;Wing Fold Fix&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;wing-fold-panels&quot;&gt;Wing Fold Panels&lt;/h3&gt;
+
+&lt;p&gt;Where the wing-halves meet, there are these plates that have soooo many rivets.  As I drilled, deburred and counter sunk all those holes, I had plenty of time to wonder why so many rivets would be needed.  You can see in the picture above that there’s not much structure to hold together; just two sheets. The best answer I could think of was: Why not?  The rivets do add strength to the layers and don’t add much weight.  But maybe it’s overkill.  Those extra rivers sure added a lot of labor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-19/3.jpg&quot; alt=&quot;Wing Fold Installed&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Before attaching the outboard spars, the plans have you install the ribs, skin, and fiberglass tips.  I was going to get the folding joint secured first to save workshop room, but the rear spar participates in the fold-locking mechanism so I have at least have to get the ribs attached.&lt;/p&gt;
+
+&lt;p&gt;When I clecoed them all together I noticed that the inner most forward rib was about 1/8” shorter than the others.  There are spacers on almost all the ribs to make them equal length, but somehow the plans didn’t get it right… and no spacer was provided for this rib.  So again I went off script and made my own spacer.&lt;/p&gt;
+
+&lt;p&gt;These assemblies are all riveted and bolted now.  Tomorrow I’ll see if I can get the spars attached and folding.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-19/1.jpg&quot; alt=&quot;Wing Frames&quot; /&gt;&lt;/p&gt;</content><summary type="html">Last week was fall break and I had a great time with the family in Disney Land and Lego Land in California.  Upon getting back I continued work on the wing-fold parts.</summary></entry><entry><title type="html">Engine Tuning</title><link href="http://micahmartin.com/onex/2017/10/09/engine-tuning.html" rel="alternate" type="text/html" title="Engine Tuning" /><published>2017-10-09T00:00:00-07:00</published><updated>2017-10-09T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/09/engine-tuning</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/09/engine-tuning.html">&lt;p&gt;The engine is pretty well tuned at this point.  All the squawks have been addressed and were not necessarily what I suspected.&lt;/p&gt;
 
 &lt;h4 id=&quot;rpms&quot;&gt;RPMs&lt;/h4&gt;
 
@@ -251,49 +273,4 @@
 
 &lt;p&gt;These are the last two Oops fittings that go in the fuel tank.  A drain valve goes in one and the fuel level sensor will go in the other.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-05/6.jpg&quot; alt=&quot;Fuel Tank Oops Fittings&quot; /&gt;&lt;/p&gt;</content><summary type="html">Cowling</summary></entry><entry><title type="html">Breadth First Building</title><link href="http://micahmartin.com/onex/2017/08/30/breadth-first-building.html" rel="alternate" type="text/html" title="Breadth First Building" /><published>2017-08-30T00:00:00-07:00</published><updated>2017-08-30T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/08/30/breadth-first-building</id><content type="html" xml:base="http://micahmartin.com/onex/2017/08/30/breadth-first-building.html">&lt;p&gt;In the past week, I started on several tasks, unable to complete any for various reasons.  However, much progress has been made.&lt;/p&gt;
-
-&lt;h4 id=&quot;sonex-build-visits&quot;&gt;Sonex Build Visits&lt;/h4&gt;
-
-&lt;p&gt;Last Thursday I went to visit Denny and Jim at Deer Valley airport to check out their builds.  It’s always fruitful to see how other people build their planes.  I got plenty of ideas for improving my build.  And I got a better sense of how to proceed with the engine and electronic components.&lt;/p&gt;
-
-&lt;p&gt;Jim’s hangar was my first stop.  He’s been working on his Sonex for 12 years.  Maybe that’s because there are lots of distractions at the airport. At least three people stopped by within an hour to chat and check out the build.  Anyhow, Jim gave me a great tour and then got help from Denny to start up the engine and see how it ran.  Purred like a tiger.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/2.jpg&quot; alt=&quot;Jim's Build&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On the walk to Denny’s hangar I got a special treat.  Hoa, another Sonex owner was cleaning his beautiful bird.  He proudly presented his vinyl wrap job, which is truly nice.  He outsourced it and paid less than half what a paint job costs.  I still want to do my own wrap.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/1.jpg&quot; alt=&quot;Hoa's Sonex&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Denny’s Sonex has been flying for 9 years.  He did a wonderful job building it and he’s put over 700 hours on it since.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/3.jpg&quot; alt=&quot;Denny's Sonex&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In the afternoon after the visits, I did a bit of work on the wing fold.  I wanted to better understand how they connect and fold.  While looking at it, I notices some flat heads protruding where the outboard spar attaches.  That’s not good.  So I took it apart and cleaned it up.&lt;/p&gt;
-
-&lt;p&gt;On Friday, I pulled out AirWard’s fuel shutoff kit and began work.  But I couldn’t figure it out so I emailed Dave.  He helped me realize that there was a missing part that I was able to pick up at the hardware store.&lt;/p&gt;
-
-&lt;h4 id=&quot;electrical-diagrams&quot;&gt;Electrical Diagrams&lt;/h4&gt;
-
-&lt;p&gt;I received the Aircraft Wiring Guild over the week end and read it.  Although short, it spelled out a lot of things that were not obvious to me.  With what I learned, I was able to draw a couple schematics (below) of the electrical system I intend to build.  This was intense! Very details oriented.  What you can’t see is my spreadsheet detailing every wire; its gauge, ends points, terminators, and length.  It took about 2 days.&lt;/p&gt;
-
-&lt;p&gt;With these, I was able to order all the wires, terminators, switches, and various electrical components I should need to wire everything together.  I fear it may take quite a while to complete.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/4.png&quot; alt=&quot;Main Electrical&quot; /&gt;
-&lt;img src=&quot;/onex/img/2017-08-30/5.png&quot; alt=&quot;Avionics&quot; /&gt;&lt;/p&gt;
-
-&lt;h4 id=&quot;fuel-shutoff&quot;&gt;Fuel Shutoff&lt;/h4&gt;
-
-&lt;p&gt;Another problem with the fuel shutoff kits is that Sonex has recently stoped building tanks with builtin ports and is including their Oops fittings instead.  The Oops fitting is a threaded, flanged tube that has to be inserted from the inside of the tank.  With a nut on the outside and rubber washers in and out, the Oops fitting seems very secure.  But Dave, from AirWard, hadn’t updated his kit to accommodate the Oops fittings so I had to get a bit creative to make it work.  But it does work, nicely.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/6.jpg&quot; alt=&quot;Fuel Shutoff&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;There’s two more kits for the fuel system.  The fuel system kit, which contains all the basic parts, and a kit to eliminate &lt;a href=&quot;http://www.sonexbuilders.net/viewtopic.php?f=33&amp;amp;t=1139&amp;amp;start=10&quot;&gt;the infamous “Burp” symptom of the AeroInjector&lt;/a&gt;.  The instructions for the burp kit were mind boggling.  I emailed Dave some more.  Eventually, after reading all the fuel system instructions multiple times and drawing diagrams, the system made sense and I could visualize it.  Great!  But the fuel components can’t interfere with the cowling, which hasn’t been installed yet.&lt;/p&gt;
-
-&lt;h4 id=&quot;cowling&quot;&gt;Cowling&lt;/h4&gt;
-
-&lt;p&gt;The fuel system is on hold so I can work on the cowling.  Cutting and sanding fiberglass…. fun.  It cuts like butter compared to metal, but fiberglass particles go everywhere (ichy), and the chemical smells can’t be healthy.&lt;/p&gt;
-
-&lt;p&gt;This project brings back painstaking memories of the windshield.  The cowlings have to be cut in multiple places.  Most annoying is the engine rocker covers that stick out the side on a OneX.  The cowling won’t fit into place without the engine cover cut out.  And you don’t know where to make the cutout without fitting the cowling into place.  So it’s another game of install as much as possible, make tiny cuts, uninstall, cut, repeat.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-08-30/7.jpg&quot; alt=&quot;Bottom Cowling&quot; /&gt;&lt;/p&gt;</content><summary type="html">In the past week, I started on several tasks, unable to complete any for various reasons.  However, much progress has been made.</summary></entry></feed>
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-05/6.jpg&quot; alt=&quot;Fuel Tank Oops Fittings&quot; /&gt;&lt;/p&gt;</content><summary type="html">Cowling</summary></entry></feed>
