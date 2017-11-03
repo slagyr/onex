@@ -1,5 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-10-30T20:20:28-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Vinyl Wrapped Ailerons</title><link href="http://micahmartin.com/onex/2017/10/30/vinyl-wrapped-ailerons.html" rel="alternate" type="text/html" title="Vinyl Wrapped Ailerons" /><published>2017-10-30T00:00:00-07:00</published><updated>2017-10-30T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/30/vinyl-wrapped-ailerons</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/30/vinyl-wrapped-ailerons.html">&lt;h4 id=&quot;ailerons&quot;&gt;Ailerons&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-11-02T18:21:54-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Wing Skins</title><link href="http://micahmartin.com/onex/2017/11/02/wing-skins.html" rel="alternate" type="text/html" title="Wing Skins" /><published>2017-11-02T00:00:00-07:00</published><updated>2017-11-02T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/11/02/wing-skins</id><content type="html" xml:base="http://micahmartin.com/onex/2017/11/02/wing-skins.html">&lt;p&gt;Skins are all drilled.  The tricky part here was getting the ribs lined up and centered on the holes that needed drilling.  In many cases it was impossible to reach around the skins to adjust the rib positions.  That’s especially true when on my back under the wing.  Angelique was kind enough to help me for part of it.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-02/1.jpg&quot; alt=&quot;Skins Drilled&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Much work still remains on the wings.  Need to:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Install tie downs eye-bolts&lt;/li&gt;
+  &lt;li&gt;Pitot boom… Oh, I decided not to use the cheap pitot-static boom provided by Sonex and purchased the Dynon system which also provided angle of attack.&lt;/li&gt;
+  &lt;li&gt;OAT - Outside Air Temperature sensor&lt;/li&gt;
+  &lt;li&gt;Install fiberglass wing tips&lt;/li&gt;
+  &lt;li&gt;Debur all holes (eek!)&lt;/li&gt;
+  &lt;li&gt;Scrub and clean the skins&lt;/li&gt;
+  &lt;li&gt;Dimple the front holes to promote laminar flow&lt;/li&gt;
+  &lt;li&gt;Install flaps and aileron control rods&lt;/li&gt;
+  &lt;li&gt;Install access hole covers&lt;/li&gt;
+  &lt;li&gt;Rivet!&lt;/li&gt;
+&lt;/ul&gt;</content><summary type="html">Skins are all drilled.  The tricky part here was getting the ribs lined up and centered on the holes that needed drilling.  In many cases it was impossible to reach around the skins to adjust the rib positions.  That’s especially true when on my back under the wing.  Angelique was kind enough to help me for part of it.</summary></entry><entry><title type="html">Vinyl Wrapped Ailerons</title><link href="http://micahmartin.com/onex/2017/10/30/vinyl-wrapped-ailerons.html" rel="alternate" type="text/html" title="Vinyl Wrapped Ailerons" /><published>2017-10-30T00:00:00-07:00</published><updated>2017-10-30T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/30/vinyl-wrapped-ailerons</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/30/vinyl-wrapped-ailerons.html">&lt;h4 id=&quot;ailerons&quot;&gt;Ailerons&lt;/h4&gt;
 
 &lt;p&gt;Got the ailerons finished… mostly.  In order to properly balance them, they should be painted first, or wrapped in my case.  (side note: &lt;a href=&quot;https://youtu.be/RenbFgLZBNA&quot;&gt;Fascinating video showing why ailerons must have a counterweight&lt;/a&gt;)  So I get to try out the vinyl wrap!&lt;/p&gt;
 
@@ -262,12 +279,4 @@
 
 &lt;h4 id=&quot;135-pilot-training&quot;&gt;135 Pilot Training&lt;/h4&gt;
 
-&lt;p&gt;I started training to be a 135 charter pilot with &lt;a href=&quot;http://eliteflightjets.com/&quot;&gt;Elite Flight Jets&lt;/a&gt; today.  I continue training tomorrow so work on the OneX is taking a back seat.&lt;/p&gt;</content><summary type="html">Oil Separator</summary></entry><entry><title type="html">Baffles</title><link href="http://micahmartin.com/onex/2017/09/08/baffles.html" rel="alternate" type="text/html" title="Baffles" /><published>2017-09-08T00:00:00-07:00</published><updated>2017-09-08T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/08/baffles</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/08/baffles.html">&lt;h4 id=&quot;engine-baffles&quot;&gt;Engine Baffles&lt;/h4&gt;
-
-&lt;p&gt;I hope I never have to build engine baffles again.  ‘Nuf said.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-08/1.jpg&quot; alt=&quot;Baffles&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The K&amp;amp;N RC-1980 air filter seems to do the trick.  It attaches with a simple ring clamp and can be installed in such a manner so as to not interfere with the cowling.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-08/2.jpg&quot; alt=&quot;K&amp;amp;N Air Filter&quot; /&gt;&lt;/p&gt;</content><summary type="html">Engine Baffles</summary></entry></feed>
+&lt;p&gt;I started training to be a 135 charter pilot with &lt;a href=&quot;http://eliteflightjets.com/&quot;&gt;Elite Flight Jets&lt;/a&gt; today.  I continue training tomorrow so work on the OneX is taking a back seat.&lt;/p&gt;</content><summary type="html">Oil Separator</summary></entry></feed>
