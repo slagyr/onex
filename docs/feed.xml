@@ -1,5 +1,53 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-11-06T19:42:42-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Tips and Dimples</title><link href="http://micahmartin.com/onex/2017/11/06/tips-and-dimples.html" rel="alternate" type="text/html" title="Tips and Dimples" /><published>2017-11-06T00:00:00-07:00</published><updated>2017-11-06T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/11/06/tips-and-dimples</id><content type="html" xml:base="http://micahmartin.com/onex/2017/11/06/tips-and-dimples.html">&lt;h4 id=&quot;wing-tips&quot;&gt;Wing Tips&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-11-09T19:58:32-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Rivet Ramble</title><link href="http://micahmartin.com/onex/2017/11/09/rivet-ramble.html" rel="alternate" type="text/html" title="Rivet Ramble" /><published>2017-11-09T00:00:00-07:00</published><updated>2017-11-09T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/11/09/rivet-ramble</id><content type="html" xml:base="http://micahmartin.com/onex/2017/11/09/rivet-ramble.html">&lt;h4 id=&quot;wing-rivet-hole-prep&quot;&gt;Wing Rivet Hole Prep&lt;/h4&gt;
+
+&lt;p&gt;Tedium of preparing all the wing skin hole has been continued and completed.  &lt;em&gt;Whew&lt;/em&gt;!&lt;/p&gt;
+
+&lt;p&gt;You can see in the picture how the front half of the holes are dimpled.  Unfortunately, the copper clecos kept popping out of these dimpled holes.  This was the clue #1 of the mistake I made.  More later.&lt;/p&gt;
+
+&lt;p&gt;With the skins all prepped and clecoed back in place on the wings it was time to rivet.  But wait… I should make sure the control surfaces fit, right?  And their push rods.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-09/2.jpg&quot; alt=&quot;Dimpled Holes&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;ailerons-and-flaps&quot;&gt;Ailerons and Flaps&lt;/h4&gt;
+
+&lt;p&gt;I had received the replacement flap skin (remember, I ruined that last one) so I assembled the right flap.&lt;/p&gt;
+
+&lt;p&gt;When I tried on the ailerons, they fit but motion was seriously limited.  The bolts that hold the counterweight were too long to fit through the cutout in the wing skin.  Rather than make the cutout bigger I decided to make the counterweight assembly smaller.  Replacing the normal nuts with thin special nuts I had left over, along with using a light washer instead of the regular, and cutting the tip of the bolt off removed about an inch from the width of the counterweight; small enough to fit right.&lt;/p&gt;
+
+&lt;p&gt;This was also a good time to address the lack of counterweight mass.  The top of the counterweight hits the top skin flush, and width was already a problem, so the bottom of the counter weight is where I could beef it up.  Check out the balancing rig below.&lt;/p&gt;
+
+&lt;p&gt;I cut some 5mm slices of lead to match the full width of the counterweight assembly.  This allowed for the thinnest profile possible with sufficient weight.  I drilled two holes vertically through the middle to attach with flush screws and a countersunk hole on the top so the nut would not add any height.  The screws had to be trimmed as well.  Then I shaved some lead off until it looked balanced.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-09/3.jpg&quot; alt=&quot;Balanced Aileron&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Some of the control rod pass-throughs had to be filed, but otherwise everything fits.&lt;/p&gt;
+
+&lt;h4 id=&quot;rivetting&quot;&gt;Rivetting&lt;/h4&gt;
+
+&lt;p&gt;There are basically 3 difference rivets used on the wing skins.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CCP-42 are short, round head blind (Cherry) rivets used on the ribs, hinge, and rear spar with is thin like the ribs.&lt;/li&gt;
+  &lt;li&gt;CCP-44 are a bit longer, still round head blind (Cherry) rivets used where the skin meets the main spar, which is thicker.&lt;/li&gt;
+  &lt;li&gt;CCC-42 are short, countersunk head blind (Cherry) rivets for the dimpled holes.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Working on the underside on the left inner panel, I started with the CCP-42 rivets and they went in great.  Then I moved on to spar using the CCP-44 rivets… you get a nice “thunk” reverberation sound when you rivet into the spar.  This lets you know you’ve got a solid hold.&lt;/p&gt;
+
+&lt;p&gt;Riveting the dimpled holes was a bit more problematic.  Clue #2: The mandrels of the rivets were protruding out more often the usual after being pulled.  This is sign that maybe the shaft didn’t grab as deep as it should have.&lt;/p&gt;
+
+&lt;p&gt;Clue #3: A couple rivets were loose. Then I tried pushing from the inside and some just popped right out of the hole!&lt;/p&gt;
+
+&lt;p&gt;Ok… so the rivets aren’t holding in the dimpled holes.  I anticipated this problem because as I dimpled the holes I could see them expand.  So what now?  As I search for a solution I noticed something in the plans.  Off on the side, in the notes a sub-figure, there is it:  “Use a #31 or #32 drill bit, not a #30.”  Doh!  I already used #30 on ALL the dimpled holes.  Again… what now?  Obviously I can’t continue with rivets that fall out.&lt;/p&gt;
+
+&lt;p&gt;Okay, so I could create a ribbon of aluminum sheet, line the inside of the ribs, used smaller countersunk rivets to hold it into place and then drill #30 holes that the rivets will grab on to.  But, jeez, that’s a heavy and clunky solution.&lt;/p&gt;
+
+&lt;p&gt;Turns out there’s some rivets out there called Cherry Max rivets that are made in an oversized dimension, just a bit wider than #30 drill bits.  It also looks like they have the same size head as normal Cherry rivets.  They cost about 6x what normal Cherry rivets cost, but I think it’s a more elegant solution.  I ordered some.&lt;/p&gt;
+
+&lt;p&gt;In the mean time, might as well rivet the rest of the holes.  So I did.  That is, all except the top of the inboard skins.  These will get rivets last, once I’m done with the pitot, AOA, OAT plumbing.  I also left the aileron hinges unriveted so they could be removed when the controls get rigged.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-09/1.jpg&quot; alt=&quot;Wings&quot; /&gt;&lt;/p&gt;</content><summary type="html">Wing Rivet Hole Prep</summary></entry><entry><title type="html">Tips and Dimples</title><link href="http://micahmartin.com/onex/2017/11/06/tips-and-dimples.html" rel="alternate" type="text/html" title="Tips and Dimples" /><published>2017-11-06T00:00:00-07:00</published><updated>2017-11-06T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/11/06/tips-and-dimples</id><content type="html" xml:base="http://micahmartin.com/onex/2017/11/06/tips-and-dimples.html">&lt;h4 id=&quot;wing-tips&quot;&gt;Wing Tips&lt;/h4&gt;
 
 &lt;p&gt;The fiberglass wing tips are over-sized, as usual.  I ended up cutting 8” off the end to get maximum clearance through my garage door.  A metal strip is added to the inside of the fiberglass to add strength.  Still, there’s no significant structure holding the tips on… maybe 3/4” overlap with the wing skins… just enough for a line of rivets all the way around.  I can’t help but think that if the tips were much longer, they’d produce enough lift to rip themselves off.&lt;/p&gt;
 
@@ -225,46 +273,4 @@
   &lt;li&gt;reinstall fuel tank and connect fuel level sensor&lt;/li&gt;
   &lt;li&gt;test fuel flow (should get at least 10 gallons/hr)&lt;/li&gt;
   &lt;li&gt;install new oil sump kit with filter that I decided to get from Sonex.  The AeroVee doesn’t use a filter by default?!?!&lt;/li&gt;
-&lt;/ul&gt;</content><summary type="html">Lo and behold… after five+ days of wiring, when I turned on the master switch for the first time, the avionics came alive!</summary></entry><entry><title type="html">Tangled</title><link href="http://micahmartin.com/onex/2017/09/22/tangled.html" rel="alternate" type="text/html" title="Tangled" /><published>2017-09-22T00:00:00-07:00</published><updated>2017-09-22T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/09/22/tangled</id><content type="html" xml:base="http://micahmartin.com/onex/2017/09/22/tangled.html">&lt;p&gt;Chaos!  So many components.  So many wires.  So little room.&lt;/p&gt;
-
-&lt;p&gt;Cutting our the instrument panel was not as bad as I feared.  The only tools I required was the Dremmel cutting wheel, drill bits, and files.  I think it turned out simple and quite user friendly.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-22/2.jpg&quot; alt=&quot;Instrument Panel Cutout&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;That carbon fiber vinyl adds a nice (dark) effect.  You can see I was short one circuit breaker.  It arrived and I’ve since filled that hole.  Then I learned that one of those circuit breakers is not needed.  Oops!  The EMS get’s it’s power from the display.  I’m just gonna leave it in the panel.  Don’t tell anyone it’s not connected to anything.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-22/3.jpg&quot; alt=&quot;Instrument Panel&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So there’s all that stuff that goes into the instrument panel.  But then there’s all this stuff that is part of the instruments but doesn’t go IN the panel.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;EMS with three big cabler harnesses that stick out.&lt;/li&gt;
-  &lt;li&gt;Transponder&lt;/li&gt;
-  &lt;li&gt;Comm box&lt;/li&gt;
-  &lt;li&gt;Backup battery&lt;/li&gt;
-  &lt;li&gt;Fuel level sensor box&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;There’s more but this is all the stuff that I had planned to install behind the instrument panel.  I fabricated a shelf that would go right behind the panel and in front of the fuel tank.  It’s a place to mount all the components and keep the wires in place.  I thought I could fit everything in there, with a couple components underneath.  But once I put it in place in the fuselage, I noticed that the harnesses of the comm and transponder stuck out the side a bit too far.  The glaresheild wouldn’t be able to fit.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-22/1.jpg&quot; alt=&quot;Dash Design, Bad&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The EMS, with its big cables, had to go.  But where?  Eventually I decided there was room on the front right side of the fuselage where my leg would not really interfere with anything.  Since I was at it, I felt like this would be a better home for the backup battery and fuel sensor box, which were originally mounted upsidedown underneath the intrument panel.  Fabricating that mount took almost a full day.&lt;/p&gt;
-
-&lt;p&gt;You can see that this is where I decided to place the main electric bus and avionics bus (upside down), along with my Stratus.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-09-22/4.jpg&quot; alt=&quot;Side Panels&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In addition, these things also got done:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;CHT temp probes installed&lt;/li&gt;
-  &lt;li&gt;EGT probes installed&lt;/li&gt;
-  &lt;li&gt;GPS antenna installed&lt;/li&gt;
-  &lt;li&gt;VHF antenna installed&lt;/li&gt;
-  &lt;li&gt;Contactors, master and alternator, mounted to firewall&lt;/li&gt;
-  &lt;li&gt;Side engine baffles modified with nutplates so they can be removed&lt;/li&gt;
-  &lt;li&gt;Hired welder to weld bushing to intake manifold for MAP sensor&lt;/li&gt;
-  &lt;li&gt;Completed most small wiring local to instrument panel&lt;/li&gt;
-  &lt;li&gt;Family vacation in Page, AZ.  :)&lt;/li&gt;
-&lt;/ul&gt;</content><summary type="html">Chaos!  So many components.  So many wires.  So little room.</summary></entry></feed>
+&lt;/ul&gt;</content><summary type="html">Lo and behold… after five+ days of wiring, when I turned on the master switch for the first time, the avionics came alive!</summary></entry></feed>
