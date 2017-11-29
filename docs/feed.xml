@@ -1,5 +1,45 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-11-16T17:40:00-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Cherry Fairing Balloons</title><link href="http://micahmartin.com/onex/2017/11/16/cherry-fairing-balloons.html" rel="alternate" type="text/html" title="Cherry Fairing Balloons" /><published>2017-11-16T00:00:00-07:00</published><updated>2017-11-16T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/11/16/cherry-fairing-balloons</id><content type="html" xml:base="http://micahmartin.com/onex/2017/11/16/cherry-fairing-balloons.html">&lt;h4 id=&quot;charter-flights&quot;&gt;Charter Flights&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2017-11-28T18:55:16-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Waitng For Rivets</title><link href="http://micahmartin.com/onex/2017/11/28/waitng-for-rivets.html" rel="alternate" type="text/html" title="Waitng For Rivets" /><published>2017-11-28T00:00:00-07:00</published><updated>2017-11-28T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/11/28/waitng-for-rivets</id><content type="html" xml:base="http://micahmartin.com/onex/2017/11/28/waitng-for-rivets.html">&lt;p&gt;The wings are on hold while I wait for rivets.  So in the mean time…&lt;/p&gt;
+
+&lt;h4 id=&quot;pitotstaticaoa&quot;&gt;Pitot/Static/AOA&lt;/h4&gt;
+
+&lt;p&gt;Dynon’s installation kit for the Pitot/Static/AOA is quite convenient.  They use fasteners  where you simply push the platic tubing in, and it’s sealed. At least I hope it is.  So I ran all the plumbing, from the static ports on the side and the pito/AOA tube on the right wing, to the ADAHRS unit.  The pitot tube will still be removed so I can wrap the bottom of the wing without making a seam, so it’s not fully connected yet.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-28/1.jpg&quot; alt=&quot;Pitot AOA Plumbing&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The static ports are installed in roughly the same place they are on most other planes, the rear sides of the fuselage.  Flush rivets hole them in place.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-28/2.jpg&quot; alt=&quot;Static Vents&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;air-vents&quot;&gt;Air Vents&lt;/h4&gt;
+
+&lt;p&gt;Denny Myrick suggested these air vents from Vans.  I felt terrible cutting holes into the sife of the plane, but I think they turned out okay.  Now I can get some fresh air in the cockpit on those hot Arizona days.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-28/3.jpg&quot; alt=&quot;Air Vents&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;elt&quot;&gt;ELT&lt;/h4&gt;
+
+&lt;p&gt;A while back I decided to get an ELT (Emergency Location Transmitter) even though it’s not required on a single seat experimental aircraft.  This is the smalled ELT I could find wwighting in at only a couple pounds.  It has to be installed on the left side of the fuselage, with the antenna exposed throuth the canopy so locations where limited.  I fabricated a mount attached to the bottom left longeron that should hold it steady enough.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-28/4.jpg&quot; alt=&quot;ELT&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;wheel-pants-skins&quot;&gt;Wheel Pants Skins&lt;/h4&gt;
+
+&lt;p&gt;I’ve put these off for a while.  Now’s the time.  I cut them to fit and got them mounted. Then I took them off to wrap them.&lt;/p&gt;
+
+&lt;p&gt;Compared the wrapping the ailerons, these wheel pant were much more difficult.  It’s the compound curves.  The vinyl has to stretch and compress to fit smoothy and sometimes it just can’t do it.  At first I tried to wrap them with one piece of each color.  Eventually I gave up used three pieces.  It still took a good deal of time and effort.&lt;/p&gt;
+
+&lt;p&gt;They look good…. from a distance.  Up close you’ll notice some white lines between pieces, crooked corners, and sealing tape around all the edges.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-28/5.jpg&quot; alt=&quot;Wheel Pants&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;aeroinjector&quot;&gt;Aeroinjector&lt;/h4&gt;
+
+&lt;p&gt;The Aeroinjector had to be repositioned to get the needed fuel flow.  I cur the 45° silicone tube I had ordered and got it into position.  Of course the cowling not longer fit because the air filter was protruding too much.  After a few attempts, I figured out that the aeroinjector intake could fit all the way into the airfilter, about 2”, and by adding some material to the perimeter of the intake nozzle, fasten the air filter.  Then the cowling fit.&lt;/p&gt;
+
+&lt;p&gt;The Aeroinjector is held on by a hose clamp and silicone tube.  The seems a bit precarious, so I used some adel clamps and aluminum strips to add extra braces.  Now it is fastened to the engine mount and won’t be going anywhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-28/6.jpg&quot; alt=&quot;Aeroinjector&quot; /&gt;&lt;/p&gt;</content><summary type="html">The wings are on hold while I wait for rivets.  So in the mean time…</summary></entry><entry><title type="html">Cherry Fairing Balloons</title><link href="http://micahmartin.com/onex/2017/11/16/cherry-fairing-balloons.html" rel="alternate" type="text/html" title="Cherry Fairing Balloons" /><published>2017-11-16T00:00:00-07:00</published><updated>2017-11-16T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/11/16/cherry-fairing-balloons</id><content type="html" xml:base="http://micahmartin.com/onex/2017/11/16/cherry-fairing-balloons.html">&lt;h4 id=&quot;charter-flights&quot;&gt;Charter Flights&lt;/h4&gt;
 
 &lt;p&gt;I complete my first charter flight as a captain, taking a couple from Las Vegas to Page AZ.  Then I did two more flights this week.  It was fun, but left less time to work on the OneX.&lt;/p&gt;
 
@@ -257,30 +297,4 @@
   &lt;li&gt;A small amount of oil leaked out from the oil cooler mount, drain bolt, and oil pump.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;With the plane back in the garage, I tightened some bolt to seal the oil leaks.  And with some quick research, I discovered that I may have connected the RPM sensor lead to the wrong terminal on the voltage regulator.  This may be the cause for most the other problems. I swapped the leads and we’ll see how that helps tomorrow.  When I reposition the AeroInjector, that may help with the sporadic RPMs.  I’ll report in a later blog.&lt;/p&gt;</content><summary type="html">Fired up the engine for the first time today.  Below there’s a video of the event recorded by my son Luka.</summary></entry><entry><title type="html">Fuel Flow</title><link href="http://micahmartin.com/onex/2017/10/04/fuel-flow.html" rel="alternate" type="text/html" title="Fuel Flow" /><published>2017-10-04T00:00:00-07:00</published><updated>2017-10-04T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/04/fuel-flow</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/04/fuel-flow.html">&lt;p&gt;Lots of little things done this past week, however the most consuming task was measuring fuel flow.  Most experimental aircraft accidents occur in the first few hours of flight due to fuel flow problems.  So it’s important to test it.  Here’s how it works.&lt;/p&gt;
-
-&lt;p&gt;Convention says that an engine needs 0.55 lbs of fuel per hour for each HP, at maximum power.  My AeroVee is 80HP, so that’s 44lbs per hours.  Each gallon of 100LL weights 6 pounds so that 7.33 gallons / hr, and we measure the flow at the point where the fuel enters the carburetor, or AeroInjector in my case.&lt;/p&gt;
-
-&lt;p&gt;Since the OneX has a gravity fed fuel system (no pump), the FAA mandates a safety factor of 150%. I should see 11 gal/hr.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, this fuel demand is typically on take off where the engine is high.  It’s best to perform the test at 5° above the maximum climb attitude.  I couldn’t find any documentation for OneX climb angles, but if you consider short field take offs where the highest climb rate is required, common procedure is an initial climb rate of 10° until you clear any obstacle, and then you shallow the climb.&lt;/p&gt;
-
-&lt;p&gt;To summarize, I should see a 11 gallons per hour flowing out at the AeroInjector with the aircraft at a 15° nose-up attitude.&lt;/p&gt;
-
-&lt;p&gt;How does one get an unfinished plane into a 15° nose up attitude?  At rest it sits at 6° because I have a tail dragger. On Sunday I built a ramp/platform for the main gears.  I needed help so it was fortunate that Luka has some friends over for homework.  Together we were able to push it up there.  That got us 12°, but it was a bit precarious and I wasn’t comfortable putting any more bricks.  I rant the test anyway and measured 6.6 gal/hr.  Out of the gascolator I got 12.9 gal/hr but that doesn’t really count, so it didn’t pass.&lt;/p&gt;
-
-&lt;p&gt;I realized later that I had the gas tank sealed and the vent doesn’t open unless there’s airflow.  Perhaps there was a negative pressure building in the tank.  My mechanic, Tony, also told me I need to put more than 1 gallons in the tank… at least two or three.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-04/1.jpg&quot; alt=&quot;Plane On Ramp&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;A little trigonometry says I need to raise the main gears about 2’ to get 15°.  Rather than raise the main gear more, I figured I could dig a hole and lower the tail into it.  Digging a hole in Arizona is way harder than diging a hole in Illinois by the way.  But I got one about a foot and a half deep.  Then I pushed the plane up a little ramp and this yielded 15.6°.  I was hoping for 20° but this was good enough.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-04/2.jpg&quot; alt=&quot;Plane in Hole&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Measuring the flow again, with the tank open and 3 gallons in the tank, I measured 6.25 gal / hr.  Oh no!  There’s something seriously wrong!  After pondering the problem for a long while, I realized that the fuel had to flow up hill from the gascolator to get to the injector.  The injector was angled way up due to the silicone hose and it’s angle could easily be adjusted with different hose.  So I repositioned the fuel line to a point at which I could lower the injector input and measured 11.5 gal/hr. Whew! That made all the difference.  I took a few more measurements, let the tank drain, and measured the “unusable fuel” remaining in the tank, about 1/8 of a gallon.&lt;/p&gt;
-
-&lt;p&gt;I ordered some new hoses to explore a few options.  The trick is getting the air filter to attach to the AeroInjector without interfering with the lower cowling.  But now I know where the fuel intake has to be to get the flow required.&lt;/p&gt;
-
-&lt;h4 id=&quot;135-training-complete&quot;&gt;135 Training Complete&lt;/h4&gt;
-
-&lt;p&gt;I took my check ride yesterday and passed.  I’m now an airline captain.  It’ll be fun to fly a few charter flights every once in a while.&lt;/p&gt;</content><summary type="html">Lots of little things done this past week, however the most consuming task was measuring fuel flow.  Most experimental aircraft accidents occur in the first few hours of flight due to fuel flow problems.  So it’s important to test it.  Here’s how it works.</summary></entry></feed>
+&lt;p&gt;With the plane back in the garage, I tightened some bolt to seal the oil leaks.  And with some quick research, I discovered that I may have connected the RPM sensor lead to the wrong terminal on the voltage regulator.  This may be the cause for most the other problems. I swapped the leads and we’ll see how that helps tomorrow.  When I reposition the AeroInjector, that may help with the sporadic RPMs.  I’ll report in a later blog.&lt;/p&gt;</content><summary type="html">Fired up the engine for the first time today.  Below there’s a video of the event recorded by my son Luka.</summary></entry></feed>
