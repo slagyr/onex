@@ -1,5 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2018-01-10T19:19:30-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">To the Airport</title><link href="http://micahmartin.com/onex/2018/01/10/to-the-airport.html" rel="alternate" type="text/html" title="To the Airport" /><published>2018-01-10T00:00:00-07:00</published><updated>2018-01-10T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2018/01/10/to-the-airport</id><content type="html" xml:base="http://micahmartin.com/onex/2018/01/10/to-the-airport.html">&lt;h4 id=&quot;tweaks&quot;&gt;Tweaks&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2018-01-29T14:44:26-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">Red Tape</title><link href="http://micahmartin.com/onex/2018/01/23/red-tape.html" rel="alternate" type="text/html" title="Red Tape" /><published>2018-01-23T00:00:00-07:00</published><updated>2018-01-23T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2018/01/23/red-tape</id><content type="html" xml:base="http://micahmartin.com/onex/2018/01/23/red-tape.html">&lt;h4 id=&quot;registration&quot;&gt;Registration&lt;/h4&gt;
+
+&lt;p&gt;Registration finally arrived in the mail on Jan 17th.  On the same day, I filled out all my airworthiness application paperwork and sent it to Ted (the DAR - Designated Airworthiness Representative).  He pointed out several errors; most notably my tail numbers.  According to the FARs, they must be horizontal (or vertical), not angles like mine.  Doh!&lt;/p&gt;
+
+&lt;p&gt;These were stickers I purchased from Stiker Mule and there was no way they were coming off in one piece.  So rather than buy new stickers and wait for them to come, I decided to cut my own from left over vinyl.  And while I was at it, I could get creative.  So I found the Transformers fort and made some larger two-tone numbers that would blend right into my design.  The next day I installed them, proudly took a picture and sent to to Ted.&lt;/p&gt;
+
+&lt;p&gt;He calls me that evening to tell me that the FAA does not approve.  He had show them to his contact and they did not like them.  The two-tone effect had to go, and the aspect ratio of the characters was incorrect.  Bah!  Vogons!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2018-01-23/1.jpg&quot; alt=&quot;First Two Tail Numbers&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This next version of tail numbers is approved by the FAA.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2018-01-23/2.jpg&quot; alt=&quot;Final Tail Numbers&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;airworthiness-inspection&quot;&gt;Airworthiness Inspection&lt;/h4&gt;
+
+&lt;p&gt;With all the paperwork complete and corrected, Ted meets me yesterday to do the airworthiness inspection.  First thing he does is walk around the airplane looking for something. Then he asks me “Where’s your data plate?”  My shoulder drop as I sigh… “What’s a data plate?”  So you know, it’s a fireproof (steel) plate riveted to the side of the aircraft with data etched (engraved) into it: Make, Model, Serial Number.  Ted was kid enough to continue the inspection but was unable to issue an airworthiness certificate without seeing the data plate installed with the correct information.&lt;/p&gt;
+
+&lt;p&gt;I raced around to get it done.  I got the steel cards from grumpy sheet metal machinist near the airport.  A local trophy shop engraved it for me.  Then I went back to the airport, riveted it in place and sent a picture to Ted.  He came back the next day and…. viola… I got my airworthiness certificate.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2018-01-23/3.jpg&quot; alt=&quot;Data Plate&quot; /&gt;&lt;/p&gt;</content><summary type="html">Registration</summary></entry><entry><title type="html">To the Airport</title><link href="http://micahmartin.com/onex/2018/01/10/to-the-airport.html" rel="alternate" type="text/html" title="To the Airport" /><published>2018-01-10T00:00:00-07:00</published><updated>2018-01-10T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2018/01/10/to-the-airport</id><content type="html" xml:base="http://micahmartin.com/onex/2018/01/10/to-the-airport.html">&lt;h4 id=&quot;tweaks&quot;&gt;Tweaks&lt;/h4&gt;
 
 &lt;p&gt;My family has been laughing at me as I work on my completed plane.   Even though the build is complete, there’s still work to be done people!&lt;/p&gt;
 
@@ -333,22 +353,4 @@
   &lt;li&gt;Install flaps and aileron control rods&lt;/li&gt;
   &lt;li&gt;Install access hole covers&lt;/li&gt;
   &lt;li&gt;Rivet!&lt;/li&gt;
-&lt;/ul&gt;</content><summary type="html">Skins are all drilled.  The tricky part here was getting the ribs lined up and centered on the holes that needed drilling.  In many cases it was impossible to reach around the skins to adjust the rib positions.  That’s especially true when on my back under the wing.  Angelique was kind enough to help me for part of it.</summary></entry><entry><title type="html">Vinyl Wrapped Ailerons</title><link href="http://micahmartin.com/onex/2017/10/30/vinyl-wrapped-ailerons.html" rel="alternate" type="text/html" title="Vinyl Wrapped Ailerons" /><published>2017-10-30T00:00:00-07:00</published><updated>2017-10-30T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/10/30/vinyl-wrapped-ailerons</id><content type="html" xml:base="http://micahmartin.com/onex/2017/10/30/vinyl-wrapped-ailerons.html">&lt;h4 id=&quot;ailerons&quot;&gt;Ailerons&lt;/h4&gt;
-
-&lt;p&gt;Got the ailerons finished… mostly.  In order to properly balance them, they should be painted first, or wrapped in my case.  (side note: &lt;a href=&quot;https://youtu.be/RenbFgLZBNA&quot;&gt;Fascinating video showing why ailerons must have a counterweight&lt;/a&gt;)  So I get to try out the vinyl wrap!&lt;/p&gt;
-
-&lt;p&gt;My design calls for grey on the bottom and green on the top.  Here’s one wrapped and the other unwrapped.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-30/2.jpg&quot; alt=&quot;Before and After&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;The right wing has a stripe that crosses the aileron.  The knifeless cutting tape works great!  Nice flush cuts between material.  One issue I have is the the top/bottom transition occurs right at the tail end of the aileron which is a pretty sharp curve.  The vinyl doesn’t like ending on a such a corner so I had to order some sealing tape.  I have liquid sealant for vinyl but reports say that it leaves a nail polish-like finish that doesn’t look so nice.  We’ll see how the tape works first.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-30/1.jpg&quot; alt=&quot;Right Aileron&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Frustatingly, the counter weight isn’t heavy enough… even with the naked ailerons.  Grrrrr… I cut the lead ingot exactly the size the plans called for!  Now I’ll have to get the wings finished and figure out how I can add more weight to the aileron counterweights.&lt;/p&gt;
-
-&lt;h4 id=&quot;wing-skins&quot;&gt;Wing Skins&lt;/h4&gt;
-
-&lt;p&gt;The wing skins are time consuming.  Lots and lots of holes.  The skins need to be filed to fit properly.  Much work remains.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-10-30/3.jpg&quot; alt=&quot;Wingos Skins&quot; /&gt;&lt;/p&gt;</content><summary type="html">Ailerons</summary></entry></feed>
+&lt;/ul&gt;</content><summary type="html">Skins are all drilled.  The tricky part here was getting the ribs lined up and centered on the holes that needed drilling.  In many cases it was impossible to reach around the skins to adjust the rib positions.  That’s especially true when on my back under the wing.  Angelique was kind enough to help me for part of it.</summary></entry></feed>
