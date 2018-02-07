@@ -1,5 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2018-01-29T14:44:26-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">Red Tape</title><link href="http://micahmartin.com/onex/2018/01/23/red-tape.html" rel="alternate" type="text/html" title="Red Tape" /><published>2018-01-23T00:00:00-07:00</published><updated>2018-01-23T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2018/01/23/red-tape</id><content type="html" xml:base="http://micahmartin.com/onex/2018/01/23/red-tape.html">&lt;h4 id=&quot;registration&quot;&gt;Registration&lt;/h4&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2018-02-06T20:32:11-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">First Flights</title><link href="http://micahmartin.com/onex/2018/01/29/first-flights.html" rel="alternate" type="text/html" title="First Flights" /><published>2018-01-29T00:00:00-07:00</published><updated>2018-01-29T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2018/01/29/first-flights</id><content type="html" xml:base="http://micahmartin.com/onex/2018/01/29/first-flights.html">&lt;p&gt;&lt;img src=&quot;/onex/img/2018-01-29/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/254601702&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><summary type="html"></summary></entry><entry><title type="html">Red Tape</title><link href="http://micahmartin.com/onex/2018/01/23/red-tape.html" rel="alternate" type="text/html" title="Red Tape" /><published>2018-01-23T00:00:00-07:00</published><updated>2018-01-23T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2018/01/23/red-tape</id><content type="html" xml:base="http://micahmartin.com/onex/2018/01/23/red-tape.html">&lt;h4 id=&quot;registration&quot;&gt;Registration&lt;/h4&gt;
 
 &lt;p&gt;Registration finally arrived in the mail on Jan 17th.  On the same day, I filled out all my airworthiness application paperwork and sent it to Ted (the DAR - Designated Airworthiness Representative).  He pointed out several errors; most notably my tail numbers.  According to the FARs, they must be horizontal (or vertical), not angles like mine.  Doh!&lt;/p&gt;
 
@@ -336,21 +338,4 @@
 
 &lt;p&gt;The rivet prep has begun.  Starting with the right inboard skin, I deburred, scrubbed with scotch brite, deburred spars and ribs,  dimpled the front skin holes, dimpled the front ribs, and clecoed it back in place.  This took almost 4 hours. I started the left side in the afternoon but didn’t finish because my rivet puller broke while using Sonex’s Super Simple Dimple Die.&lt;/p&gt;
 
-&lt;p&gt;Only four more skins to go.&lt;/p&gt;</content><summary type="html">Wing Tips</summary></entry><entry><title type="html">Wing Skins</title><link href="http://micahmartin.com/onex/2017/11/02/wing-skins.html" rel="alternate" type="text/html" title="Wing Skins" /><published>2017-11-02T00:00:00-07:00</published><updated>2017-11-02T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2017/11/02/wing-skins</id><content type="html" xml:base="http://micahmartin.com/onex/2017/11/02/wing-skins.html">&lt;p&gt;Skins are all drilled.  The tricky part here was getting the ribs lined up and centered on the holes that needed drilling.  In many cases it was impossible to reach around the skins to adjust the rib positions.  That’s especially true when on my back under the wing.  Angelique was kind enough to help me for part of it.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/onex/img/2017-11-02/1.jpg&quot; alt=&quot;Skins Drilled&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Much work still remains on the wings.  Need to:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Install tie downs eye-bolts&lt;/li&gt;
-  &lt;li&gt;Pitot boom… Oh, I decided not to use the cheap pitot-static boom provided by Sonex and purchased the Dynon system which also provided angle of attack.&lt;/li&gt;
-  &lt;li&gt;OAT - Outside Air Temperature sensor&lt;/li&gt;
-  &lt;li&gt;Install fiberglass wing tips&lt;/li&gt;
-  &lt;li&gt;Debur all holes (eek!)&lt;/li&gt;
-  &lt;li&gt;Scrub and clean the skins&lt;/li&gt;
-  &lt;li&gt;Dimple the front holes to promote laminar flow&lt;/li&gt;
-  &lt;li&gt;Install flaps and aileron control rods&lt;/li&gt;
-  &lt;li&gt;Install access hole covers&lt;/li&gt;
-  &lt;li&gt;Rivet!&lt;/li&gt;
-&lt;/ul&gt;</content><summary type="html">Skins are all drilled.  The tricky part here was getting the ribs lined up and centered on the holes that needed drilling.  In many cases it was impossible to reach around the skins to adjust the rib positions.  That’s especially true when on my back under the wing.  Angelique was kind enough to help me for part of it.</summary></entry></feed>
+&lt;p&gt;Only four more skins to go.&lt;/p&gt;</content><summary type="html">Wing Tips</summary></entry></feed>
