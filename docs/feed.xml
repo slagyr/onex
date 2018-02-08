@@ -1,7 +1,112 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2018-02-06T20:32:11-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
-</subtitle><entry><title type="html">First Flights</title><link href="http://micahmartin.com/onex/2018/01/29/first-flights.html" rel="alternate" type="text/html" title="First Flights" /><published>2018-01-29T00:00:00-07:00</published><updated>2018-01-29T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2018/01/29/first-flights</id><content type="html" xml:base="http://micahmartin.com/onex/2018/01/29/first-flights.html">&lt;p&gt;&lt;img src=&quot;/onex/img/2018-01-29/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="http://micahmartin.com/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator><link href="http://micahmartin.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://micahmartin.com/" rel="alternate" type="text/html" /><updated>2018-02-07T19:34:39-07:00</updated><id>http://micahmartin.com//</id><title type="html">OneX Build Log</title><subtitle>I'm building an airplane.  This is how it went so far.
+</subtitle><entry><title type="html">First Flights</title><link href="http://micahmartin.com/onex/2018/01/29/first-flights.html" rel="alternate" type="text/html" title="First Flights" /><published>2018-01-29T00:00:00-07:00</published><updated>2018-01-29T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2018/01/29/first-flights</id><content type="html" xml:base="http://micahmartin.com/onex/2018/01/29/first-flights.html">&lt;h4 id=&quot;video&quot;&gt;Video&lt;/h4&gt;
 
-&lt;iframe src=&quot;https://player.vimeo.com/video/254601702&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;</content><summary type="html"></summary></entry><entry><title type="html">Red Tape</title><link href="http://micahmartin.com/onex/2018/01/23/red-tape.html" rel="alternate" type="text/html" title="Red Tape" /><published>2018-01-23T00:00:00-07:00</published><updated>2018-01-23T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2018/01/23/red-tape</id><content type="html" xml:base="http://micahmartin.com/onex/2018/01/23/red-tape.html">&lt;h4 id=&quot;registration&quot;&gt;Registration&lt;/h4&gt;
+&lt;p&gt;Here is a compilation video of the first two test flight days.  More detail is provided in the blog below.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/254629471&quot; width=&quot;640&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h4 id=&quot;jan-24-2018---preparation&quot;&gt;Jan 24, 2018 - Preparation&lt;/h4&gt;
+
+&lt;p&gt;With the airworthiness certificate in hand, there was no reason to wait.  I asked Denny Myrick and Dennis Smith, both Sonex builders, if they’d be willing to help and support me for the first flight.  They were happy to be a part of it and I’m glad they came.&lt;/p&gt;
+
+&lt;p&gt;The Scottsdale Airport tower was very accommodating.  I had called then on the phone a couple times to let then know I’d be test flying my experimental aircraft.  They suggested early morning on days when there’s no big events in town, to avoid all the jet traffic.&lt;/p&gt;
+
+&lt;p&gt;I had prepared flight cards and a test plan for the day, so we started by reviewing that.  One element I had in the plan was to make the first flight a few feet off the ground, then land right away.  Denny and Dennis strongly advised against this.  I heeded their advise.  But they did agree that a couple high speed taxis were a good start.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2018-01-29/1.jpg&quot; alt=&quot;Denny and Dennis&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;high-speed-taxi&quot;&gt;High Speed Taxi&lt;/h4&gt;
+
+&lt;h6 id=&quot;steering&quot;&gt;Steering&lt;/h6&gt;
+
+&lt;p&gt;Taxing the airplane for the first time once I got it to Scottsdale Airport was a lot of fun.  I taxied it to the self-serve fuel tank and filled her up, took a couple rides around that hangars… It’s easy to steer and get around smoothly.  But I had never gone more than 10-15mph.  When I started moving down the runway approaching 55mph, it was a whole new game.  The plane became very squirrelly, zig-zagging left and right.  I felt like was tap dancing with my toes on the rudder pedals.  From the sidelines, my support team did not observe any swerving.&lt;/p&gt;
+
+&lt;h6 id=&quot;burbling-engine&quot;&gt;Burbling Engine&lt;/h6&gt;
+
+&lt;p&gt;Right as I got to full throttle, the engine burbled… maybe thinking twice about whether it wanted to really wanted to provide that much power.  But only for a moment.  Then it growled nicely.  This was one hint that the mixture setting in the AeroInjectors was not calibrated well.  There were more hints later.&lt;/p&gt;
+
+&lt;h6 id=&quot;left-rudder&quot;&gt;Left Rudder&lt;/h6&gt;
+
+&lt;p&gt;As a student pilot, you hear it over and over:  “More right rudder”.  It becomes muscle memory; your throttle hand is connected to your right foot.  When you add power you add right rudder to compensate for torque and p-factor pulling to the left.  The Volkswagen in my OneX spins counter-clockwise, opposite certified plane engines.  It pulls to the right which means I have to compensate with left rudder.  That added to my swerving problems.&lt;/p&gt;
+
+&lt;h6 id=&quot;lifting-the-tail&quot;&gt;Lifting the Tail&lt;/h6&gt;
+
+&lt;p&gt;After accelerating upto 50mph, I pushed on the stick to get the tail off the ground.  And I pushed hard!  The tail reluctantly hopped off the ground, at which point I released pressure and it fell back down.  I tried a couple more times to lift the tail while I continued rolling down the runway… It really didn’t want to leave the ground.  The solution was obvious to Denny and Dennis when I told them.  “Oh, just trim your elevators down.”  Doh!&lt;/p&gt;
+
+&lt;h6 id=&quot;brakes&quot;&gt;Brakes&lt;/h6&gt;
+
+&lt;p&gt;7000’ down the runway I passed the 1000’ stripes at the opposite end, still at 50mph.  There was plenty of room to stop so I keeped power in and practiced more.  Consider, I had upgraded to hydraulic brake, and in my shop they worked great.  I could set the brakes and it was like the tires were bolted to the floor.  And stopping from a 10mph taxi was a piece of cake.  But at that point in my high speed taxi run I had to just a few hundred feet to decelerate from 50mph, or else find myself in thick gravel at the end of the runway. As I applied the brakes, they felt different… not as much deceleration as I was expecting.  I pulled harder to little effect.  The plane was slowing, but now enough.  The taxi line for the last exit passes behind me and runway-end lights were right in front of me.  As a last resort I started pumping the brakes, they got tighter, and I stopped within a few feet of the light posts.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2018-01-29/2.jpg&quot; alt=&quot;Getting Ready&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;engine-check&quot;&gt;Engine Check&lt;/h4&gt;
+
+&lt;p&gt;After two high speed taxi runs, I met my crew back at the hangar.  We remove the cowling and checked for problems.  There was a tiny bit of oil leaking from one of the valve covers so we tightened the bolts.  Other that that, everything looked great.&lt;/p&gt;
+
+&lt;p&gt;We debriefed and discussed the high speed taxis.  Denny and Dennis had plenty of experience to share and advise to offer.  After 30 minutes or so, we gat back to it.&lt;/p&gt;
+
+&lt;p&gt;Denny grabbed the hand-held radio to listen in on the tower frequency and communicate with me if needed.  I hopped back into the plane, did one more high speed taxi, just to get a better feel for it.  Then it was go time.&lt;/p&gt;
+
+&lt;h4 id=&quot;first-flight&quot;&gt;First Flight&lt;/h4&gt;
+
+&lt;p&gt;I have to confess, I was a bit terrified.  Could these scraps of metal I put together really fly?  And more importantly, land safely?  My breathing was heavy and I could feel my heart beating as I waited for clearance to take off.  As soon as I got the clearance, a calmness overtook me and stayed with me until I got back to the ground.&lt;/p&gt;
+
+&lt;h6 id=&quot;take-off&quot;&gt;Take Off&lt;/h6&gt;
+
+&lt;p&gt;To be frank, the take off was unremarkable.  Just like any other plane.&lt;/p&gt;
+
+&lt;p&gt;With only 80hp, the OneX climbs at about 600-800 feet per minute.  I’m used to climbing out of Scottsdale at about 1,500 - 2,000 fpm, or more when piloting charter flights in the jet.  But that’s okay.  600 fpm was a relaxing climb.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2018-01-29/3.jpg&quot; alt=&quot;First Take Off&quot; /&gt;&lt;/p&gt;
+
+&lt;h6 id=&quot;handling&quot;&gt;Handling&lt;/h6&gt;
+
+&lt;p&gt;Just as it was squirrelly on the ground, so was it in the air.  I could feel every little bump, eddie, and current in the air.  But at the same time, this OneX was super nimble.  The slightest touch on the controls and the bird was more than eager to respond.  Fun as that may sound, this was the first flight and only the gentlest of maneuvers was called for.&lt;/p&gt;
+
+&lt;h6 id=&quot;egts&quot;&gt;EGTs&lt;/h6&gt;
+
+&lt;p&gt;Climbing to 3,000’ (500’ above the pattern), I banked to the left and I banked to the right.  Reaching 3,000’ I noticed the EGTs (exhaust gas temperatures) were in the red.  I wrote down the temps and reduced power.  With less power I lost altitude and the tower didn’t like me so close to pattern altitude.  They told me so over the radio. So I added power back in and the temps went into the red again.  I continued the flight, keeping an eye on the temps and being shy with the throttle.   This was the other clue that the mixture was too lean.&lt;/p&gt;
+
+&lt;h6 id=&quot;flaps&quot;&gt;Flaps&lt;/h6&gt;
+
+&lt;p&gt;Denny and Dennis warned me that the flaps might be hard to deploy.  They weren’t kidding.  At 100mph, I did not have the strength in one arm to pull back the lever all the way to the detent.  At 80mph, I could pull the flaps lever back, but I could not get it to stay in the detent.  This revealed a flaw in my fabrication.  The lever should have a bias toward going into the detent, but my lever required a little twist that was impossible to apply at speed.  So I stopped using the flaps for this flight.&lt;/p&gt;
+
+&lt;h6 id=&quot;winds&quot;&gt;Winds&lt;/h6&gt;
+
+&lt;p&gt;While dawdling around in the air, I thought I heard Denny’s voice on the radio saying something about a runway change.  The tower asked “Experimental 321NX, was that you?”.  Confused I responded “Negative.”  A few minutes later I heard Denny on the radio talking directly to me: “Micah, wait for the runway change.  Land on 3.”  Hmmm….  As an aside, the tower did not like that.  They called operations, and operations hunted down Denny to chew him out.  But why would Denny tell me that?&lt;/p&gt;
+
+&lt;p&gt;When I took off, winds were calm.  Denny’s call came in maybe 25 minutes later.  I started to pay more attention to the radio.  Tower was reporting winds out of 090 at 12 knots gusting to 20!  Scottsdale has runways 3/21, meaning that’s serious cross wind; certainly more than I wanted for my test flight.&lt;/p&gt;
+
+&lt;h6 id=&quot;go-arounds&quot;&gt;Go Arounds&lt;/h6&gt;
+
+&lt;p&gt;When the runway switch was initiated, I was done with my test plan and requested a landing.  They put me first in line for runway 3.  Everything felt great until I lined up on final and felt like crab, moving sideways through the air.  The crosswinds were not going to make this landing easy.  I fumbled with the controls trying to compensate for the wind, but I was not used to such a nimble and sensitive plane.  “Experimental 321WA going around.” I said over the radio as I anxiously applied full throttle. The engine roared to life, thank goodness, and I climbed back up to pattern.&lt;/p&gt;
+
+&lt;p&gt;Tower put me behind a Cirrus for the next landing.  Maybe I jumped the gun on my turn to final, or the Cirrus just enjoyed a long leisurely roll down the runway.  We were too close.  Tower:  “Experimental 321NX, go around, traffic.”  Doh!  The engine roared to life again, thank goodness.&lt;/p&gt;
+
+&lt;p&gt;On the Third time I was following a Cessna and there was plenty of separation.  This was it.  I had to get on the ground, wind or not.  Again I twisted and turned on final trying to compensate for the wind.  By short final I was relatively stable, but then a nice big gust came right as I was flaring.  When I touched down, my right wing was picked up by the wind nearly forcing my left to touch the ground.  I wrestled the plane back down and rolled safely to my exit.&lt;/p&gt;
+
+&lt;h6 id=&quot;success&quot;&gt;Success&lt;/h6&gt;
+
+&lt;p&gt;The moment I exited the runway and came to a stop, I was overcome with a wave of adrenaline.  My heart was beating out of my chest and lungs stretching full with air.&lt;/p&gt;
+
+&lt;p&gt;As I taxied back to the hangar, a band of pilots and builders had organically gathered to welcome me.  Word of a first test flight gets around it seems.  Congratulatory handshakes capped off the momentous occasion.&lt;/p&gt;
+
+&lt;p&gt;I put the plane away, drove home, and slept the rest of the day.&lt;/p&gt;
+
+&lt;h4 id=&quot;second-flight&quot;&gt;Second Flight&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Flap lever adjusted&lt;/li&gt;
+  &lt;li&gt;AeroInjector needed calibrated&lt;/li&gt;
+  &lt;li&gt;Oil Changed&lt;/li&gt;
+  &lt;li&gt;Engine and airframe inspected&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I performed the above maintenance and a couple days later it was time for my second test flight.  This one turned out to be quite exciting.  Words wont do it justice though.  You really aught to watch the video to see what happens.&lt;/p&gt;
+
+&lt;p&gt;Moral: Be weary of that AeroInjector jam nut.  Make sure it’s really tight, even at the expense of moving the fuel needle a bit.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/onex/img/2018-01-29/4.jpg&quot; alt=&quot;Soaring&quot; /&gt;&lt;/p&gt;</content><summary type="html">Video</summary></entry><entry><title type="html">Red Tape</title><link href="http://micahmartin.com/onex/2018/01/23/red-tape.html" rel="alternate" type="text/html" title="Red Tape" /><published>2018-01-23T00:00:00-07:00</published><updated>2018-01-23T00:00:00-07:00</updated><id>http://micahmartin.com/onex/2018/01/23/red-tape</id><content type="html" xml:base="http://micahmartin.com/onex/2018/01/23/red-tape.html">&lt;h4 id=&quot;registration&quot;&gt;Registration&lt;/h4&gt;
 
 &lt;p&gt;Registration finally arrived in the mail on Jan 17th.  On the same day, I filled out all my airworthiness application paperwork and sent it to Ted (the DAR - Designated Airworthiness Representative).  He pointed out several errors; most notably my tail numbers.  According to the FARs, they must be horizontal (or vertical), not angles like mine.  Doh!&lt;/p&gt;
 
