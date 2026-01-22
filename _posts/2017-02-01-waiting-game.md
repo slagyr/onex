@@ -6,9 +6,9 @@ categories: onex
 hours: 1.0
 ---
 
-Working on the rear tail spar, I came to the point where I need some bolts, aviation grade bolts, but I couldn't find them anywhere in the kit supplies.  Called Sonex.  Finally figured out the the aviation hardware comes in a seperate kit from a third party.  We found the kit on WB Part's website: $1,200.00!  Sonex ordered the parts for me.  What can I do?  I researched, and found on their website, that the hardwhare is supposed to be included.
+Working on the rear tail spar, I came to the point where I need some bolts, aviation grade bolts, but I couldn't find them anywhere in the kit supplies.  Called Sonex.  Finally figured out the the aviation hardware comes in a separate kit from a third party.  We found the kit on WB Part's website: $1,200.00!  Sonex ordered the parts for me.  What can I do?  I researched, and found on their website, that the hardware is supposed to be included.
 
-I called Sonex back.  The lady told me they started including the hardware in the kit a week after I made the purchase, for the same price.  WTF!?!?  I protested.  After she talked to Mark, I'm told that the hard was included in the price I paid and they had put the order in with WBParts already.  
+I called Sonex back.  The lady told me they started including the hardware in the kit a week after I made the purchase, for the same price.  WTF!?!?  I protested.  After she talked to Mark, I'm told that the hardware was included in the price I paid and they had put the order in with WBParts already.  
 
 My interactions with Sonex give the impression that they are a bit unorganized, small company though they may be.  Perhaps a bit understaffed.
 

@@ -18,7 +18,7 @@ Once I had both halves done, I lined them up and noticed that the paddles didn't
 
 ### Wing Fold Panels
 
-Where the wing-halves meet, there are these plates that have soooo many rivets.  As I drilled, deburred and counter sunk all those holes, I had plenty of time to wonder why so many rivets would be needed.  You can see in the picture above that there's not much structure to hold together; just two sheets. The best answer I could think of was: Why not?  The rivets do add strength to the layers and don't add much weight.  But maybe it's overkill.  Those extra rivers sure added a lot of labor.
+Where the wing-halves meet, there are these plates that have soooo many rivets.  As I drilled, deburred and counter sunk all those holes, I had plenty of time to wonder why so many rivets would be needed.  You can see in the picture above that there's not much structure to hold together; just two sheets. The best answer I could think of was: Why not?  The rivets do add strength to the layers and don't add much weight.  But maybe it's overkill.  Those extra rivets sure added a lot of labor.
 
 ![Wing Fold Installed](/onex/img/2017-10-19/3.jpg)
 

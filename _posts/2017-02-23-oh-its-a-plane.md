@@ -6,9 +6,9 @@ categories: onex
 hours: 10.0
 ---
 
-"Oh.  It's starting to look like an airplane."  That what people said when they walked into my shop today.  And by the end of the day I finished the the vertical tail. (whew)  See the first pic.
+"Oh.  It's starting to look like an airplane."  That what people said when they walked into my shop today.  And by the end of the day I finished the vertical tail. (whew)  See the first pic.
 
-Welding the spars and the ribs was uneventful.  That vertical tail tip though... It took me a while to assemble all the parts with clecos sufficiently to seat the tip and figure out where to cut it.  After plenty of tinkering I got it to fit just right, and ended up cutting about half an inch off.  I figured out later that this had the adverse affect of shortening the length piece, front to back.  When all assembled, the rudder now sticks out about a quarter inch past the tip.  Aye!  The first aesthetic defect!  Perhaps know one will notice.
+Welding the spars and the ribs was uneventful.  That vertical tail tip though... It took me a while to assemble all the parts with clecos sufficiently to seat the tip and figure out where to cut it.  After plenty of tinkering I got it to fit just right, and ended up cutting about half an inch off.  I figured out later that this had the adverse effect of shortening the length piece, front to back.  When all assembled, the rudder now sticks out about a quarter inch past the tip.  Aye!  The first aesthetic defect!  Perhaps no one will notice.
 
 I've pondered this fiberglass tip for hours now and I know it intimately.  My conclusion is that there's no way to have both a streamlined leading edge and a flush trailing edge.  You can have one or the other.  The fiberglass tip that Sonex ships doesn't fit their vertical tail.  Maybe I'm wrong.
 

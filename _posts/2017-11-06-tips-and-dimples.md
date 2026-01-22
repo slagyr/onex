@@ -20,7 +20,7 @@ This is a fat nut plate just inside the bottom of the wing skin.  It's from the 
 
 #### Pitot/AOA
 
-I finally settled on a location for the pitot/AOA tube.  Some modification of the Dynon install kit was required, but I feel like I have a much stronger mount then they prescribe.  It's located just behind the main spar.  It'd be all the way at the end of the inboard wing but there's an inspection hole there so it's about 8" inboard from the end.  
+I finally settled on a location for the pitot/AOA tube.  Some modification of the Dynon install kit was required, but I feel like I have a much stronger mount than they prescribe.  It's located just behind the main spar.  It'd be all the way at the end of the inboard wing but there's an inspection hole there so it's about 8" inboard from the end.  
 
 TODO: include picture of pitot mount.
 

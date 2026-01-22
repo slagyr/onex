@@ -8,7 +8,7 @@ hours: 14.0
 
 #### Oil Separator
 
-My kit came with an oil separator, the black cylinder attached to the firewall.  It's possible I added it to my order as an extra because many other builders don't seem to have one.  As I understand, it minimizes loss of oil, especially when flying inverted.  Any oil, or vapor, that comes out of the top of the engine get routed through a tube to the separator.  There a ball bearing in the top that prevents oil from flowing back to the top of the engine when inverted.  Oil collects at the bottom of the separator where it can flow back into the bottom of the engine (steel braided tube).  Vapor escapes through the black vent tube out the bottom of the plane.
+My kit came with an oil separator, the black cylinder attached to the firewall.  It's possible I added it to my order as an extra because many other builders don't seem to have one.  As I understand, it minimizes loss of oil, especially when flying inverted.  Any oil, or vapor, that comes out of the top of the engine get routed through a tube to the separator.  There's a ball bearing in the top that prevents oil from flowing back to the top of the engine when inverted.  Oil collects at the bottom of the separator where it can flow back into the bottom of the engine (steel braided tube).  Vapor escapes through the black vent tube out the bottom of the plane.
 
 ![Oil Separator](/onex/img/2017-09-13/1.jpg)
 

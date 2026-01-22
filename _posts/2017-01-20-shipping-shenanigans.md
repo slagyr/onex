@@ -6,7 +6,7 @@ categories: onex
 hours: 0
 ---
 
-Wondering why my missing parts were taking so long to arrive, I checked the tracking numbers on UPS and saw that two packages had been delivered to my porch in the last couple days.  But there was nothing on my porch.  Looking closer I saw that they had been delivered to my billing address in Illinois, whereas my shipping address, where I now live, is in Arizona now.  Who knows how the addresses got swapped. But to remedy the situtaion Sonex had to re-route some pending deliveries and my dad was kind enough to ship the stuff in Illinois to Arizona.  Sonex picked up the bill for the shipping.  But this mean it'll be another week before I get the plans.
+Wondering why my missing parts were taking so long to arrive, I checked the tracking numbers on UPS and saw that two packages had been delivered to my porch in the last couple days.  But there was nothing on my porch.  Looking closer I saw that they had been delivered to my billing address in Illinois, whereas my shipping address, where I now live, is in Arizona now.  Who knows how the addresses got swapped. But to remedy the situation Sonex had to re-route some pending deliveries and my dad was kind enough to ship the stuff in Illinois to Arizona.  Sonex picked up the bill for the shipping.  But this means it'll be another week before I get the plans.
 
 [![Wrong Address](/onex/img/2017-01-20/1.jpg)](http://www.ragged-edge-mag.com/1199/meninwhite/index.html)
 

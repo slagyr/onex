@@ -13,7 +13,7 @@ Summer was awesome but it's time to get back to work.
 Luka and I flew up to Oshkosh on Sunday and camped next to the airplane. What a great time. We saw plenty of aircraft, of course.  For the first time I was able to attend lots of forums from which I learned a ton.  The Barenaked Ladies performed a great show on Monday.  But my favorite part was checking out all the homebuilds.  There's soooo much variety!  And I was not previously aware how much influence Burt Rutan had on the homebuild world.  His designs are wonderfully unique and I love the canard style.  Now I'm thinking my next build will be a Long EZ, Cozy, or something like that.       
 
 ![Camp Site w/ Luka](/onex/img/2017-08-04/1.jpg)
-![Baloons](/onex/img/2017-08-04/2.jpg)
+![Balloons](/onex/img/2017-08-04/2.jpg)
 
 Luka and I headed home Wednesday but we didn't get enough so we drove back with my dad on Thursday.  There was still so much to see!  
 

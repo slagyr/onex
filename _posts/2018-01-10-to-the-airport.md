@@ -15,7 +15,7 @@ My family has been laughing at me as I work on my completed plane.   Even though
  * Luggage rack - Early on I bought Sonex's luggage "bag".  But it was just a bag with nothing to attach it in place.  So I build a rack, sewed some velcro, and bam!... Luggage rack complete.
  * Placards - Regulations require a few placards and I added a few more:  baggage capacity, fuel, "EXPERIMENTAL", fire extinguisher, elt, flaps, brakes, etc...
  * Seal for windshield - There was a gap so I added some foam tape to seal it.
- * Polish engine caps - Thay had become all scuffed up during the work.  Time to make them shine!
+ * Polish engine caps - They had become all scuffed up during the work.  Time to make them shine!
 
 #### Insurance
 
@@ -25,7 +25,7 @@ Fortunately I know an underwriter, Jim, at Starr Aviation.  He recommended a cou
  
 #### Tow Truck
 
-Getting the plane to the airport is a problem I'd been pondering for a while.  With insurance bound, there was no reason to wait.  I called Scottdale Towing Co. because they were the closest.  They sent me a flat bed truck with a driver named Edmundo an hour later.  Edmundo was awesome!  He patiently helped me get the plane on the truck bed and carefully fasten it securely.  He allowed me to choose the attach points and asked me to check his tension on each strap to make sure it wasn't too tight.
+Getting the plane to the airport is a problem I'd been pondering for a while.  With insurance bound, there was no reason to wait.  I called Scottsdale Towing Co. because they were the closest.  They sent me a flat bed truck with a driver named Edmundo an hour later.  Edmundo was awesome!  He patiently helped me get the plane on the truck bed and carefully fasten it securely.  He allowed me to choose the attach points and asked me to check his tension on each strap to make sure it wasn't too tight.
 
 I asked that we stay under 35mph on the way to the airport and he was fine with that.  In fact he rarely went above 30mph.  Edmundo took every turn very slowly and dodged a dozen trees from hitting those high wings.   Unlike stories from other builders who say their plane bounced all over the truck bed, mine stuck like it was bolted down.  
 

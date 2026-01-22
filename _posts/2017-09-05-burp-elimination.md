@@ -12,7 +12,7 @@ It took a great deal of time and care to get the cowling cut nicely.  Once it fi
 
 The seams between the two halves were crooked (unavoidably) and I couldn't leave it like that.  I made some micro-paste with epoxy and micro-bubbles to fill in the seams (see the first picture) and sanded them flush.  It turned out much cleaner I think.  There was also some sag in the bottom corners because I didn't notice when I lined up the hinge rivets.  That part was probably a two man job but I did it solo.  So I reinforced the inside of the bottom corners with maybe 10 layers of fiberglass.  When dry, I sanded bottoms flush with the fuselage.     
 
-![Colwing Patchup](/onex/img/2017-09-05/1.jpg)
+![Cowling Patchup](/onex/img/2017-09-05/1.jpg)
 ![Cowling Complete](/onex/img/2017-09-05/2.jpg)
 
 #### Throttle & Mixture Cables
@@ -27,7 +27,7 @@ Rob helped me guide the cables through the bracket holes in which I had embedded
 
 This morning I connected all the cables to the controls and the AeroInjector.  The throttle was straight forward.  The mixture cable had a couple gotchas.  
 
-First, to cut the line to size you need to pull the inner cable out.  The mixture cable comes with the warning tag that says something like: "Do not poll knob out more then 3 inches or a ball bearning will pop out and the control will not function."  Of course the first time I saw that I pulled it more than 3" and a tiny ball bearing did indeed pop out, and the knob no longer functioned.  I managed to find the ball bearing, get it back in and the the knob worked once again.  So today I was careful to catch the ball and no harm done.  
+First, to cut the line to size you need to pull the inner cable out.  The mixture cable comes with the warning tag that says something like: "Do not poll knob out more than 3 inches or a ball bearing will pop out and the control will not function."  Of course the first time I saw that I pulled it more than 3" and a tiny ball bearing did indeed pop out, and the knob no longer functioned.  I managed to find the ball bearing, get it back in and the the knob worked once again.  So today I was careful to catch the ball and no harm done.  
 
 Second, with the mixture cable attached to the AeroInjector, the inner wire had a tendency to bend when I push the mixture full-rich or pull it (lean it), and the arm would not fully open or close.  With a washer to separate the wire from the mixture arm, and careful adjustment of the lock nut, the wire can swivel and avoid the bend.  Add to that some safety wire to hold the outer cable in place, and it resists tendency to bend even more.  
 
@@ -39,7 +39,7 @@ You can see in the next picture the AirWard burp elimination system.  Aluminum t
 
 ![Burp Elimination](/onex/img/2017-09-05/5.jpg)
 
-Bending and flaring these aluminum tubes was a new experience.  Pipe bending, cutting, and flaring tools are fairly inexpensive.  Those adel clamps hole the lines in place nicely.  I had to cut an extra little hole in the bottom cowling for the vent tube.  When I tried the cowling on again, it was blocked by air filter (I had installed it earlier today) which was rubbing against the bottom of the cowling.  Sigh.  I trimmed the rubber tube that connects the AeroInjector to the intake manifold to no avail.  After googling the problem, other builders had resorted to alternative air filters.  So I ordered a [K&N RC-1980](https://www.amazon.com/gp/product/B00062YOIG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) from Amazon.  Hopefully that works.  
+Bending and flaring these aluminum tubes was a new experience.  Pipe bending, cutting, and flaring tools are fairly inexpensive.  Those adel clamps hold the lines in place nicely.  I had to cut an extra little hole in the bottom cowling for the vent tube.  When I tried the cowling on again, it was blocked by air filter (I had installed it earlier today) which was rubbing against the bottom of the cowling.  Sigh.  I trimmed the rubber tube that connects the AeroInjector to the intake manifold to no avail.  After googling the problem, other builders had resorted to alternative air filters.  So I ordered a [K&N RC-1980](https://www.amazon.com/gp/product/B00062YOIG/ref=oh_aui_detailpage_o00_s00?ie=UTF8&psc=1) from Amazon.  Hopefully that works.  
 
 These are the last two Oops fittings that go in the fuel tank.  A drain valve goes in one and the fuel level sensor will go in the other.
 

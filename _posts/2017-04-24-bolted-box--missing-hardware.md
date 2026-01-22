@@ -8,7 +8,7 @@ hours: 10.0
 
 #### Blog Improvements
 
-I'llbe the first to adminst that navigating this blog has been burdensome.  So I added some Next/Previous links to each page.  And the home page was getting VERY long, transferring far more bits than needed.  So I paginated the blog listing.  
+I'll be the first to admit that navigating this blog has been burdensome.  So I added some Next/Previous links to each page.  And the home page was getting VERY long, transferring far more bits than needed.  So I paginated the blog listing.  
  
 This blog runs on [GitHub Pages](https://pages.github.com/) using Jekyll.  I had originally tried other blog hosting sites, but with my coding background, working in an IDE and doing source control commits to publish new posts feels oh-so natural.
  
@@ -35,6 +35,6 @@ For those building a OneX, the following hardware list is items that you may be 
  * AN4-7A Bolt.  At least 3.
 
 ![Bolts](/onex/img/2017-04-24/1.jpg)
-![Rivetd Extra Hole](/onex/img/2017-04-24/2.jpg)
-![Box Rivited](/onex/img/2017-04-24/3.jpg)
+![Riveted Extra Hole](/onex/img/2017-04-24/2.jpg)
+![Box Riveted](/onex/img/2017-04-24/3.jpg)
 ![Monterey Bay](/onex/img/2017-04-24/4.jpg)

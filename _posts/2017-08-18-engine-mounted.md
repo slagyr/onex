@@ -14,7 +14,7 @@ Four of us guys lifted the engine while one helped line it up and insert bolts. 
 
 While pushing the engine in place, the plane kept rolling backwards.  Thankfully the girls where there.  They got behind the main spar and held the plane in place.  Everyone played a part and it was fortunate that they were all there.
 
-I swelled with a sence of accomplishment finally seeing the engine on the fuselage.  Special thanks goes out to my team of high spirited helpers.  Thanks!  
+I swelled with a sense of accomplishment finally seeing the engine on the fuselage.  Special thanks goes out to my team of high spirited helpers.  Thanks!  
 
 ![Engine Mounted](/onex/img/2017-08-18/1.jpg)
 

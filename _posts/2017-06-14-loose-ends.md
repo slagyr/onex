@@ -10,7 +10,7 @@ Yesterday I finished the canopy.  See below.  It's... okay.  I'm not thrilled wi
 
 ![Finished Canopy](/onex/img/2017-06-14/1.jpg)
 
-With the canopy done, I wanted to tidy up some loose ends before summer break.  One item was the fuel tank refill hole that is cut in the wind shield.  You may remember that Sonex provided a 5" aluminum disk to cover the hole and eclipse the pilots vision!?  And I had purchased a clear cover kit from AirWard.  I installed that.  It's much nicer.
+With the canopy done, I wanted to tidy up some loose ends before summer break.  One item was the fuel tank refill hole that is cut in the wind shield.  You may remember that Sonex provided a 5" aluminum disk to cover the hole and eclipse the pilot's vision!?  And I had purchased a clear cover kit from AirWard.  I installed that.  It's much nicer.
 
 ![Fuel Tank Refill Hole](/onex/img/2017-06-14/2.jpg)
 

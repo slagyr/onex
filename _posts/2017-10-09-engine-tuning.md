@@ -14,7 +14,7 @@ Swapping the RPM sensor lead to the other side of the Voltage regulator did the 
 
 #### Alternator Output
 
-I wired up some extentions to the alternator and voltage regulator leads so I could measure with a voltmeter while I sat in the cockpit.  All signals are good.  Alternator is generating high voltage and the regulator is regulating.  I found that output is not great at the low RPMs at which I was initially running the engine.  When I got above 2,000 RPM, the alternator output was much more reasonable.
+I wired up some extensions to the alternator and voltage regulator leads so I could measure with a voltmeter while I sat in the cockpit.  All signals are good.  Alternator is generating high voltage and the regulator is regulating.  I found that output is not great at the low RPMs at which I was initially running the engine.  When I got above 2,000 RPM, the alternator output was much more reasonable.
 
 #### Ignition
 

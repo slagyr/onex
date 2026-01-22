@@ -17,9 +17,9 @@ Here is a compilation video of the first two test flight days.  More detail is p
 
 With the airworthiness certificate in hand, there was no reason to wait.  I asked Denny Myrick and Dennis Smith, both Sonex builders, if they'd be willing to help and support me for the first flight.  They were happy to be a part of it and I'm glad they came.
 
-The Scottsdale Airport tower was very accommodating.  I had called then on the phone a couple times to let then know I'd be test flying my experimental aircraft.  They suggested early morning on days when there's no big events in town, to avoid all the jet traffic. 
+The Scottsdale Airport tower was very accommodating.  I had called then on the phone a couple times to let them know I'd be test flying my experimental aircraft.  They suggested early morning on days when there's no big events in town, to avoid all the jet traffic. 
 
-I had prepared flight cards and a test plan for the day, so we started by reviewing that.  One element I had in the plan was to make the first flight a few feet off the ground, then land right away.  Denny and Dennis strongly advised against this.  I heeded their advise.  But they did agree that a couple high speed taxis were a good start.
+I had prepared flight cards and a test plan for the day, so we started by reviewing that.  One element I had in the plan was to make the first flight a few feet off the ground, then land right away.  Denny and Dennis strongly advised against this.  I heeded their advice.  But they did agree that a couple high speed taxis were a good start.
 
 ![Denny and Dennis](/onex/img/2018-01-29/1.jpg)
 
@@ -27,7 +27,7 @@ I had prepared flight cards and a test plan for the day, so we started by review
 
 ###### Steering
 
-Taxing the airplane for the first time once I got it to Scottsdale Airport was a lot of fun.  I taxied it to the self-serve fuel tank and filled her up, took a couple rides around that hangars... It's easy to steer and get around smoothly.  But I had never gone more than 10-15mph.  When I started moving down the runway approaching 55mph, it was a whole new game.  The plane became very squirrelly, zig-zagging left and right.  I felt like was tap dancing with my toes on the rudder pedals.  From the sidelines, my support team did not observe any swerving.
+Taxiing the airplane for the first time once I got it to Scottsdale Airport was a lot of fun.  I taxied it to the self-serve fuel tank and filled her up, took a couple rides around the hangars... It's easy to steer and get around smoothly.  But I had never gone more than 10-15mph.  When I started moving down the runway approaching 55mph, it was a whole new game.  The plane became very squirrelly, zig-zagging left and right.  I felt like was tap dancing with my toes on the rudder pedals.  From the sidelines, my support team did not observe any swerving.
 
 ###### Burbling Engine
 
@@ -43,15 +43,15 @@ After accelerating upto 50mph, I pushed on the stick to get the tail off the gro
 
 ###### Brakes
 
-7000' down the runway I passed the 1000' stripes at the opposite end, still at 50mph.  There was plenty of room to stop so I keeped power in and practiced more.  Consider, I had upgraded to hydraulic brake, and in my shop they worked great.  I could set the brakes and it was like the tires were bolted to the floor.  And stopping from a 10mph taxi was a piece of cake.  But at that point in my high speed taxi run I had to just a few hundred feet to decelerate from 50mph, or else find myself in thick gravel at the end of the runway. As I applied the brakes, they felt different... not as much deceleration as I was expecting.  I pulled harder to little effect.  The plane was slowing, but now enough.  The taxi line for the last exit passes behind me and runway-end lights were right in front of me.  As a last resort I started pumping the brakes, they got tighter, and I stopped within a few feet of the light posts.     
+7000' down the runway I passed the 1000' stripes at the opposite end, still at 50mph.  There was plenty of room to stop so I kept power in and practiced more.  Consider, I had upgraded to hydraulic brake, and in my shop they worked great.  I could set the brakes and it was like the tires were bolted to the floor.  And stopping from a 10mph taxi was a piece of cake.  But at that point in my high speed taxi run I had to just a few hundred feet to decelerate from 50mph, or else find myself in thick gravel at the end of the runway. As I applied the brakes, they felt different... not as much deceleration as I was expecting.  I pulled harder to little effect.  The plane was slowing, but not enough.  The taxi line for the last exit passes behind me and runway-end lights were right in front of me.  As a last resort I started pumping the brakes, they got tighter, and I stopped within a few feet of the light posts.     
 
 ![Getting Ready](/onex/img/2018-01-29/2.jpg)
 
 #### Engine Check
 
-After two high speed taxi runs, I met my crew back at the hangar.  We remove the cowling and checked for problems.  There was a tiny bit of oil leaking from one of the valve covers so we tightened the bolts.  Other that that, everything looked great.  
+After two high speed taxi runs, I met my crew back at the hangar.  We remove the cowling and checked for problems.  There was a tiny bit of oil leaking from one of the valve covers so we tightened the bolts.  Other than that, everything looked great.  
 
-We debriefed and discussed the high speed taxis.  Denny and Dennis had plenty of experience to share and advise to offer.  After 30 minutes or so, we gat back to it. 
+We debriefed and discussed the high speed taxis.  Denny and Dennis had plenty of experience to share and advice to offer.  After 30 minutes or so, we got back to it. 
 
 Denny grabbed the hand-held radio to listen in on the tower frequency and communicate with me if needed.  I hopped back into the plane, did one more high speed taxi, just to get a better feel for it.  Then it was go time.
 
@@ -104,13 +104,13 @@ I put the plane away, drove home, and slept the rest of the day.
 #### Second Flight
 
  - Flap lever adjusted
- - AeroInjector needed calibrated
+ - AeroInjector needed to be calibrated
  - Oil Changed
  - Engine and airframe inspected
  
-I performed the above maintenance and a couple days later it was time for my second test flight.  This one turned out to be quite exciting.  Words wont do it justice though.  You really aught to watch the video to see what happens.
+I performed the above maintenance and a couple days later it was time for my second test flight.  This one turned out to be quite exciting.  Words won't do it justice though.  You really ought to watch the video to see what happens.
 
-Moral: Be weary of that AeroInjector jam nut.  Make sure it's really tight, even at the expense of moving the fuel needle a bit.               
+Moral: Be wary of that AeroInjector jam nut.  Make sure it's really tight, even at the expense of moving the fuel needle a bit.               
 
 ![Soaring](/onex/img/2018-01-29/4.jpg)
 

@@ -6,9 +6,9 @@ categories: onex
 hours: 3.5
 ---
 
-On Friday I did a flight for [FlyOtto](https://www.flyotto.com/) to Montrose Colorodo.  The couple wanted to go to Telluride, which is a convenient airport nestled into the mountains minutes away from the ski resort, but it was closed due to bad weather.  Montrose is the closest airport, an hour drive north of Telluride. I'll pick them up Sunday.
+On Friday I did a flight for [FlyOtto](https://www.flyotto.com/) to Montrose Colorado.  The couple wanted to go to Telluride, which is a convenient airport nestled into the mountains minutes away from the ski resort, but it was closed due to bad weather.  Montrose is the closest airport, an hour drive north of Telluride. I'll pick them up Sunday.
 
-I cut some hinges for the horizontal tail and marked the pilot holes.  On the vertical tail I pre-drilled all the pilot holes and fortunately they lined up well with the pilot holes pre-fabricated in the skin.  But it was a scary moment when I first lines them up.  So for these hinges, I'll hold off on drilling the pilot holes until I marry them with their mounting surface.
+I cut some hinges for the horizontal tail and marked the pilot holes.  On the vertical tail I pre-drilled all the pilot holes and fortunately they lined up well with the pilot holes pre-fabricated in the skin.  But it was a scary moment when I first lined them up.  So for these hinges, I'll hold off on drilling the pilot holes until I marry them with their mounting surface.
   
 Attached 8 bolts to the rear spar.  Here the plans called for 16 washers, 2 for each bolt, whereas the prior bolted parts only called for one washer per bolt.  Not a big deal except the hardware kit only came with 20 AN906-10 washers and 6 of them had already been used elsewhere.  I emailed Sonex about this discrepancy.  So I only used one washer per bolt. I hope that's okay.
       

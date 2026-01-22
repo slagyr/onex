@@ -14,7 +14,7 @@ Here's a quick walkaround of the finished plane:
 
 ####  Weighing
 
-A required step in applying for airworthiness is calculating weight and balance.  Fellow EAA chapter 538 member, Chris Rute, has some precise scales ment for race cars.  He was kind enough to bring them over and help me out.  Each wheel goes on a separate scale and the main display shows you the weights.  It's was so sensitive that slight breezes would change the numbers.  Results:
+A required step in applying for airworthiness is calculating weight and balance.  Fellow EAA chapter 538 member, Chris Rute, has some precise scales meant for race cars.  He was kind enough to bring them over and help me out.  Each wheel goes on a separate scale and the main display shows you the weights.  It was so sensitive that slight breezes would change the numbers.  Results:
  * Right Main Gear: 294 lbs
  * Left Main Gear: 294 lbs
  * Tail Wheel: 30 lbs   
@@ -30,13 +30,13 @@ Nick's design called for the top to be solid green.  But the compound curves aro
 
 My sister Angela would see planes fly low over her house and ask me, "Was that you?"  Of course I've flown over her house before, but not all sightings were me.  She told me that I should put a big Transformers logo on the bottom of my plane so that she'd know it was me.  You see, when I was a child, Transformers were my toy of choice, for years!  I love the idea of having a transformers plane.  So for this plane I did what she suggested.  And loyal to the original 1980's Transformers, planes are Decepticons.  I was always a fan of the Constructacon's green color scheme.  
 
-These Decepticon logos took hours to make.  I printed out an image, drew a grid on the paper, and translated the points onto a 2'x2' piece of purple vinyl.  Fortunately the logo is all straight lines!  The purple was hard to see against the black, so I added a green boarder to make it pop.  
+These Decepticon logos took hours to make.  I printed out an image, drew a grid on the paper, and translated the points onto a 2'x2' piece of purple vinyl.  Fortunately the logo is all straight lines!  The purple was hard to see against the black, so I added a green border to make it pop.  
 
 Personally, I think the Decepticon logos add at least 5 points on the cool factor.  I have my own, real life, Transformer!
 
 #### Stickers
 
-A while back I reserved my tail number: N321NX, for my OneX.  Get it?  Anyway, [Sticker Mule](https://www.stickermule.com/products/vinyl-lettering) had sent me a email about their new vinyl lettering service.  I figure it could save me some time cutting letters so I bought my tail numbers.  And I also got a "Capt. Micah D Martin" sticker for the cockpit just like they do on milatary aircraft.  Technically I am a captain, an air charter captain.
+A while back I reserved my tail number: N321NX, for my OneX.  Get it?  Anyway, [Sticker Mule](https://www.stickermule.com/products/vinyl-lettering) had sent me a email about their new vinyl lettering service.  I figure it could save me some time cutting letters so I bought my tail numbers.  And I also got a "Capt. Micah D Martin" sticker for the cockpit just like they do on military aircraft.  Technically I am a captain, an air charter captain.
 
 ![Left Rear](/onex/img/2017-12-21/1.jpg)
 ![Front](/onex/img/2017-12-21/3.jpg)

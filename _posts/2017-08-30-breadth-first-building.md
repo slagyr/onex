@@ -25,13 +25,13 @@ Denny's Sonex has been flying for 9 years.  He did a wonderful job building it a
 
 ![Denny's Sonex](/onex/img/2017-08-30/3.jpg)
 
-In the afternoon after the visits, I did a bit of work on the wing fold.  I wanted to better understand how they connect and fold.  While looking at it, I notices some flat heads protruding where the outboard spar attaches.  That's not good.  So I took it apart and cleaned it up.
+In the afternoon after the visits, I did a bit of work on the wing fold.  I wanted to better understand how they connect and fold.  While looking at it, I noticed some flat heads protruding where the outboard spar attaches.  That's not good.  So I took it apart and cleaned it up.
 
 On Friday, I pulled out AirWard's fuel shutoff kit and began work.  But I couldn't figure it out so I emailed Dave.  He helped me realize that there was a missing part that I was able to pick up at the hardware store.  
 
 #### Electrical Diagrams
 
-I received the Aircraft Wiring Guild over the week end and read it.  Although short, it spelled out a lot of things that were not obvious to me.  With what I learned, I was able to draw a couple schematics (below) of the electrical system I intend to build.  This was intense! Very details oriented.  What you can't see is my spreadsheet detailing every wire; its gauge, ends points, terminators, and length.  It took about 2 days.
+I received the Aircraft Wiring Guild over the week end and read it.  Although short, it spelled out a lot of things that were not obvious to me.  With what I learned, I was able to draw a couple schematics (below) of the electrical system I intend to build.  This was intense! Very detail oriented.  What you can't see is my spreadsheet detailing every wire; its gauge, ends points, terminators, and length.  It took about 2 days.
 
 With these, I was able to order all the wires, terminators, switches, and various electrical components I should need to wire everything together.  I fear it may take quite a while to complete.
 
@@ -40,7 +40,7 @@ With these, I was able to order all the wires, terminators, switches, and variou
 
 #### Fuel Shutoff
 
-Another problem with the fuel shutoff kits is that Sonex has recently stoped building tanks with builtin ports and is including their Oops fittings instead.  The Oops fitting is a threaded, flanged tube that has to be inserted from the inside of the tank.  With a nut on the outside and rubber washers in and out, the Oops fitting seems very secure.  But Dave, from AirWard, hadn't updated his kit to accommodate the Oops fittings so I had to get a bit creative to make it work.  But it does work, nicely.
+Another problem with the fuel shutoff kits is that Sonex has recently stopped building tanks with builtin ports and is including their Oops fittings instead.  The Oops fitting is a threaded, flanged tube that has to be inserted from the inside of the tank.  With a nut on the outside and rubber washers in and out, the Oops fitting seems very secure.  But Dave, from AirWard, hadn't updated his kit to accommodate the Oops fittings so I had to get a bit creative to make it work.  But it does work, nicely.
 
 ![Fuel Shutoff](/onex/img/2017-08-30/6.jpg)
 
@@ -48,7 +48,7 @@ There's two more kits for the fuel system.  The fuel system kit, which contains 
 
 #### Cowling
 
-The fuel system is on hold so I can work on the cowling.  Cutting and sanding fiberglass.... fun.  It cuts like butter compared to metal, but fiberglass particles go everywhere (ichy), and the chemical smells can't be healthy.
+The fuel system is on hold so I can work on the cowling.  Cutting and sanding fiberglass.... fun.  It cuts like butter compared to metal, but fiberglass particles go everywhere (itchy), and the chemical smells can't be healthy.
 
 This project brings back painstaking memories of the windshield.  The cowlings have to be cut in multiple places.  Most annoying is the engine rocker covers that stick out the side on a OneX.  The cowling won't fit into place without the engine cover cut out.  And you don't know where to make the cutout without fitting the cowling into place.  So it's another game of install as much as possible, make tiny cuts, uninstall, cut, repeat.
 

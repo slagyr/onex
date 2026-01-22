@@ -14,7 +14,7 @@ Installed this yesterday.  Nothing much of interest to report.  I decided not to
 
 #### Elevator Trim
 
-The elevator trim arrived right when I finished the flaps. The cable has to be routed from the instrument panel to behind the trim lever where the two rods meet.  After considering my options, I drilled some holes in the side fuselage beams, stuck some rubber gromets in there and rand the cable.  I think it looks decent.   
+The elevator trim arrived right when I finished the flaps. The cable has to be routed from the instrument panel to behind the trim lever where the two rods meet.  After considering my options, I drilled some holes in the side fuselage beams, stuck some rubber grommets in there and ran the cable.  I think it looks decent.   
 
 ![Trim Routing](/onex/img/2017-08-16/2.jpg)
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "I Dilled, I Deburred..."
+title:  "I Drilled, I Deburred..."
 date:   2017-05-11 
 categories: onex
 hours: 9.0

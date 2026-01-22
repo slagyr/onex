@@ -6,7 +6,7 @@ categories: onex
 hours: 8.0
 ---
 
-So [OnexMike's technique](http://www.onexmike.org/canopy.html) didn't work for me.  I lined up the bow with the template and pounded it with the rubber hammer and nothing happened except a lot of bouncing.  I'm not sure how he got it to work.  No problem.  I had a plan "B" which was to make a bending break.  That worked well.  Though it was a bit of a puzzle to figure out where exactly the bends were needed.
+So [OnexMike's technique](http://www.onexmike.org/canopy.html) didn't work for me.  I lined up the bow with the template and pounded it with the rubber hammer and nothing happened except a lot of bouncing.  I'm not sure how he got it to work.  No problem.  I had a plan "B" which was to make a bending brake.  That worked well.  Though it was a bit of a puzzle to figure out where exactly the bends were needed.
 
 ![Bending Break](/onex/img/2017-05-25/1.jpg)
 ![Bent Bow](/onex/img/2017-05-25/2.jpg)

@@ -14,7 +14,7 @@ Not much to show here but I received the needed bolts and washers to finish asse
      
 #### Glare Shield
      
-This has been where most of the effort has gone in the past few days.  The glare shield is a sheet of metal that goes in front of the pilot and just under the wind shield.  It attaches to the upper firewall and the instrument panel in addition to the longerons.  The plans would have you rivet it all into place, never to be removed unless you want to drill out all the rivets.  Fortunately fellow OneX builder Denny Marick told me about the [Air Ward kit to make this glare shield removable](http://www.airward.com/amelia/search.asp?advnav=&action=Search&store=&cat=10000759&subcat_10000013=10000759&ShowImages=&ShowDetails=&menuID=873~873&id=892).  It mostly involves installing nut plate where rivets would go.  Each nut plate requires 2 extra holes where rivets will hold the nut plate on. It adds a good deal more work, but it's worth it in the end.
+This has been where most of the effort has gone in the past few days.  The glare shield is a sheet of metal that goes in front of the pilot and just under the windshield.  It attaches to the upper firewall and the instrument panel in addition to the longerons.  The plans would have you rivet it all into place, never to be removed unless you want to drill out all the rivets.  Fortunately fellow OneX builder Denny Marick told me about the [Air Ward kit to make this glare shield removable](http://www.airward.com/amelia/search.asp?advnav=&action=Search&store=&cat=10000759&subcat_10000013=10000759&ShowImages=&ShowDetails=&menuID=873~873&id=892).  It mostly involves installing nut plate where rivets would go.  Each nut plate requires 2 extra holes where rivets will hold the nut plate on. It adds a good deal more work, but it's worth it in the end.
 
 ![Glare Shield Clecoed](/onex/img/2017-05-22/1.jpg)
 ![Glare Shield Screwed](/onex/img/2017-05-22/3.jpg)
@@ -31,9 +31,9 @@ So I boiled some water and poured it in the tank.  To get a little extra help I 
 
 #### Windshield and Canopy
 
-Next up is the windshield and canopy.  Today I fabricated and prepared most of the parts.  And I studied the plans, lots.  This is not and obvious assembly.  What makes it more challenging is that it's ALL curves.  I'm going to see if I can find videos or blogs of other people who've done this.
+Next up is the windshield and canopy.  Today I fabricated and prepared most of the parts.  And I studied the plans, lots.  This is not an obvious assembly.  What makes it more challenging is that it's ALL curves.  I'm going to see if I can find videos or blogs of other people who've done this.
  
-![Windshield and Canopy PArts](/onex/img/2017-05-22/4.jpg) 
+![Windshield and Canopy Parts](/onex/img/2017-05-22/4.jpg) 
 
 
 
